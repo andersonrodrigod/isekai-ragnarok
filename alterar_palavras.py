@@ -17,23 +17,9 @@ def alterar_palavra_no_txt(caminho_arquivo):
     # Substituir "zeny" por "Zeny"
     conteudo_alterado = conteudo_alterado.replace("zeny", "Zeny")
 
-    # Numerar linhas que contêm espaçamento pela tecla Enter
-    linhas = conteudo_alterado.split('\n')
-    linhas_numeradas = []
-    numero = 1
-    for linha in linhas:
-        if linha.strip() != '' and not re.match(r'^\d+\.', linha.strip()):  # Verifica se a linha não está numerada
-            linhas_numeradas.append(f"{numero}. {linha.strip()}")
-            numero += 1
-        else:
-            linhas_numeradas.append(linha.strip())
-
-    # Reunir todas as linhas alteradas em uma string final
-    conteudo_final = '\n'.join(linhas_numeradas)
-
     # Gravar as alterações no arquivo
     with open(caminho_arquivo, 'w', encoding='utf-8') as file:
-        file.write(conteudo_final)
+        file.write(conteudo_alterado)
 
     print("Alterações realizadas com sucesso!")
 
