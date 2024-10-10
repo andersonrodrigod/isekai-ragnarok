@@ -117,3 +117,42 @@
 60. Cheguei à pousada e peguei minha chave com a Tayla, que estava atrás da recepção. Ela me olhou com um sorriso simpático. Acenei para ela e, sem perder tempo, fui para o meu quarto. Estava ansioso para descansar depois de ter cumprido todas as missões do dia.
 
 61. Quando abri a porta, porém, fui recebido por uma cena totalmente inesperada.
+
+
+
+Protagonist Data:
+
+_______________________________________
+
+Zeny: 2020
+
+
+Status:
+
+HP: 80
+SP: 34
+
+
+_______________________________________
+
+
+Inventário:
+Flower: 4 
+Broto: 4 
+Caule: 6 
+Lantana: 2 
+Felpa: 4 
+Menta: 2 
+Flor Romântica: 4 
+Flor: 4 
+Celatom: 2 
+planta da melodia: 2 
+Makulrata: 2 
+Erva Amarga: 2 
+Erva Verde: 5 
+Escama Afiada: 2 
+Aloes: 2 
+Folha de Aloe: 2 
+Folha romântica: 2 
+Erva Vermelha: 6 
+Erva Amarela: 3 
