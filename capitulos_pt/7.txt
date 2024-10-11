@@ -85,3 +85,41 @@ Aparentemente, ele parecia uma pessoa honesta. A faca que eu tinha custava apena
 "Vamos, Rox! Precisamos encontrar um lugar bom para dormir neste acampamento. Vamos evitar gastar dinheiro com hospedagem."
 
 O ferreiro, ao ouvir isso, nos olhou com um olhar compreensivo e generoso e disse: "Ei, garotos, esperem aí. Ouvi que vocês hoje não têm onde dormir. Que tal fazer companhia a este velho hoje?"
+
+
+Protagonist Data:
+
+_______________________________________
+
+Zeny: 1745
+
+
+Status:
+
+HP: 80
+SP: 34
+
+
+_______________________________________
+
+
+Inventário:
+Flower: 4 
+Broto: 4 
+Caule: 6 
+Lantana: 2 
+Felpa: 4 
+Menta: 2 
+Flor Romântica: 4 
+Flor: 4 
+Celatom: 2 
+planta da melodia: 2 
+Makulrata: 2 
+Erva Amarga: 2 
+Erva Verde: 5 
+Escama Afiada: 2 
+Aloes: 2 
+Folha de Aloe: 2 
+Folha romântica: 2 
+Erva Vermelha: 6 
+Erva Amarela: 3 
