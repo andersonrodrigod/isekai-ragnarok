@@ -14,7 +14,7 @@ Ao me aproximar do homem que vestia roupas elegantes e bem cuidadas, próprias p
 
 “Claro, mas antes, preciso informá-los sobre as taxas de utilização dos portais. Permitam-me apresentar: sou Cassius, o sentinela responsável pelos portais de Einbroch,” disse ele, com um ar de profissionalismo, enquanto cruzava os braços, exibindo uma expressão de quem tinha total controle sobre o lugar.
 
-Cassius explicou que havia uma diferença de preço entre os portais que levam às cidades e os de warps. Para portais de cidade, a taxa padrão era de mil Zenys, com exceção de Prontera, onde os custos eram ainda maiores. Já para as planícies de Prontera, ao lado do acampamento das Viperspire — a guilda mais influente da região — o custo era bem menor, apenas 200 Zenys. Além disso, receberíamos um ticket vinculado à nossa Placa de Status, permitindo que voltássemos sem custo adicional pelo portal. Contudo, esse ticket não poderia ser utilizado em portais para as cidades.
+Cassius explicou que havia uma diferença de preço entre os portais que levam às cidades e os de warps. Para portais de cidade, a taxa padrão era de mil Zenys, com exceção de Prontera, onde os custos eram ainda maiores. Já para as planícies de Prontera, ao lado do acampamento das Viperspire — a guilda mais influente da região — o custo era bem menor, apenas 200 Zenys por pessoa. Além disso, receberíamos um ticket vinculado à nossa Placa de Status, permitindo que voltássemos sem custo adicional pelo portal. Contudo, esse ticket não poderia ser utilizado em portais para as cidades.
 
 O valor parecia justo, embora eu suspeitasse que a cobrança mais alta para acessar as cidades tivesse algum propósito maior — talvez um controle rigoroso sobre quem entrava, para evitar tumultos ou problemas dentro das áreas urbanas.
 
@@ -32,6 +32,85 @@ Em um canto, à esquerda, uma imponente casa grande se destacava. O nome "Casar�
 
 Ao caminhar entre as barracas, percebi que o ambiente aqui era muito diferente de Einbroch. As roupas das pessoas refletiam um estilo mais militarizado, mais resistentes e adaptadas para o combate direto, sem os adornos urbanos que vi nas ruas da cidade. A maioria parecia estar ali por um único propósito: a luta, a exploração e a sobrevivência.
 
-Sem fazer muito alarde, continuei meu caminho até a recepção. O acampamento, embora imponente, cheirava a uma energia crua de poder militar. Quando entrei no casarão, encontrei uma grande sala, repleta de pessoas que passavam de um lado para o outro. E foi aí que, à minha direita, avistei um quadro repleto de avisos e quests.
+Sem chamar muita atenção, continuei em direção à recepção, sentindo a atmosfera de disciplina e poder militar que impregnava o ar do acampamento. Assim que entrei no Casarão de Viperspire, entrei por uma grande sala movimentada. A todo momento, pessoas iam e vinham, algumas carregando equipamentos pesados, outras parecendo discutir estratégias de batalha. O ambiente, apesar da agitação, parecia organizado, quase meticulosamente planejado para suportar a rotina de aventureiros e guerreiros.
 
-Essas quests pareciam ser os desafios que a guilda, e possivelmente outros aventureiros, estavam enfrentando naquela selva. O quadro estava repleto de missões que iam desde tarefas simples, como coletar itens, até expedições de alto risco em regiões desconhecidas da floresta. Era um sinal claro de que a guilda, e quem viesse de fora, estava se preparando para uma jornada perigosa e cheia de desafios.
+Logo à minha direita, algo chamou minha atenção: um quadro digital, diferente de qualquer coisa que eu havia visto antes no mundo dos aventureiros. A tecnologia ali se misturava com o ambiente rústico de uma maneira estranhamente harmoniosa. No topo da tela, um slide em constante rotação exibia as quests com as maiores recompensas, destacadas em fontes brilhantes e chamativas. Cada missão trazia detalhes como a localização, o tipo de monstro e a recompensa prometida, algumas delas oferecendo cifras tentadoras para quem estivesse disposto a arriscar a vida nas planices ou nas masmorras.
+
+Na parte inferior do quadro, várias outras informações rolavam, organizadas em seções. Ali, era possível ver notícias sobre os feitos recentes da guilda, atualizações de rankings e conquistas dos membros, e uma lista de quests disponíveis, com a opção de selecionar diretamente a missão desejada. Esse painel parecia ser o coração administrativo do local, uma central digital que facilitava o fluxo de informações e mantinha todos os aventureiros atualizados sobre os perigos e oportunidades ao redor.
+
+A inovação era clara: um acampamento que unia tradição com tecnologia para manter o controle de suas operações e garantir que as missões mais arriscadas fossem sempre as mais visadas.
+
+Curioso para saber mais sobre as quests, me aproximei do painel digital e tentei interagir com as opções de missões. O sistema era moderno e intuitivo, mas, assim que selecionei uma missão que parecia interessante, uma janela de pop-up surgiu na tela, bloqueando meu acesso. A mensagem dizia de forma clara:
+
+"Acesso negado. Por favor, compareça à recepção para mais informações."
+
+Suspirei, frustrado, mas decidi seguir a instrução. Talvez houvesse alguma burocracia a ser resolvida antes que eu pudesse me inscrever para uma missão. Me virei em direção à recepção, que ficava logo à frente. A fila não era tão grande, mas o fluxo constante de aventureiros me dava a sensação de que sempre haveria algo para resolver.
+
+Assim que cheguei ao balcão, um homem de barba espessa e olhos cansados me recebeu com um aceno de cabeça. Ele usava um uniforme militar, mas com o ar despreocupado de quem estava acostumado à rotina do lugar. Sua postura firme indicava que ele era alguém com certa autoridade ali.
+
+“Precisa de algo?” perguntou ele, a voz rouca, mas amigável.
+
+"Sim, tentei usar o painel digital para pegar uma quest, mas fui impedido. Um pop-up me instruiu a vir até aqui." Respondi, apontando para o painel no fundo da sala.
+
+"Ah, claro. Você não é o primeiro a se confundir com aquilo. Eu sou Rivory, o Questkeeper. Sou responsável por gerenciar as quests e missões aqui na Viperspire." Ele coçou a barba antes de continuar. "Aquele painel é exclusivo para membros oficiais da guilda. Somente eles têm acesso direto às missões através do sistema digital."
+
+"Então, como faço para pegar uma quest?"
+
+Rivory fez um gesto em direção ao lado oposto da sala, onde uma mulher loira, vestida de forma mais casual, estava sentada atrás de outro balcão, conversando com alguns outros aventureiros.
+
+"Você terá que falar com Mary. Ela cuida dos aventureiros iniciantes. Vai te explicar como tudo funciona e o que você precisa para começar. Qualquer quest que você fizer sob nossa proteção vai passar por ela."
+
+Agradeci a Rivory e me virei para Mary, pronto para descobrir o que eu precisaria fazer para finalmente conseguir uma missão. no entanto, Algo me incomodava. Seria a Viperspire realmente uma guilda legítima? Se sim, isso mudava um pouco a perspectiva que eu tinha sobre essas organizações. 
+
+Até então, quando Rose me explicou sobre guildas legítimas imaginei que todas elas funcionassem como forças militares, com o objetivo principal de garantir a ordem e proteger as terras de um lugar. Porém, ao que parecia, a Viperspire ia além disso. Ela não só mantinha um poder militar considerável, como também atuava como uma guilda de aventureiros, abrindo possibilidades para uma variedade de objetivos e missões, que iam desde combates até a exploração. Isso me fazia perceber que as guildas legítimas poderiam ser mais versáteis e multifacetadas do que eu havia imaginado.
+
+e aproximei de Mary, estendendo a mão em cumprimento. "Oi, eu sou o Azoth, e este é o Rox"Eu me apresentei com um sorriso. Mary retribuiu o cumprimento, mas sua expressão parecia carregar um leve desgaste. 
+
+"Novos aventureiros, hein?" Ela fez uma pausa e soltou um suspiro. "Essa semana está sendo uma loucura. Parece que o evento dos Otherworlders deixou o mundo pequeno demais para todos. Tem um monte de gente se aventurando por aqui, não sei como vamos dar conta."
+
+Eu aproveitei o momento para perguntar, curioso: "Então, o que exatamente eu preciso saber ou ter para explorar essas planícies de Prontera?"
+
+Mary parecia ponderar por um instante, seus olhos fixos no quadro digital à sua frente, como se estivesse pesando suas palavras. Então, sem mais demora, fechou os olhos, respirou fundo e, finalmente, disse com um tom sério: "Certo, vou começar".
+
+
+
+
+
+
+
+Protagonist Data:
+
+_______________________________________
+
+Zeny: 1820
+
+
+Status:
+
+HP: 80
+SP: 34
+
+
+_______________________________________
+
+
+Inventário:
+Flower: 4 
+Broto: 4 
+Caule: 6 
+Lantana: 2 
+Felpa: 4 
+Menta: 2 
+Flor Romântica: 4 
+Flor: 4 
+Celatom: 2 
+planta da melodia: 2 
+Makulrata: 2 
+Erva Amarga: 2 
+Erva Verde: 5 
+Escama Afiada: 2 
+Aloes: 2 
+Folha de Aloe: 2 
+Folha romântica: 2 
+Erva Vermelha: 6 
+Erva Amarela: 3 

@@ -15,5 +15,5 @@ def remover_numeracao(caminho_arquivo):
     print("Numeração removida com sucesso!")
 
 
-caminho_do_arquivo = "./capitulos_en/4.txt"
+caminho_do_arquivo = "./capitulos_pt/5.txt"
 remover_numeracao(caminho_do_arquivo)
