@@ -87,7 +87,7 @@ Zeny: 1820
 
 Status:
 
-HP: 80
+HP: 100
 SP: 34
 
 

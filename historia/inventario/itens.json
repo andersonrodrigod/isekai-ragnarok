@@ -7,49 +7,20 @@
                 "Broto": 4,
                 "Caule": 6,
                 "Lantana": 2,
-                "Felpa": 5,
+                "Felpa": 4,
                 "Menta": 2,
                 "Flor Romantica": 4,
                 "Celatom": 2,
                 "planta da melodia": 2,
                 "Makulrata": 2,
                 "Erva Amarga": 2,
-                "Erva Verde": 6,
+                "Erva Verde": 5,
                 "Escama Afiada": 2,
                 "Aloes": 2,
                 "Folha de Aloe": 2,
                 "Folha romantica": 2,
                 "Erva Vermelha": 6,
-                "Erva Amarela": 3,
-                "Trevo": 8,
-                "Jelopy": 1,
-                "Asa de Mosca": 3
-            }
-        },
-        {
-            "capitulo": 7,
-            "itens": {
-                "Flor": 4,
-                "Broto": 4,
-                "Caule": 6,
-                "Lantana": 2,
-                "Felpa": 5,
-                "Menta": 2,
-                "Flor Romantica": 4,
-                "Celatom": 2,
-                "planta da melodia": 2,
-                "Makulrata": 2,
-                "Erva Amarga": 2,
-                "Erva Verde": 6,
-                "Escama Afiada": 2,
-                "Aloes": 2,
-                "Folha de Aloe": 2,
-                "Folha romantica": 2,
-                "Erva Vermelha": 6,
-                "Erva Amarela": 3,
-                "Trevo": 8,
-                "Jelopy": 1,
-                "Asa de Mosca": 3
+                "Erva Amarela": 3
             }
         }
     ]

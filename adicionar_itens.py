@@ -1,60 +1,64 @@
 import json
 import os
 
-def ler_inventario(caminho_arquivo):
-    if not os.path.exists(caminho_arquivo):
-        return []  # Retorna uma lista vazia se o arquivo não existir
+def carregar_dados(arquivo):
+    """Carrega os dados do arquivo JSON, ou cria uma nova estrutura se o arquivo não existir."""
+    if os.path.exists(arquivo):
+        with open(arquivo, 'r') as f:
+            return json.load(f)
+    else:
+        return {"capitulos": []}
 
-    with open(caminho_arquivo, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-        return data.get("capitulos", [])  # Retorna a lista de capítulos
+def salvar_dados(arquivo, dados):
+    """Salva os dados no arquivo JSON."""
+    with open(arquivo, 'w') as f:
+        json.dump(dados, f, indent=4)
 
-def atualizar_inventario(capitulos, novos_itens, novo_capitulo):
-    # Cria um novo dicionário para os itens do novo capítulo
-    itens_novo_capitulo = {}
+def adicionar_capitulo(dados, capitulo, novos_itens):
+    """Adiciona um novo capítulo com a soma dos itens do último capítulo e novos itens."""
+    if dados['capitulos']:
+        ultimo_capitulo = dados['capitulos'][-1]
 
-    # Atualiza os itens do Capítulo 6
-    for capitulo in capitulos:
-        if capitulo['capitulo'] == 6:
-            for item, quantidade in novos_itens.items():
-                if item in capitulo['itens']:
-                    capitulo['itens'][item] += quantidade  # Soma as quantidades
-                else:
-                    capitulo['itens'][item] = quantidade  # Adiciona o novo item
-            itens_novo_capitulo.update(capitulo['itens'])  # Atualiza os itens do Capítulo 6
-            break  # Sai do loop após atualizar o Capítulo 6
+        # Criar um dicionário para armazenar a soma dos itens
+        itens_totais = ultimo_capitulo['itens'].copy()
 
-    # Adiciona os itens do novo capítulo (Capítulo 7)
-    capitulos.append({
-        "capitulo": novo_capitulo,
-        "itens": itens_novo_capitulo
-    })
-    
-    return capitulos
+        # Soma os novos itens ao total
+        for item, quantidade in novos_itens.items():
+            if item in itens_totais:
+                itens_totais[item] += quantidade
+            else:
+                itens_totais[item] = quantidade
 
-def salvar_inventario(caminho_arquivo, capitulos):
-    with open(caminho_arquivo, 'w', encoding='utf-8') as file:
-        json.dump({"capitulos": capitulos}, file, indent=4)  # Escreve o dicionário no formato JSON
+        # Adiciona um novo capítulo com os itens totais
+        novo_capitulo = {
+            "capitulo": capitulo,
+            "itens": itens_totais
+        }
+        dados['capitulos'].append(novo_capitulo)
+    else:
+        # Primeiro capítulo
+        novo_capitulo = {
+            "capitulo": capitulo,
+            "itens": novos_itens
+        }
+        dados['capitulos'].append(novo_capitulo)
 
 def main():
-    caminho_arquivo = './historia/inventario/itens.json'  # Altere para o caminho do seu arquivo JSON
-    capitulos = ler_inventario(caminho_arquivo)
+    arquivo = './historia/inventario/itens.json'
+    dados = carregar_dados(arquivo)
 
-    # Novos itens a serem adicionados ou atualizados no Capítulo 6
+    # Exemplo de novos itens a adicionar no capítulo 7
     novos_itens = {
-        'Felpa': 1,
-        'Trevo': 8,
-        'Jelopy': 1,
-        'Erva Verde': 1,
-        'Asa de Mosca': 3
+        "Flor": 2,
+        "Broto": 1,
+        "Novo Item": 3
     }
 
-    # Atualiza o inventário e adiciona o Capítulo 7
-    capitulos = atualizar_inventario(capitulos, novos_itens, 7)
-    # Salva o inventário atualizado
-    salvar_inventario(caminho_arquivo, capitulos)
+    capitulo_atual = 7
+    adicionar_capitulo(dados, capitulo_atual, novos_itens)
+    salvar_dados(arquivo, dados)
 
-    print("Inventário atualizado com sucesso!")
-
+    print("Dados atualizados com sucesso!")
+    
 if __name__ == "__main__":
     main()
