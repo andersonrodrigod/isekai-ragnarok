@@ -1,20 +1,46 @@
 {
     "capitulos": [
         {
-            "capitulo": 0,
-            "saldo": 0
+            "capitulo": 1,
+            "ganhos": 0,
+            "gastos": 200,
+            "saldo": 800
+        },
+        {
+            "capitulo": 2,
+            "ganhos": 160,
+            "gastos": 700,
+            "saldo": 180
+        },
+        {
+            "capitulo": 3,
+            "ganhos": 0,
+            "gastos": 0,
+            "saldo": 580
+        },
+        {
+            "capitulo": 4,
+            "ganhos": 2000,
+            "gastos": 500,
+            "saldo": 2020
+        },
+        {
+            "capitulo": 5,
+            "ganhos": 0,
+            "gastos": 0,
+            "saldo": 2020
         },
         {
             "capitulo": 6,
-            "ganhos": 500,
-            "gastos": 100,
-            "saldo": 400
+            "ganhos": 0,
+            "gastos": 200,
+            "saldo": 1820
         },
         {
             "capitulo": 7,
-            "ganhos": 200,
-            "gastos": 0,
-            "saldo": 600
+            "ganhos": 700,
+            "gastos": 280,
+            "saldo": 1745
         }
     ]
 }

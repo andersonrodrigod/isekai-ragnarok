@@ -77,7 +77,7 @@
 48. ---------------------
 49. Daily Expenses:
 50. Accommodation: 700 zeny
-51. Meal: 20 zeny
+51.
 52. ---------------------
 53. Inventory:
 54. Flower: 2
