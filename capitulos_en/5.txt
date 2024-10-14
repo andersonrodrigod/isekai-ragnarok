@@ -20,7 +20,7 @@ He tried to compose himself, with a nervous smile on his face, but failed. "Yes!
 
 "Ah, it's just... one thing, it's... I'm kind of... nervous about change, you know? Change of environment, new people... that sort of thing." He took a deep breath, as if preparing to face an invisible monster.
 
-"But we're going to do our best, right? It's going to be smooth! I promise!", said Rox 
+"But we're going to do our best, right? It's going to be smooth! I promise!", said Rox 
 
 The scene was so unusual that I couldn't help but laugh. Rox looked like he was getting ready to face a dragon, but all he had to do was share a room with me.
 
@@ -104,7 +104,6 @@ Rose smiled slightly, noticing my confusion. "Well, on the outskirts of Prontera
 
 After hearing Rose's response, I said goodbye and headed towards the Portal Watchers, ready to venture into the plains around Prontera.
 
-
 _______________________________________
 
 Protagonist Date:
@@ -116,7 +115,7 @@ Zeny: 2020
 Status:
 
 HP: 100
-SP: 35
+MP: 35
 
 _______________________________________
 
@@ -141,6 +140,7 @@ Aloe Leaf: 2
 Romantic Leaf: 2
 Red Herb: 6
 Yellow Herb: 3
+
 
 
 

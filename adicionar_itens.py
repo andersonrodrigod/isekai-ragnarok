@@ -49,12 +49,10 @@ def main():
 
     # Exemplo de novos itens a adicionar no capítulo 7
     novos_itens = {
-        "Flor": 2,
-        "Broto": 1,
-        "Novo Item": 3
+        
     }
 
-    capitulo_atual = 7
+    capitulo_atual = 8
     adicionar_capitulo(dados, capitulo_atual, novos_itens)
     salvar_dados(arquivo, dados)
 
