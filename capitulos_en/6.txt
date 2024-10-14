@@ -1,4 +1,4 @@
-1. After leaving the Adventurers' Guild, we headed towards the imposing mansion that stood in front of the main square of Einbroch. That was where the Portal Watchers were. As we approached, I noticed that there didn't seem to be any sort of charge to enter, which was a relief.
+1. After leaving the Adventurers' Guild, we headed towards the imposing mansion that stood in front of the main square of Einbroch. That was where the Portal Watchers (Gatewatchers' Guild soa melhor) were. As we approached, I noticed that there didn't seem to be any sort of charge to enter, which was a relief (mas não é dito mais pra frente que tem um custo? remove essa parte.
 
 2. As soon as we walked through the door, I was immediately struck by the stark difference from the rest of the city. Einbroch, with its dirty, dark environment marked by cyberpunk-style industrial chaos, was in complete contrast to what I saw before me. The mansion looked otherworldly. The walls were covered in white marble, polished to reflect the soft light from the crystal chandeliers that hung from the ceiling. The floor gleamed, made of a material that looked like granite, and imposing columns stretched to the high ceiling, supporting the structure as if it were a palace.
 
@@ -14,17 +14,17 @@
 
 8. “Of course, but first, I need to inform you about the fees for using the portals. Allow me to introduce myself: I am Cassius, the sentry responsible for the portals of Einbroch,” he said, with an air of professionalism, while crossing his arms, showing an expression of someone who had complete control over the place.
 
-9. Cassius explained that there was a price difference between portals that lead to cities and warp portals. For city portals, the standard fee was one thousand Zenys, with the exception of Prontera, where the costs were even higher. For the Prontera plains, next to the Viperspire camp — the most influential guild in the region — the cost was much lower, just 200 Zenys per person. Additionally, we would receive a ticket linked to our Status Board, allowing us to return at no additional cost through the portal. However, this ticket could not be used on portals to cities.
+9. Cassius explained that there was a price difference between portals that lead to cities and warp portals. For city portals, the standard fee was one thousand Zenys, with the exception of Prontera, where the costs were even higher (diz logo o preço). For the Prontera plains, next to the Viperspire Camp — the most influential guild in the region — the cost was much lower, just 200 Zenys per person. Additionally, we would receive a ticket linked to our Status Board, allowing us to return at no additional cost through the portal. However, this ticket could not be used on portals to cities (como assim, o qq esse ticket faz exatamente? bom colocar o Cassius falando).
 
 10. The price seemed fair, although I suspected that the higher charge to access the cities had some greater purpose — perhaps strict control over who entered, to avoid riots or problems within urban areas.
 
-11. "Okay, me and my friend here are going to want to go to Prontera," he said, gesturing to Rox.
+11. "Okay, me and my friend here are going to want to go to Prontera Plains," he said, gesturing to Rox (ele vai pra prontera mesmo? ele tem 10k zeny? vale a pena gastar toda essa grana? porque que ele não vai pra selva de prontera que é mais barata? corrigido mudei pra Prontera Plains).
 
-12. Rox nodded to the sentry, who then led us to a spot where there was a portal marked on the ground. He explained that once we positioned ourselves in the center, we would automatically be transported to the Prontera Plains.
+12. Rox (Rox é um nome muito feminino) nodded to the sentry, who then led us to a spot where there was a portal marked on the ground. He explained that once we positioned ourselves in the center, we would automatically be transported to the Prontera Plains.
 
 13. As soon as I followed Cassius' instructions and positioned myself in the center of the portal, the sensation of displacement was almost imperceptible, as if the air around me had distorted for a moment. When the magical effects stopped, I found myself in an entirely different scenario.
 
-14. It was as if he had been transported directly to the heart of a large jungle, where the guild camp was set up. The sun was still low in the sky, illuminating the vast plains in the distance, and for the first time since I arrived, I saw the sky clear, without the thick smoke that enveloped the city of Einbroch. Birds flew serenely above, cutting the sky in smooth lines, and all across the horizon, huge trees stretched, some covered in dense foliage, while others revealed the vastness of the plain.
+14. It was as if I (mudou pra terceira pessoa do nada pq? corrigido) had been transported directly to the heart of a large jungle, where the guild camp was set up. The sun was still low in the sky, illuminating the vast plains in the distance, and for the first time since I arrived, I saw the sky clear, without the thick smoke that enveloped the city of Einbroch. Birds flew serenely above, cutting the sky in smooth lines, and all across the horizon, huge trees stretched, some covered in dense foliage, while others revealed the vastness of the plain.
 
 15. The atmosphere was fresh and, unlike the industrial city, here there was a feeling of freedom and calm, as if nature itself was in tune with the adventurers preparing to explore the jungle. The camp, with its various tents and tents, had a military vibe, with sturdy, well-organized structures. It was clear that there weren't just adventurers here; there was also an organized force, prepared for any type of combat that the jungle required.
 
@@ -52,7 +52,7 @@
 
 27. "Yes, I tried to use the digital panel to get a quest, but I was blocked. A pop-up instructed me to come here." I replied, pointing to the panel at the back of the room.
 
-28. "Ah, of course. You're not the first to be confused by that. I'm Rivory, the Questkeeper. I'm responsible for managing the quests and missions here at Viperspire." He stroked his beard before continuing. "That panel is exclusive to official guild members. Only they have direct access to missions through the digital system."
+28. "Ah, of course (removi a parte inútil). I'm Rivory, the Questkeeper. I'm responsible for managing the quests and missions here at Viperspire." He stroked his beard before continuing. "That panel is exclusive to official guild members. Only they have direct access to missions through the digital system."
 
 29. "So how do I get a quest?"
 
@@ -62,15 +62,15 @@
 
 32. I thanked Rivory and turned to Mary, ready to find out what I would need to do to finally get a quest. However, something bothered me. Is Viperspire really a legitimate guild? If so, that changed the perspective I had on these organizations a little.
 
-33. Until then, when Rose explained to me about legitimate guilds, I imagined that they all functioned like military forces, with the main objective of ensuring order and protecting the lands of a place. However, it seemed that Viperspire went beyond that. Not only did it maintain considerable military power, it also acted as an adventurers' guild, opening up possibilities for a variety of goals and missions, ranging from combat to exploration. This made me realize that legitimate guilds could be more versatile and multifaceted than I had imagined.
+33. Until then, when Rose explained to me about legitimate guilds, I imagined that they all functioned like military forces, with the main objective of ensuring order and protecting the lands of a place (a explicação da Rose não passou essa impressão). However, it seemed that Viperspire went beyond that. Not only did it maintain considerable military power, it also acted as an adventurers' guild, opening up possibilities for a variety of goals and missions, ranging from combat to exploration. This made me realize that legitimate guilds could be more versatile and multifaceted than I had imagined.
 
-34. and I approached Mary, extending my hand in greeting. "Hi, I'm Azoth, and this is Rox"I introduced myself with a smile. Mary returned the greeting, but her expression seemed to carry a slight wear.
+34. As Rox (essa parte aqui tava vazia, corrigido) and I approached Mary, extending my hand in greeting. "Hi, I'm Azoth, and this is Rox" I introduced myself with a smile. Mary returned the greeting, but her expression seemed to carry a slight wear.
 
 35. "New adventurers, huh?" She paused and let out a sigh. "This week has been crazy. It seems like the Otherworlders event has made the world too small for everyone. There are a lot of people adventuring here, I don't know how we're going to keep up."
 
 36. I took the moment to ask, curiously, "So, what exactly do I need to know or have to explore these plains of Prontera?"
 
-37. Mary seemed to ponder for a moment, her eyes fixed on the digital board in front of her, as if she were weighing her words. Then, without further delay, he closed his eyes, took a deep breath, and finally said in a serious tone, "Okay, I'll start."
+37. Mary seemed to ponder for a moment, her eyes fixed on the digital board in front of her, as if she were weighing her words. Then, without further delay, he closed his eyes, took a deep breath, and finally said in a serious tone, "Okay, I'll start." (estranho todo esse ritual mas sei lá, dependendo do motivo...)
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-38. Protagonist Date:
+38. Protagonist Data (não é date, é data):
 
 39. _______________________________________
 
