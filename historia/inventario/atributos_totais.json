@@ -1,0 +1,21 @@
+{
+    "atributos_base": {
+        "STR": 9,
+        "AGI": 4,
+        "VIT": 0,
+        "INT": 1,
+        "DEX": 9,
+        "LUK": 0,
+        "efeito_passivo": "Aumenta o dano de ataque em 15%Aumenta o dano de ataque em 15% Aumenta o ataque em 10%",
+        "efeito_ativo": "Causa um ataque de fogoCausa um ataque de fogo Aumenta a for\u00e7a temporariamente"
+    },
+    "atributos_derivados": {
+        "ATQ": 9,
+        "MATQ": 1.5,
+        "HIT": 18,
+        "Critical": 0.0,
+        "DEF": 0.0,
+        "MDEF": 0.5,
+        "flee": 6.0
+    }
+}

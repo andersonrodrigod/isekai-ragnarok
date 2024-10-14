@@ -79,3 +79,49 @@ O ritual foi simples, mas carregado de simbolismo. Em uma mesa à nossa frente, 
 Quando a cerimônia terminou, algo dentro de mim mudou. Peguei a moeda caída aos meus pés e a observei. A sensação de ser um mercador agora era real. Eu me sentia mais confiante, como se pudesse enxergar oportunidades onde antes via apenas obstáculos. A habilidade de calcular lucros, prever a valorização de itens e fazer negociações astutas parecia fazer parte de mim de forma instintiva.
 
 O Mercador Sênior, então, nos olhou e declarou que agora estávamos oficialmente formados como mercadores. Ele nos indicou que o pagamento seria feito ao assistente, que estava à espera ao lado, e informou que algumas novas funcionalidades estariam disponíveis na nossa placa de status que ele iria explciar.
+
+
+
+Protagonist Data:
+
+_______________________________________
+
+Zeny: 845
+
+
+Status:
+
+HP: 130/130
+MP: 38/38
+
+
+_______________________________________
+
+
+Inventário:
+
+Itens:
+
+Flower: 4 
+Broto: 4 
+Caule: 6 
+Lantana: 2 
+Felpa: 4 
+Menta: 2 
+Flor Romântica: 4 
+Flor: 4 
+Celatom: 2 
+planta da melodia: 2 
+Makulrata: 2 
+Erva Amarga: 2 
+Erva Verde: 6
+Escama Afiada: 2 
+Aloes: 2 
+Folha de Aloe: 2 
+Folha romântica: 2 
+Erva Vermelha: 6 
+Erva Amarela: 3 
+
+Equipamentos:
+
+Clava [3]

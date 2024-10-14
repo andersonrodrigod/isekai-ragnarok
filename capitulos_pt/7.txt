@@ -116,7 +116,7 @@ Celatom: 2
 planta da melodia: 2 
 Makulrata: 2 
 Erva Amarga: 2 
-Erva Verde: 5 
+Erva Verde: 6
 Escama Afiada: 2 
 Aloes: 2 
 Folha de Aloe: 2 

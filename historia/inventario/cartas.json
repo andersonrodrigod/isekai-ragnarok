@@ -1,0 +1,25 @@
+{
+    "cartas": [
+        {
+            "nome": "Carta do Dragao",
+            "atributos": {
+                "ATQ": 10,
+                "MATQ": 5,
+                "HIT": 2,
+                "Critical": 3,
+                "DEF": 0,
+                "MDEF": 0,
+                "flee": 1,
+                "aspd": 0,
+                "STR": 2,
+                "AGI": 1,
+                "VIT": 0,
+                "INT": 0,
+                "DEX": 3,
+                "LUK": 0,
+                "efeito_passivo": "Aumenta o dano de ataque em 15%",
+                "efeito_ativo": "Causa um ataque de fogo"
+            }
+        }
+    ]
+}

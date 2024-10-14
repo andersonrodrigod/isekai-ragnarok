@@ -37,7 +37,7 @@
                 "planta da melodia": 2,
                 "Makulrata": 2,
                 "Erva Amarga": 2,
-                "Erva Verde": 5,
+                "Erva Verde": 6,
                 "Escama Afiada": 2,
                 "Aloes": 2,
                 "Folha de Aloe": 2,
@@ -46,7 +46,6 @@
                 "Erva Amarela": 3,
                 "Trevos": 8,
                 "Jelopy": 1,
-                "Erva verde": 1,
                 "Asa de Mosca": 3
             }
         },
@@ -64,7 +63,7 @@
                 "planta da melodia": 2,
                 "Makulrata": 2,
                 "Erva Amarga": 2,
-                "Erva Verde": 5,
+                "Erva Verde": 6,
                 "Escama Afiada": 2,
                 "Aloes": 2,
                 "Folha de Aloe": 2,
@@ -73,8 +72,11 @@
                 "Erva Amarela": 3,
                 "Trevos": 8,
                 "Jelopy": 1,
-                "Erva verde": 1,
-                "Asa de Mosca": 3
+                "Asa de Mosca": 3,
+                "Cenoura Arco-Iris": 2
+            },
+            "equipamentos": {
+                "Clava [3]": 1
             }
         }
     ]
