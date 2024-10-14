@@ -1,8 +1,16 @@
 {
     "buffs": [
         {
-            "nome": "Buff da Forca",
+            "nome": "Buff da For\u00e7a",
             "atributos": {
+                "STR": 3,
+                "AGI": 0,
+                "VIT": 0,
+                "INT": 0,
+                "DEX": 2,
+                "LUK": 0
+            },
+            "atributos_derivados": {
                 "ATQ": 5,
                 "MATQ": 0,
                 "HIT": 3,
@@ -11,12 +19,6 @@
                 "MDEF": 0,
                 "flee": 0,
                 "aspd": 0,
-                "STR": 3,
-                "AGI": 0,
-                "VIT": 0,
-                "INT": 0,
-                "DEX": 2,
-                "LUK": 0,
                 "efeito_passivo": "Aumenta o ataque em 10%",
                 "efeito_ativo": "Aumenta a for\u00e7a temporariamente"
             }

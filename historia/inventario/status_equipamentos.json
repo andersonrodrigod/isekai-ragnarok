@@ -1,0 +1,20 @@
+{
+    "atributos_totais": {
+        "STR": 2,
+        "AGI": 1,
+        "VIT": 0,
+        "INT": 0,
+        "DEX": 3,
+        "LUK": 0
+    },
+    "atributos_derivados_totais": {
+        "ATQ": 27,
+        "MATQ": 5,
+        "HIT": 2,
+        "Critical": 3,
+        "DEF": 10,
+        "MDEF": 0,
+        "flee": 1,
+        "aspd": 0
+    }
+}

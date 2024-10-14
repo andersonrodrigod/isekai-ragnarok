@@ -14,11 +14,12 @@ def salvar_dados(arquivo, dados):
     with open(arquivo, 'w') as f:
         json.dump(dados, f, indent=4)
 
-def adicionar_buff(dados, nome_buff, atributos):
-    """Adiciona um novo buff com seus atributos."""
+def adicionar_buff(dados, nome_buff, atributos, atributos_derivados):
+    """Adiciona um novo buff com seus atributos e atributos derivados."""
     novo_buff = {
         "nome": nome_buff,
-        "atributos": atributos
+        "atributos": atributos,
+        "atributos_derivados": atributos_derivados
     }
     dados['buffs'].append(novo_buff)
 
@@ -26,11 +27,21 @@ def main():
     arquivo = './historia/inventario/buffs.json'
     dados = carregar_dados(arquivo)
 
-    # Definindo o nome do buff e os atributos diretamente
+    # Definindo o nome do buff
     nome_buff = "Buff da Força"  # Exemplo de nome de buff
 
     # Definindo os atributos do buff
     atributos = {
+        "STR": 3,
+        "AGI": 0,
+        "VIT": 0,
+        "INT": 0,
+        "DEX": 2,
+        "LUK": 0,
+    }
+
+    # Definindo os atributos derivados do buff
+    atributos_derivados = {
         "ATQ": 5,
         "MATQ": 0,
         "HIT": 3,
@@ -39,17 +50,11 @@ def main():
         "MDEF": 0,
         "flee": 0,
         "aspd": 0,
-        "STR": 3,
-        "AGI": 0,
-        "VIT": 0,
-        "INT": 0,
-        "DEX": 2,
-        "LUK": 0,
         "efeito_passivo": "Aumenta o ataque em 10%",
         "efeito_ativo": "Aumenta a força temporariamente",
     }
 
-    adicionar_buff(dados, nome_buff, atributos)
+    adicionar_buff(dados, nome_buff, atributos, atributos_derivados)
     salvar_dados(arquivo, dados)
 
     print("Buff adicionado com sucesso!")

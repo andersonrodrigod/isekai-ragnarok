@@ -14,11 +14,12 @@ def salvar_dados(arquivo, dados):
     with open(arquivo, 'w') as f:
         json.dump(dados, f, indent=4)
 
-def adicionar_equipamento(dados, nome_equipamento, atributos):
-    """Adiciona um novo equipamento com seus atributos."""
+def adicionar_equipamento(dados, nome_equipamento, atributos, atributos_derivados):
+    """Adiciona um novo equipamento com seus atributos e atributos derivados."""
     novo_equipamento = {
         "nome": nome_equipamento,
-        "atributos": atributos
+        "atributos": atributos,
+        "atributos_derivados": atributos_derivados
     }
     dados['equipamentos'].append(novo_equipamento)
 
@@ -26,30 +27,34 @@ def main():
     arquivo = './historia/inventario/equipamentos.json'
     dados = carregar_dados(arquivo)
 
-    # Definindo o nome do equipamento e os atributos diretamente
-    nome_equipamento = "Clava [3]"  # Exemplo de nome de equipamento
+    # Definindo o nome do equipamento
+    nome_equipamento = "Camisa de Algodão"  # Exemplo de nome de equipamento
 
     # Definindo os atributos do equipamento
     atributos = {
-        "ATQ": 10,
-        "MATQ": 5,
-        "HIT": 2,
-        "Critical": 3,
-        "DEF": 0,
-        "MDEF": 0,
-        "flee": 1,
-        "aspd": 0,
-        "STR": 2,
-        "AGI": 1,
+        "STR": 0,
+        "AGI": 0,
         "VIT": 0,
         "INT": 0,
-        "DEX": 3,
+        "DEX": 0,
         "LUK": 0,
+    }
+
+    # Definindo os atributos derivados do equipamento
+    atributos_derivados = {
+        "ATQ": 17,
+        "MATQ": 0,
+        "HIT": 0,
+        "Critical": 0,
+        "DEF": 0,
+        "MDEF": 0,
+        "flee": 0,
+        "aspd": 0,
         "efeito_passivo": "Aumenta o dano de ataque em 15%",
         "efeito_ativo": "Causa um ataque de fogo",
     }
 
-    adicionar_equipamento(dados, nome_equipamento, atributos)
+    adicionar_equipamento(dados, nome_equipamento, atributos, atributos_derivados)
     salvar_dados(arquivo, dados)
 
     print("Equipamento adicionado com sucesso!")

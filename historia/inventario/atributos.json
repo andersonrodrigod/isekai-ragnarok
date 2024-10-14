@@ -1,25 +1,20 @@
 {
     "capitulos": [
         {
-            "capitulo": 8,
-            "atributos": {
-                "STR": 2,
-                "AGI": 1,
-                "VIT": 0,
-                "INT": 1,
-                "DEX": 1,
-                "LUK": 0
-            }
-        },
-        {
             "capitulo": 9,
             "atributos": {
-                "STR": 2,
-                "AGI": 2,
+                "STR": 10,
+                "AGI": 0,
                 "VIT": 0,
-                "INT": 1,
+                "INT": 0,
                 "DEX": 1,
                 "LUK": 0
+            },
+            "status_geral": {
+                "HP": 120,
+                "MP": 60,
+                "nivel": 5,
+                "nivel_classe": 2
             }
         }
     ]
