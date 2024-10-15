@@ -1,0 +1,44 @@
+{
+    "capitulos": [
+        {
+            "capitulo": 1,
+            "dias_passados": 1,
+            "dia_atual": 1
+        },
+        {
+            "capitulo": 2,
+            "dias_passados": 0,
+            "dia_atual": 2
+        },
+        {
+            "capitulo": 3,
+            "dias_passados": 1,
+            "dia_atual": 2
+        },
+        {
+            "capitulo": 4,
+            "dias_passados": 3,
+            "dia_atual": 3
+        },
+        {
+            "capitulo": 5,
+            "dias_passados": 1,
+            "dia_atual": 6
+        },
+        {
+            "capitulo": 6,
+            "dias_passados": 0,
+            "dia_atual": 7
+        },
+        {
+            "capitulo": 7,
+            "dias_passados": 1,
+            "dia_atual": 7
+        },
+        {
+            "capitulo": 8,
+            "dias_passados": 1,
+            "dia_atual": 8
+        }
+    ]
+}

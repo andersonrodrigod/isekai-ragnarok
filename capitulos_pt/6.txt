@@ -93,7 +93,7 @@
 
 
 45. Inventário:
-46. Flower: 4
+46. Flor: 4
 47. Broto: 4
 48. Caule: 6
 49. Lantana: 2

@@ -1,0 +1,169 @@
+
+
+capítulo 7:
+
+
+Lunático: 15
+Trevo: 8x
+Pluma: 4x
+Cenoura: 7x
+Asa de Mosca: 2x
+
+
+Fabre: 10
+Felpa: 7x
+Asa de Mosca: lx
+Erva Verde: 3x
+Trevo: lx
+Clava [3] : 2x
+
+
+lunatico alfa: 8
+Trevo: 8x
+Pluma: 8x
+Cenoura: 8x
+Asa de Mosca: lx
+
+
+Poring: 15
+Jellopy: 8x
+Maçã: 4X
+Asa de Mosca: 2x
+
+
+
+Felpa: 7
+Trevo: 17
+Pluma: 12
+Cenoura: 15
+Asa de Mosca: 6
+Erva Verde: 3
+Jellopy: 8
+Maçã: 4
+
+
+Missão:
+10 Plumas
+12 Cenouras
+5 Felpas
+6 Jellopy
+2 Erva Verdes
+4 Maçã
+
+sobrou:
+2 Felpas
+17 Trevos
+3 Cenouras
+2 Jelopy
+1 Erva Verde
+
+Dividido:
+1 Felpa
+8 Trevos
+1 Jelopy
+1 Erva verde
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+capítulo 8:
+
+
+
+Fabre: 25
+Felpa: 18x
+Clava [4]: 1x
+Erva Verde: 11x
+Clava [3]: 1x
+Pluma: 3x
+Trevo: 3x
+
+
+
+lunático alfa:5
+Trevo: 5x
+Pluma: 5x
+Cenoura: 5x
+Cenoura Arco-Íris: 1x
+
+
+lunático: 10
+Cenoura: 2x
+Trevo: 6x
+Pluma: 1x
+
+
+Quest:
+
+16 Felpas
+10 Ervas verdes
+8 Plumas
+5 Cenoura
+
+
+Dividido: 
+1 Cenoura Arco-Íris
+1 Clava [3]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+cpítulo 9:
+
+
+primeiro dia:            segundo dia:              terceiro dia:
+7 Lunático               8 Lunático                10 Lunático
+3 Fabre                  4 Fabre                   5 Fabre
+3 Lunático Alfa          4 Lunático Alfa           5 Lunático Alfa
+12 porings               16 porings                20 porings
+
+
+Itens primeiro dia:                 Itens segundo dia:                Itens terceiro dia:                      
+Cenoura: 2x                         Trevo: 6x                         Cenoura: 3x
+Asa de Mosca: 2x                    Pluma: 1x                         Trevo: 5x
+Trevo: 4x                           Cenoura: 3x                       Pluma: 4x
+Pluma: 1x                           Felpa: 2x                         Felpa: 4x
+Felpa: 2x                           Erva Verde: 2x                    Clava [3]: 1x
+Asa de Mosca: 1x                    Trevo: 2x                         Erva Verde: 1x
+Erva Verde: 1x                      Asa de Mosca: 1x                  Trevo: 1x
+Trevo: 3x                           Trevo: 4x                         Trevo: 5x
+Pluma: 3x                           Pluma: 4x                         Pluma: 5x
+Cenoura: 3x                         Cenoura: 4x                       Cenoura: 5x
+Jellopy: 10x                        Jellopy: 10x                      Espada [4]: 1x
+Maçã: 1x                            Muco Pegajoso: 1x                 Asa de Mosca: 1x
+Muco Pegajoso: 1x                   Maçã: 1x                          Maçã: 2x
+                                                                       Jellopy: 10x
+                                                                       Asa de Mosca: 1x
+
+ Total:
+Cenoura: 23x
+Asa de Mosca: 6x
+Trevo: 30x
+Pluma: 18x
+Felpa: 8x
+Erva Verde: 4x
+Jellopy: 30x
+Maçã: 4x
+Muco Pegajoso: 2x
+Clava [3]: 1x
+Espada [4]: 1x
+
+quest:                     total pós quest:
+Cenouras: 20              Cenoura: 3x
+Trevos: 20                Asa de Mosca: 6x
+Plumas: 15                Trevo: 10x
+Jellopy: 20               Pluma: 3x
+Felpas: 8                 Erva Verde: 2x
+Erva Verde: 2             Jellopy: 10x
+Maçã: 2                   Maçã: 2x
+                         Muco Pegajoso: 2x
+                         Clava [3]: 1x
+                         Espada [4]: 1x
+
+
+                                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+

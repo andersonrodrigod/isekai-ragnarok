@@ -78,6 +78,43 @@
             "equipamentos": {
                 "Clava [3]": 1
             }
+        },
+        {
+            "capitulo": 9,
+            "itens": {
+                "Flor": 4,
+                "Broto": 4,
+                "Caule": 6,
+                "Lantana": 2,
+                "Felpa": 5,
+                "Menta": 2,
+                "Flor Romantica": 4,
+                "Celatom": 2,
+                "planta da melodia": 2,
+                "Makulrata": 2,
+                "Erva Amarga": 2,
+                "Erva Verde": 8,
+                "Escama Afiada": 2,
+                "Aloes": 2,
+                "Folha de Aloe": 2,
+                "Folha romantica": 2,
+                "Erva Vermelha": 6,
+                "Erva Amarela": 3,
+                "Trevos": 8,
+                "Jelopy": 1,
+                "Asa de Mosca": 9,
+                "Cenoura Arco-Iris": 2,
+                "Cenoura": 3,
+                "Trevo": 10,
+                "Pluma": 3,
+                "Jellopy": 10,
+                "Maca": 2,
+                "Muco Pegajoso": 2
+            },
+            "equipamentos": {
+                "Clava [3]": 2,
+                "Espada [4]": 1
+            }
         }
     ]
 }

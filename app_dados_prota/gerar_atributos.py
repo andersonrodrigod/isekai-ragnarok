@@ -6,6 +6,7 @@ atributos_path = './historia/inventario/atributos.json'
 status_equipamentos_path = './historia/inventario/status_equipamentos.json'
 atributos_totais_path = './historia/inventario/atributos_totais.json'
 atributos_finais_path = './historia/inventario/atributos_finais.json'
+buffs_path = './historia/inventario/buffs.json'
 
 # Função para calcular atributos finais
 def calcular_atributos_finais():
@@ -23,6 +24,10 @@ def calcular_atributos_finais():
     # Lê os atributos totais
     with open(atributos_totais_path, 'r') as f:
         atributos_totais = json.load(f)
+
+    # Lê os buffs
+    with open(buffs_path, 'r') as f:
+        buffs_data = json.load(f)
 
     # Inicializa um dicionário para os atributos finais
     atributos_finais = {
@@ -57,6 +62,15 @@ def calcular_atributos_finais():
             atributos_finais[key] += status_equipamentos['atributos_derivados_totais'][key]
         if key in atributos_totais:
             atributos_finais[key] += atributos_totais[key]
+
+    # Soma os atributos e atributos derivados dos buffs
+    for buff in buffs_data['buffs']:
+        for key in buff['atributos']:
+            if key in atributos_finais:
+                atributos_finais[key] += buff['atributos'][key]
+        for key in buff['atributos_derivados']:
+            if key in atributos_finais:
+                atributos_finais[key] += buff['atributos_derivados'][key]
 
     return atributos_finais
 

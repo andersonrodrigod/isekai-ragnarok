@@ -28,7 +28,7 @@ def main():
     dados = carregar_dados(arquivo)
 
     # Definindo o nome do equipamento
-    nome_equipamento = "Camisa de Algodão"  # Exemplo de nome de equipamento
+    nome_equipamento = "Clava [3]"  # Exemplo de nome de equipamento
 
     # Definindo os atributos do equipamento
     atributos = {
@@ -42,7 +42,7 @@ def main():
 
     # Definindo os atributos derivados do equipamento
     atributos_derivados = {
-        "ATQ": 17,
+        "ATQ": 23,
         "MATQ": 0,
         "HIT": 0,
         "Critical": 0,
