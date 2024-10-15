@@ -11,8 +11,8 @@
                 "LUK": 0
             },
             "status_geral": {
-                "HP": 120,
-                "MP": 60,
+                "HP": 240,
+                "MP": 80,
                 "nivel": 5,
                 "nivel_classe": 2
             }

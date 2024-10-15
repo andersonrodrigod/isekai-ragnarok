@@ -1,18 +1,18 @@
 {
-    "STR": 13,
+    "STR": 10,
     "AGI": 0,
     "VIT": 0,
     "INT": 0,
-    "DEX": 3,
+    "DEX": 1,
     "LUK": 0,
-    "ATQ": 38,
+    "ATQ": 33,
     "MATQ": 1.0,
-    "HIT": 4,
-    "Critical": 2,
+    "HIT": 1,
+    "Critical": 0,
     "DEF": 10,
     "MDEF": 0,
     "flee": 0,
     "aspd": 0,
-    "HP": 120,
-    "MP": 60
+    "HP": 240,
+    "MP": 80
 }

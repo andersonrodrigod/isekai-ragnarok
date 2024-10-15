@@ -72,3 +72,60 @@ Ao sair da guilda, notei uma mesa de inscrição e fiquei curioso. Me aproximei 
 "Ótimo! Assim que você alcançar o nível necessário, volte aqui. Estaremos esperando" — ele disse, acenando com a cabeça.
 
 Depois desse breve diálogo percebi que ainda precisava ficar mais forte apesar de ser meu nono dia nesse mundo me sinto limitado quanto aos outros ex-jogadores de ragnarok será que estão em uma caminho mais fácil?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Itens:
+
+Flor: 4
+Broto: 4
+Caule: 6
+Lantana: 2
+Felpa: 5
+Menta: 2
+Flor Romântica: 4
+Celatom: 2
+Planta da Melodia: 2
+Makulrata: 2
+Erva Amarga: 2
+Erva Verde: 8
+Escama Afiada: 2
+Aloes: 2
+Folha de Aloe: 2
+Folha Romântica: 2
+Erva Vermelha: 6
+Erva Amarela: 3
+Trevos: 8
+Jelopy: 1
+Asa de Mosca: 9
+Cenoura Arco-Íris: 2
+Cenoura: 3
+Trevo: 10
+Pluma: 3
+Jellopy: 10
+Maçã: 2
+Muco Pegajoso: 2
+
+Equipamentos:
+
+Clava [3]: 2
+Espada [4]: 1

@@ -102,7 +102,7 @@ Inventário:
 
 Itens:
 
-Flower: 4 
+Flor: 4 
 Broto: 4 
 Caule: 6 
 Lantana: 2 
