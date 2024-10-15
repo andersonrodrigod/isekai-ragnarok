@@ -1,5 +1,3 @@
-1. Depois de sair da Guilda dos Aventureiros, seguimos em direção à mansão imponente que ficava em frente à praça principal de Einbroch. Era lá que estavam os Vigilantes de Portais. Ao nos aproximarmos, notei que não parecia haver nenhum tipo de cobrança para entrar, o que foi um alívio.
-
 2. Assim que passamos pela porta, fui imediatamente tomado pela diferença gritante em relação ao resto da cidade. Einbroch, com seu ambiente sujo, escuro e marcado pelo caos industrial de estilo cyberpunk, contrastava completamente com o que eu via diante de mim. A mansão parecia de outro mundo. As paredes eram cobertas de mármore branco, polido a ponto de refletir a luz suave dos candelabros de cristal que pendiam do teto. O piso brilhava, feito de um material que parecia granito, e colunas imponentes se estendiam até o teto alto, sustentando a estrutura como se fosse um palácio.
 
 3. Rox, ao meu lado, parecia encantado com a arquitetura, admirando os detalhes refinados das escadarias em espiral, os vitrais coloridos que adornavam as janelas, e os móveis luxuosos que preenchiam o hall principal. Tudo aqui exalava riqueza e poder.
@@ -14,7 +12,7 @@
 
 8. “Claro, mas antes, preciso informá-los sobre as taxas de utilização dos portais. Permitam-me apresentar: sou Cassius, o sentinela responsável pelos portais de Einbroch,” disse ele, com um ar de profissionalismo, enquanto cruzava os braços, exibindo uma expressão de quem tinha total controle sobre o lugar.
 
-9. Cassius explicou que havia uma diferença de preço entre os portais que levam às cidades e os de warps. Para portais de cidade, a taxa padrão era de mil Zenys, com exceção de Prontera, onde os custos eram ainda maiores. Já para as planícies de Prontera, ao lado do acampamento das Viperspire — a guilda mais influente da região — o custo era bem menor, apenas 200 Zenys por pessoa. Além disso, receberíamos um ticket vinculado à nossa Placa de Status, permitindo que voltássemos sem custo adicional pelo portal. Contudo, esse ticket não poderia ser utilizado em portais para as cidades.
+9. Cassius explicou que os portais para as cidades custavam mil Zenys, exceto em Prontera, onde os preços eram mais altos. Nas planícies de Prontera, próximo ao acampamento da Viperspire, o clã mais influente da região, o custo era de 200 Zenys por pessoa. Os jogadores recebiam um ticket vinculado à Placa de Status, permitindo a volta sem custo adicional. No entanto, esse ticket só podia ser usado para os portais das planícies e não das cidades, facilitando o deslocamento e economizando recursos durante as missões.
 
 10. O valor parecia justo, embora eu suspeitasse que a cobrança mais alta para acessar as cidades tivesse algum propósito maior — talvez um controle rigoroso sobre quem entrava, para evitar tumultos ou problemas dentro das áreas urbanas.
 
@@ -24,7 +22,7 @@
 
 13. Assim que segui as instruções de Cassius e me posicionei no centro do portal, a sensação de deslocamento foi quase imperceptível, como se o ar ao meu redor tivesse se distorcido por um momento. Quando os efeitos mágicos cessaram, eu me vi em um cenário totalmente diferente.
 
-14. Era como se tivesse sido transportado diretamente para o coração de uma grande selva, onde o acampamento da guilda estava montado. O sol ainda estava baixo no céu, iluminando as vastas planícies ao longe, e pela primeira vez desde que cheguei, vi o céu limpo, sem aquela fumaça densa que envolvia a cidade de Einbroch. Pássaros voavam serenamente acima, cortando o céu em linhas suaves, e por todo o horizonte, enormes árvores se estendiam, algumas cobertas por folhagens densas, enquanto outras revelavam a vastidão da planície.
+14. Era como se eu estivesse sendo transportado diretamente para o coração de uma grande selva, onde o acampamento da guilda estava montado. O sol ainda estava baixo no céu, iluminando as vastas planícies ao longe, e pela primeira vez desde que cheguei, vi o céu limpo, sem aquela fumaça densa que envolvia a cidade de Einbroch. Pássaros voavam serenamente acima, cortando o céu em linhas suaves, e por todo o horizonte, enormes árvores se estendiam, algumas cobertas por folhagens densas, enquanto outras revelavam a vastidão da planície.
 
 15. A atmosfera era fresca e, ao contrário da cidade industrial, aqui havia uma sensação de liberdade e calma, como se a própria natureza estivesse em sintonia com os aventureiros que se preparavam para explorar a selva. O acampamento, com suas várias barracas e tendas, tinha uma vibração militar, com estruturas robustas e bem organizadas. Era claro que ali não havia apenas aventureiros; havia também uma força organizada, preparada para qualquer tipo de combate que a selva exigisse.
 
@@ -52,7 +50,7 @@
 
 27. "Sim, tentei usar o painel digital para pegar uma quest, mas fui impedido. Um pop-up me instruiu a vir até aqui." Respondi, apontando para o painel no fundo da sala.
 
-28. "Ah, claro. Você não é o primeiro a se confundir com aquilo. Eu sou Rivory, o Questkeeper. Sou responsável por gerenciar as quests e missões aqui na Viperspire." Ele coçou a barba antes de continuar. "Aquele painel é exclusivo para membros oficiais da guilda. Somente eles têm acesso direto às missões através do sistema digital."
+28. "Ah, claro. Eu sou Rivory, o Questkeeper. Sou responsável por gerenciar as missões e quests aqui em Viperspire." Ele acariciou sua barba antes de continuar. "Esse painel é exclusivo para membros oficiais da guilda. Somente eles têm acesso direto às missões através do sistema digital."
 
 29. "Então, como faço para pegar uma quest?"
 
