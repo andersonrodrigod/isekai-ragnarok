@@ -11,9 +11,9 @@ def load_json(filename, default_data):
         return default_data
 
 # Caminhos dos arquivos
-equipamentos_path = './historia/inventario/equipamentos.json'
+equipamentos_path = './historia/equipamentos/equipamentos.json'
 cartas_path = './historia/inventario/cartas.json'
-equipados_path = './historia/inventario/equipados.json'
+equipados_path = './historia/equipamentos/equipados.json'
 
 # Carregar equipamentos e cartas
 equipamentos = load_json(equipamentos_path, {"equipamentos": []})  # Ajustado para retornar uma estrutura padrão

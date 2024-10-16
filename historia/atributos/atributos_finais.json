@@ -1,0 +1,18 @@
+{
+    "STR": 22,
+    "AGI": 12,
+    "VIT": 10,
+    "INT": 5,
+    "DEX": 8,
+    "LUK": 1,
+    "ATQ": 45,
+    "MATQ": 16.5,
+    "HIT": 8,
+    "Critical": 0,
+    "DEF": 15,
+    "MDEF": 7,
+    "flee": 12,
+    "aspd": 0,
+    "HP": 281,
+    "MP": 88
+}

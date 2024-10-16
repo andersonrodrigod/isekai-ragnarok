@@ -1,29 +1,6 @@
 {
     "equipamentos": [
         {
-            "nome": "Camisa de Algodao",
-            "atributos": {
-                "STR": 0,
-                "AGI": 0,
-                "VIT": 0,
-                "INT": 0,
-                "DEX": 0,
-                "LUK": 0
-            },
-            "atributos_derivados": {
-                "ATQ": 0,
-                "MATQ": 0,
-                "HIT": 0,
-                "Critical": 0,
-                "DEF": 10,
-                "MDEF": 0,
-                "flee": 0,
-                "aspd": 0,
-                "efeito_passivo": "Aumenta o dano de ataque em 15%",
-                "efeito_ativo": "Causa um ataque de fogo"
-            }
-        },
-        {
             "nome": "Clava [3]",
             "atributos": {
                 "STR": 0,
@@ -42,9 +19,35 @@
                 "MDEF": 0,
                 "flee": 0,
                 "aspd": 0,
-                "efeito_passivo": "Aumenta o dano de ataque em 15%",
-                "efeito_ativo": "Causa um ataque de fogo"
+                "efeito_passivo": "",
+                "efeito_ativo": "",
+                "descricao": "Um porrete robusto e pesado."
+            }
+        },
+        {
+            "nome": "Camisa de Algodao",
+            "atributos": {
+                "STR": 0,
+                "AGI": 0,
+                "VIT": 0,
+                "INT": 0,
+                "DEX": 0,
+                "LUK": 0
+            },
+            "atributos_derivados": {
+                "ATQ": 0,
+                "MATQ": 0,
+                "HIT": 0,
+                "Critical": 0,
+                "DEF": 10,
+                "MDEF": 0,
+                "flee": 0,
+                "aspd": 0,
+                "efeito_passivo": "",
+                "efeito_ativo": "",
+                "descricao": "Camisa simples de algodão. Para ser usada em qualquer ocasião"
             }
         }
-    ]
+    ],
+    "cartas": []
 }

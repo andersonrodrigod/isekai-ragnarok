@@ -2,9 +2,9 @@ import json
 import os
 
 # Caminho do arquivo equipados
-equipados_path = './historia/inventario/equipados.json'
+equipados_path = './historia/equipamentos/equipados.json'
 # Caminho do novo arquivo de status
-status_equipamentos_path = './historia/inventario/status_equipamentos.json'
+status_equipamentos_path = './historia/equipamentos/status_equipamentos.json'
 
 # Função para somar atributos e atributos derivados
 def somar_atributos(equipados):

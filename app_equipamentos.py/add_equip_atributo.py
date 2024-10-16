@@ -24,11 +24,11 @@ def adicionar_equipamento(dados, nome_equipamento, atributos, atributos_derivado
     dados['equipamentos'].append(novo_equipamento)
 
 def main():
-    arquivo = './historia/inventario/equipamentos.json'
+    arquivo = './historia/equipamentos/equipamentos.json'
     dados = carregar_dados(arquivo)
 
     # Definindo o nome do equipamento
-    nome_equipamento = "Clava [3]"  # Exemplo de nome de equipamento
+    nome_equipamento = "Camisa de algodao"  # Exemplo de nome de equipamento
 
     # Definindo os atributos do equipamento
     atributos = {
@@ -42,16 +42,17 @@ def main():
 
     # Definindo os atributos derivados do equipamento
     atributos_derivados = {
-        "ATQ": 23,
+        "ATQ": 0,
         "MATQ": 0,
         "HIT": 0,
         "Critical": 0,
-        "DEF": 0,
+        "DEF": 10,
         "MDEF": 0,
         "flee": 0,
         "aspd": 0,
-        "efeito_passivo": "Aumenta o dano de ataque em 15%",
-        "efeito_ativo": "Causa um ataque de fogo",
+        "efeito_passivo": "",
+        "efeito_ativo": "",
+        "descricao": "Camisa simples de algodão. Para ser usada em qualquer ocasião"
     }
 
     adicionar_equipamento(dados, nome_equipamento, atributos, atributos_derivados)

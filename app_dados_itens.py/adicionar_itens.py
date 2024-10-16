@@ -54,7 +54,7 @@ def adicionar_capitulo(dados, capitulo, novos_itens, novos_equipamentos):
         dados['capitulos'].append(novo_capitulo)
 
 def main():
-    arquivo = './historia/inventario/itens.json'
+    arquivo = './historia/itens/itens.json'
     dados = carregar_dados(arquivo)
 
     # Exemplo de novos itens e equipamentos a adicionar no capítulo 8

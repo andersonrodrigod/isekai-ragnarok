@@ -82,6 +82,112 @@ O Mercador Sênior, então, nos olhou e declarou que agora estávamos oficialmen
 
 
 
+
+
+Protagonist Data: 
+
+-----------------------------
+Nível de Classe: 1
+Nível Base: 11
+-----------------------------
+Status de Vida:
+  HP      : 281
+  MP      : 88
+
+Atributos:
+  STR     : 22
+  AGI     : 12
+  VIT     : 10
+  INT     : 5
+  DEX     : 8
+  LUK     : 1
+
+Estatísticas de Combate:
+  ATQ     : 40
+  MATQ    : 16.5
+  HIT     : 8
+  Critical: 0
+  DEF     : 15
+  MDEF    : 7
+  Flee    : 12
+  ASPD    : 0
+-----------------------------
+
+Zeny: 1345
+
+Equipamentos Equipados:
+  Faca 
+    ATQ      : 17
+    Descrição: Uma simples faca.
+
+  Camisa de Algodão
+    DEF      : 10
+    Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+-----------------------------
+
+Inventário:
+  Itens:
+    Flor                : 4
+    Broto               : 4
+    Caule               : 6
+    Lantana             : 2
+    Felpa               : 5
+    Menta               : 2
+    Flor Romântica      : 4
+    Celatom             : 2
+    Planta da Melodia   : 2
+    Makulrata           : 2
+    Erva Amarga         : 2
+    Erva Verde          : 6
+    Escama Afiada       : 2
+    Aloes               : 2
+    Folha de Aloe       : 2
+    Folha Romântica     : 2
+    Erva Vermelha       : 6
+    Erva Amarela        : 3
+    Trevos              : 8
+    Jelopy              : 1
+    Asa de Mosca        : 3
+    Cenoura Arco-Iris   : 2
+
+  Equipamentos:
+    Clava [3]          : 1
+-----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Protagonist Data:
 
 _______________________________________
@@ -100,28 +206,31 @@ _______________________________________
 
 Inventário:
 
-Itens:
+itens:
 
-Flor: 4 
-Broto: 4 
-Caule: 6 
-Lantana: 2 
-Felpa: 4 
-Menta: 2 
-Flor Romântica: 4 
-Flor: 4 
-Celatom: 2 
-planta da melodia: 2 
-Makulrata: 2 
-Erva Amarga: 2 
+Flor: 4
+Broto: 4
+Caule: 6
+Lantana: 2
+Felpa: 5
+Menta: 2
+Flor Romantica: 4
+Celatom: 2
+planta da melodia: 2
+Makulrata: 2
+Erva Amarga: 2
 Erva Verde: 6
-Escama Afiada: 2 
-Aloes: 2 
-Folha de Aloe: 2 
-Folha romântica: 2 
-Erva Vermelha: 6 
-Erva Amarela: 3 
+Escama Afiada: 2
+Aloes: 2
+Folha de Aloe: 2
+Folha romantica: 2
+Erva Vermelha: 6
+Erva Amarela: 3
+Trevos: 8
+Jelopy: 1
+Asa de Mosca: 3
+Cenoura Arco-Iris: 2
 
-Equipamentos:
+equipamentos:
 
-Clava [3]
+Clava [3]: 1

@@ -2,9 +2,9 @@ import json
 import os
 
 # Caminho do arquivo de atributos
-atributos_path = './historia/inventario/atributos.json'
+atributos_path = './historia/atributos/atributos.json'
 # Caminho do novo arquivo de atributos totais
-atributos_totais_path = './historia/inventario/atributos_totais.json'
+atributos_totais_path = './historia/atributos/atributos_totais.json'
 
 # Função para calcular atributos totais
 def calcular_atributos_totais(capitulo):
@@ -21,8 +21,8 @@ def calcular_atributos_totais(capitulo):
         "MDEF": 0,
         "flee": 0,
         "aspd": 0,
-        "HP": status_geral["HP"],
-        "MP": status_geral["MP"]
+        "HP": status_geral["HP"],  # Usa o HP já calculado
+        "MP": status_geral["MP"]   # Usa o MP já calculado
     }
 
     # Cálculos baseados nos atributos
@@ -31,12 +31,10 @@ def calcular_atributos_totais(capitulo):
     atributos_totais["MDEF"] += atributos.get("AGI", 0) // 5  # A cada 5 pontos de AGI = MDEF + 1
 
     vits = atributos.get("VIT", 0)
-    atributos_totais["HP"] = int(atributos_totais["HP"] * (1 + (vits * 0.01)))  # VIT = HP máximo +1%
     atributos_totais["DEF"] += vits // 2  # A cada 2 pontos em VIT = DEF + 1
     atributos_totais["MDEF"] += vits // 5  # A cada 5 pontos em VIT = MDEF + 1
 
     atributos_totais["MATQ"] += atributos.get("INT", 0) * 1.5  # A cada ponto em INT = MATQ + 1,5
-    atributos_totais["MP"] = int(atributos_totais["MP"] * (1 + (atributos.get("INT", 0) * 0.01)))  # INT = MP máximo +1%
     atributos_totais["MDEF"] += atributos.get("INT", 0) // 2  # A cada 2 pontos em INT = MDEF + 1
 
     atributos_totais["MATQ"] += atributos.get("DEX", 0) * 1  # A cada ponto em DEX = MATQ + 1

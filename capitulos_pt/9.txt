@@ -77,70 +77,80 @@ Depois desse breve diálogo percebi que ainda precisava ficar mais forte apesar 
 
 
 
+(Falta alterar)
 
+-----------------------------
+Nível de Classe: 8
+Nível Base: 14
+-----------------------------
+Status de Vida:
+  HP      : 281
+  MP      : 88
 
+Atributos:
+  STR     : 22
+  AGI     : 12
+  VIT     : 10
+  INT     : 5
+  DEX     : 8
+  LUK     : 1
 
+Estatísticas de Combate:
+  ATQ     : 45
+  MATQ    : 16.5
+  HIT     : 8
+  Critical: 0
+  DEF     : 15
+  MDEF    : 7
+  Flee    : 12
+  ASPD    : 0
+-----------------------------
 
-    "STR": 15,
-    "AGI": 6,
-    "VIT": 9,
-    "INT": 5,
-    "DEX": 8,
-    "LUK": 3,
-    "ATQ": 39,
-    "MATQ": 17.5,
-    "HIT": 9,
-    "Critical": 1,
-    "DEF": 14,
-    "MDEF": 5,
-    "flee": 6,
-    "aspd": 0,
-    "HP": 228,
-    "MP": 68
+Zeny: 1345
 
+-----------------------------
 
+Equipamentos Equipados:
+  Clava [3]
+    ATQ      : 23
+    Descrição: Um porrete robusto e pesado.
 
+  Camisa de Algodão
+    DEF      : 10
+    Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+-----------------------------
 
+Inventário:
+  Itens:
+    Flor                : 4
+    Broto               : 4
+    Caule               : 6
+    Lantana             : 2
+    Felpa               : 5
+    Menta               : 2
+    Flor Romântica      : 4
+    Celatom             : 2
+    Planta da Melodia   : 2
+    Makulrata           : 2
+    Erva Amarga         : 2
+    Erva Verde          : 8
+    Escama Afiada       : 2
+    Aloes               : 2
+    Folha de Aloe       : 2
+    Folha Romântica     : 2
+    Erva Vermelha       : 6
+    Erva Amarela        : 3
+    Asa de Mosca        : 9
+    Cenoura Arco-Iris   : 2
+    Cenoura             : 3
+    Trevo               : 18
+    Pluma               : 3
+    Jellopy             : 10
+    Maçã                : 2
+    Muco Pegajoso       : 2
 
-
-
-
-
-
-
-
-Itens:
-
-Flor: 4
-Broto: 4
-Caule: 6
-Lantana: 2
-Felpa: 5
-Menta: 2
-Flor Romântica: 4
-Celatom: 2
-Planta da Melodia: 2
-Makulrata: 2
-Erva Amarga: 2
-Erva Verde: 8
-Escama Afiada: 2
-Aloes: 2
-Folha de Aloe: 2
-Folha Romântica: 2
-Erva Vermelha: 6
-Erva Amarela: 3
-Trevos: 8
-Jelopy: 1
-Asa de Mosca: 9
-Cenoura Arco-Íris: 2
-Cenoura: 3
-Trevo: 10
-Pluma: 3
-Jellopy: 10
-Maçã: 2
-Muco Pegajoso: 2
-
-Equipamentos:
-
-Clava [3]: 2
-Espada [4]: 1
+  Equipamentos:
+    Clava [3]          : 2
+    Espada [4]         : 1
+    Faca               : 1    
+-----------------------------

@@ -1,7 +1,7 @@
 {
     "equipamentos": [
         {
-            "nome": "Camisa de Algodao",
+            "nome": "Clava [3]",
             "atributos": {
                 "STR": 0,
                 "AGI": 0,
@@ -11,16 +11,17 @@
                 "LUK": 0
             },
             "atributos_derivados": {
-                "ATQ": 0,
+                "ATQ": 23,
                 "MATQ": 0,
                 "HIT": 0,
                 "Critical": 0,
-                "DEF": 10,
+                "DEF": 0,
                 "MDEF": 0,
                 "flee": 0,
                 "aspd": 0,
-                "efeito_passivo": "Aumenta o dano de ataque em 15%",
-                "efeito_ativo": "Causa um ataque de fogo"
+                "efeito_passivo": "",
+                "efeito_ativo": "",
+                "descricao": "Um porrete robusto e pesado."
             }
         },
         {
@@ -42,12 +43,13 @@
                 "MDEF": 0,
                 "flee": 0,
                 "aspd": 0,
-                "efeito_passivo": "Aumenta o dano de ataque em 15%",
-                "efeito_ativo": "Causa um ataque de fogo"
+                "efeito_passivo": "",
+                "efeito_ativo": "",
+                "descricao": "Uma simples faca."
             }
         },
         {
-            "nome": "Clava [3]",
+            "nome": "Camisa de Algodao",
             "atributos": {
                 "STR": 0,
                 "AGI": 0,
@@ -57,16 +59,17 @@
                 "LUK": 0
             },
             "atributos_derivados": {
-                "ATQ": 23,
+                "ATQ": 0,
                 "MATQ": 0,
                 "HIT": 0,
                 "Critical": 0,
-                "DEF": 0,
+                "DEF": 10,
                 "MDEF": 0,
                 "flee": 0,
                 "aspd": 0,
-                "efeito_passivo": "Aumenta o dano de ataque em 15%",
-                "efeito_ativo": "Causa um ataque de fogo"
+                "efeito_passivo": "",
+                "efeito_ativo": "",
+                "descricao": "Camisa simples de algod\u00e3o. Para ser usada em qualquer ocasi\u00e3o"
             }
         }
     ]

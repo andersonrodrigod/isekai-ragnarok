@@ -2,10 +2,10 @@ import json
 import os
 
 # Caminhos dos arquivos
-atributos_path = './historia/inventario/atributos.json'
-status_equipamentos_path = './historia/inventario/status_equipamentos.json'
-atributos_totais_path = './historia/inventario/atributos_totais.json'
-atributos_finais_path = './historia/inventario/atributos_finais.json'
+atributos_path = './historia/atributos/atributos.json'
+status_equipamentos_path = './historia/equipamentos/status_equipamentos.json'
+atributos_totais_path = './historia/atributos/atributos_totais.json'
+atributos_finais_path = './historia/atributos/atributos_finais.json'
 buffs_path = './historia/inventario/buffs.json'
 
 # Função para calcular atributos finais
