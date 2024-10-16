@@ -1,6 +1,6 @@
 1. "Well, you're free to go out and explore on your own, face monsters, and survive however you see fit," said Mary, with a slight smile. However, her tone soon became more serious. "But there are some things you need to understand. Although there are no restrictions for those who wish to roam the plains on their own, participating in the quests organized by the guild is a little different. If you want to access our quests, you must officially register with guild. With a fee of 300 Zenys per person, you will have access to all available quests, in addition to the support of our network of information and benefits that can facilitate your survival and progress here."
 
-2. Hearing Mary’s words, a familiar feeling washed over me. Just like in the Smoke Sentinels Guild, there was a cost to accessing the services here. Everywhere I went, it seemed like each established group had its own price for sharing their resources and information. (aterado)
+2. Hearing Mary’s words, a familiar feeling washed over me. Just like in the Smoke Sentinels Guild, there was a cost to accessing the services here. Everywhere I went, it seemed like each established group had its own price for sharing their resources and information. (remover obviedade. óbvio que vão cobrar pra compartilhar recursos e informação)
 
 3. Mary paused before continuing, as if considering the next important point to mention. "Oh, and something that might interest you... have you ever heard of Linker Rings?"
 
@@ -8,13 +8,13 @@
 
 5. "These are special rings, forged by skilled blacksmiths, that allow you to form groups of adventurers and divide combat experience among all members of the group. When you are in a group with these rings, the experience you and your allies gain by defeating monsters is shared just like items, which can greatly accelerate your growth and make it fair to divide items. However, they have a limited lifespan — depending on the quality, they last a certain number of days before wearing out completely. I have these that are expiring in two days, you can buy them for 200 Zenys"
 
-6. I pondered everything Mary had told me. Viperspire was proving to be more than just a guild. Within minutes, she had introduced me to two of their products: Linker Rings. The persuasive way she presented their services made me consider purchasing them. It was as if the guild had a steady stream of income, a well-oiled machine that knew exactly how to take advantage of each adventurer. (alterado)
+6. I pondered everything Mary had told me. Viperspire was proving to be more than just a guild. Within minutes (isso ficou estranho), she had introduced me to two of their products: Linker Rings (só tem um produto aqui, não dois). The persuasive way she presented their services made me consider purchasing them. It was as if the guild had a steady stream of income, a well-oiled machine that knew exactly how to take advantage of each adventurer.
 
 7. I couldn't even imagine how many other forms of financing Viperspire had, but one thing was clear: they had complete control over the region and knew how to take advantage of every opportunity to guarantee a profit.
 
 8. I asked Rox for a loan of 150 Zeny, necessary so I could sign up and access Viperspire's quest advantages. He gladly accepted, understanding the importance of this opportunity for our progress as adventurers.
 
-9. After registering, I was able to access the available quests. Although I had access to these quests, I did not become an official member of the guild. I went to the large digital board, where several quests were listed. Many of them involved Fly Wings, an item that, despite being expensive on the market, was easy to obtain in combat and served as a quick random teleportation between locations. I decided to avoid these quests so that I could save the Fly Wings that I would manage to drop during our adventures. Instead, I thought I would take on one or two quests that would outweigh the costs we had accumulated so far at the guild outpost.(alterado explicado pra que serve asa de mosca)
+9. After registering, I was able to access the available quests without having to join the guild. I went to the large digital board, where several quests were listed. Many of them involved Fly Wings, an item that, despite being expensive on the market, was easy to obtain in combat and served as a quick random teleportation to areas in the same Warp (talvez seja bom mudar esse Warp). I decided to avoid these quests so that I could save the Fly Wings that I would manage to drop during our adventures. Instead, I thought I would take on one or two quests that would outweigh the costs we had accumulated so far at the guild outpost.
 
 10. It was then that I saw a very useful mission: 10 Feathers, 12 Carrots, 5 Fluff, 6 Jellopy, 2 Green Herbs, 4 Apples. The reward for this quest was 700 Zenys, which meant I could split 350 for myself and 350 to level up Rox. However, considering all the expenses, from teleportation to completing the mission, I realized that we would not be able to surpass the value of 450 Zenys.
 
@@ -34,19 +34,19 @@
 
 18. "Now it's my turn!" shouted Rox, throwing himself at the Poring. With a precise strike, he managed to defeat him. The small gelatinous creature exploded in a rain of gelatin, leaving behind a few items that glittered in the sunlight.
 
-19. The items were automatically delivered to my and Rox's inventory. Before the battle, we had decided that we would share everything we found. So we started receiving the items dropped by the Porging, satisfied with our first victory in the jungle. The feeling of being together as a team and the thrill of the hunt made that moment even more special. (alterado explicado corretamente que os itens são dropados automaticamente para inventário)
+19. The items were automatically delivered to my and Rox's inventory. Before the battle, we had decided that we would leave the sharing of drop items to the Linker Ring. Satisfied with our first victory in the jungle. The feeling of being together as a team and the thrill of the hunt made that moment even more special. (tá meio homossexual isso)
 
 20. We managed to defeat 15 Porings before finally getting the last apple, an item that seemed more difficult to drop. With that, both Rox and I rose to level 7, our enthusiasm growing with each victory. With the items in hand, we then decided to go in search of the Lunatics.
 
 21. The Lunatics were strange and somewhat comical creatures, with small, round bodies covered in bluish fur and bulging eyes that seemed to always be in a state of surprise. They were known for their erratic behavior, jumping and spinning unpredictably, making fighting them a true test of skill and reflexes.
 
-22. We used the same battle strategy with all the monsters, and as we walked through the jungle we were lucky enough to encounter the Alpha Lunatic several times, a more robust and imposing version of the regular Lunatic. Not only did the Alpha Lunatic look more intimidating, with darker fur and a more ferocious gaze, but it also had a higher drop rate of fly wings, which helped us a lot in our search. (alterado pra tirar a impressão que os personagens usaram asa de mosca)
+22. We used the same battle strategy with all the monsters, and as we walked through the jungle we were lucky enough to encounter the Alpha Lunatic several times, a more robust and imposing version of the regular Lunatic. Not only did the Alpha Lunatic look more intimidating, with darker fur and a more ferocious gaze, but it also had a higher drop rate of Fly Wings, which helped us get more of them.
 
 23. As we faced these creatures, our experience continued to increase, and we soon reached level 8. It was already starting to get dark when we decided we'll now be in search of the Fabre, a monster that was known to have a stronger attack. A powerful monster in that region.
 
 24. I quickened my pace alongside Rox, eager to get the items needed to complete our mission. The sun was low on the horizon, and the worry of not being able to return with the quest complete began to grow on me. When we found the Fabres, we saw they were long, slender creatures, covered in green fur and with long ears. His eyes had a curious gleam, but they were not deceived; They were known for their quick and relentless attack.
 
-25. We fought bravely and defeated 10 Fabres, which made us rise to level 9. During the battle, my knife, which I was using as equipment, broke, and I would have to repair it when I returned. We were exhausted, and as we sat on the ground, our breathing was heavy and labored, a clear sign of the intensity of the day. (alterado, tirado o ar de reclamação)
+25. We fought bravely and defeated 10 Fabres, which made us rise to level 9. My knife broke during the battle, and I will have to repair it when I returned. We were exhausted, and as we sat on the ground, our breathing was heavy and labored, a clear sign of the intensity of the day.
 
 26. “We did it!” said Rox, tired but with a satisfied smile on his face.
 
@@ -54,7 +54,7 @@
 
 28. When we arrived at the camp, the scene was enchanting and chaotic. Bonfires crackled everywhere, illuminating the space with a warm, cozy glow, while lanterns hanging from the trees cast dancing shadows. The aroma of roasting meat and burning herbs permeated the air, and the sound of laughter and lively conversations from other adventurers returning from their own expeditions created a vibrant atmosphere. As we passed through these crowded passages, I headed straight for the Viperspire Mansion, eager to complete the mission we had undertaken.
 
-29. After receiving our reward, I left the mansion and noticed the diversity of people in that camp. Rox, who was relaxed, noticed my expression and asked: (alterado para o leitor notar que Azoth está procurando algo o "Ferreiro")
+29. After receiving our reward, I left the mansion and noticed the diversity of people in that camp. Rox, who was relaxed, noticed my expression and asked:
 
 30. "What are you looking for?"
 
