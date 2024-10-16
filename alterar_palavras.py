@@ -24,5 +24,5 @@ def alterar_palavra_no_txt(caminho_arquivo):
     print("Alterações realizadas com sucesso!")
 
 # Caminho para o arquivo .txt
-caminho_do_arquivo = "./capitulos_pt/5.txt"
+caminho_do_arquivo = "./capitulos_en/7.txt"
 alterar_palavra_no_txt(caminho_do_arquivo)
