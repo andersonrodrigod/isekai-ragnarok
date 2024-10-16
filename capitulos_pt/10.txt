@@ -1,0 +1,110 @@
+Cheguei em Einbroch no final da tarde, satisfeito com os ganhos dos meus últimos dias produtivos coletando itens para acumular Zenys. Confesso que, no jogo, caçar monstros e coletar os itens que eles dropavam era muito mais divertido. Agora, imerso neste mundo, tem sido um tanto frustrante sair todos os dias apenas para conseguir alguns itens. Talvez participar de uma expedição torne as coisas mais interessantes.
+
+Ao chegar na pousada, minha frustração começou. Tayla me lembrou que hoje era meu último dia pago e que precisaria renovar minha hospedagem se quisesse continuar. Eu tinha exatamente 1.345 Zenys, então decidi pagar por mais 6 dias, ficando com apenas 145 Zenys. Amanhã, eu teria que ir ao mercado e tentar conseguir mais dinheiro.
+
+...
+
+Na manhã seguinte, acordei decidido a colocar todos os pontos de habilidade restantes na habilidade Superfaturamento. Agora, com um aumento de 5 pontos na habilidade, eu poderia vender meus itens com um lucro adicional de 15%.
+
+Antes de sair, dei uma olhada nas opções de mercador na minha placa de status e revisei os itens no meu inventário para decidir onde vendê-los. Ao contrário do jogo, aqui não existem NPCs para vender. Você negocia diretamente com pessoas ou outros mercadores. Apenas mercadores têm acesso a vendas e compras pela placa de status, e embora eu não entenda completamente como isso funciona, seria muito melhor se fosse uma opção disponível para todas as classes. Parece mais uma maneira de monopolizar o comércio e deixar as outras classes de fora.
+
+A verdade é que a classe de mercador sempre foi uma das menos escolhidas. Ferreiros e alquimistas não são muito populares em expedições, pois são classes mais estratégicas. Talvez essas funções exclusivas dos mercadores sejam uma tentativa de incentivar mais pessoas a seguirem esse caminho.
+
+Depois de ver que a maioria dos meus itens tinha compradores no mercado de Einbroch, saí da pousada e segui em direção ao mercado. Após alguns minutos de caminhada, já avistei o mercado. Ele ficava em uma rua suburbana de Einbroch, um local dominado por construções industriais e maquinários pesados. O ar tinha um leve cheiro de óleo e metal queimado, típico da industria. As bancas estavam alinhadas ao longo da rua, misturando elementos de comércio tradicional com alta tecnologia steampunk. Eram estruturas de metal e vidro, algumas cobertas por placas de neon que piscavam com anúncios de itens e preços.
+
+Abri minha placa de status e procurei os números das bancas que estavam comprando meus itens. A mais próxima era a número 7. Aproximei-me do totem, onde havia duas opções: compra ou venda. Selecionei venda, e o primeiro item valioso do meu inventário apareceu: uma Cenoura Arco-íris. Esse item é extremamente raro, com uma taxa de drop de apenas 1%. Eu havia conseguido esse item junto com Rox, e mais tarde, explorando sozinho. Só essa cenoura já valia 1.250 Zenys.
+
+Depois de visitar as outras bancas e vender quase todo o meu inventário, sai do mercado com uma boa quantia de dinheiro. Fiquei aliviado, pois depois de hoje, não voltaria mais para a casa dos três dígitos. Agora, finalmente, poderia explorar um pouco mais desse mundo sem me preocupar tanto com os custos de moradia.
+
+Já era o quarto dia desde que Rox foi fazer sua transição de classe. Parecia que as outras classes exigiam mais do que apenas um ritual simples, como lançar uma moeda para o alto.
+
+Ainda faltam três dias para ele voltar. O ideal seria eu continuar subindo de nível, mas preciso me aventurar em uma área um pouco mais densa da selva nas Planícies de Prontera. Vou ter que enfrentar monstros um pouco mais fortes. Agora que consegui juntar uma quantia razoável de grana, posso me preparar melhor para lutar sozinho contra eles, sem perder tempo.
+
+Lembro que, nas Planícies de Prontera, dá para ir longe e encontrar monstros mais adequados na selva um pouco mais densa. Preciso me preparar antes. Primeiro, vou à Guilda de Aventureiros Smoke Sentinels para descobrir quais monstros consigo enfrentar sozinho e, em seguida, comprar alguns equipamentos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Item              | Quantidade | Preço       | Valor Total  | Valor Total com 15% de Lucro
+-------------------------------------------------------------------------------------------
+Flor              : x4         | 0.0         | 0.0          | 0.0
+Menta             : x2         | 187.0       | 374.0        | 430.1
+Broto             : x4         | 6.0         | 24.0         | 27.6
+Lantana           : x2         | 0.0         | 0.0          | 0.0
+Felpa             : x5         | 3.0         | 15.0         | 17.25
+Flor Romântica    : x4         | 10.0        | 40.0         | 46.0
+Makulrata         : x2         | 0.0         | 0.0          | 0.0
+Escama Afiada     : x2         | 25.0        | 50.0         | 57.5
+Celatom           : x2         | 0.0         | 0.0          | 0.0
+Planta da Melodia : x2         | 187.0       | 374.0        | 430.1
+Folha de Aloe     : x2         | 180.0       | 360.0        | 414.0
+Folha Romântica   : x2         | 10.0        | 20.0         | 23.0
+Trevos            : x18        | 3.0         | 54.0         | 62.1
+Asa de Mosca      : x9         | 125.0       | 1125.0       | 1293.75
+Cenoura Arco-Iris : x2         | 1250.0      | 2500.0       | 2875.0
+Cenoura           : x3         | 7.0         | 21.0         | 24.15
+Pluma             : x3         | 7.0         | 21.0         | 24.15
+Jellopy           : x11        | 2.0         | 22.0         | 25.3
+Maçã              : x2         | 7.0         | 14.0         | 16.1
+Muco Pegajoso     : x2         | 26.0        | 52.0         | 59.8
+-------------------------------------------------------------------------------------------
+Valor Total       :            |             | 5166.0       | 5938.9

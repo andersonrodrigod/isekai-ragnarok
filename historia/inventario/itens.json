@@ -97,15 +97,13 @@
                 "Escama Afiada": 2,
                 "Aloes": 2,
                 "Folha de Aloe": 2,
-                "Folha romantica": 2,
+                "Folha Romantica": 2,
                 "Erva Vermelha": 6,
                 "Erva Amarela": 3,
-                "Trevos": 8,
-                "Jelopy": 1,
                 "Asa de Mosca": 9,
                 "Cenoura Arco-Iris": 2,
                 "Cenoura": 3,
-                "Trevo": 10,
+                "Trevo": 18,
                 "Pluma": 3,
                 "Jellopy": 10,
                 "Maca": 2,
@@ -115,6 +113,21 @@
                 "Clava [3]": 2,
                 "Espada [4]": 1
             }
-        }
+        },
+        {   
+            "capitulo": 10,
+            "itens": {
+                "Caule": 6,
+                "Erva Amarga": 2,
+                "Erva Verde": 8,
+                "Aloes": 2,
+                "Erva Vermelha": 6,
+                "Erva Amarela": 3
+            },
+            "equipamentos": {
+                "Clava [3]": 2,
+                "Espada [4]": 1
+            }
+        }        
     ]
 }

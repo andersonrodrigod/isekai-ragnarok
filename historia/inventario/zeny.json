@@ -46,7 +46,13 @@
             "capitulo": 8,
             "ganhos": 200,
             "gastos": 1000,
-            "saldo": 945
+            "saldo": 945    
+        },
+        {
+            "capitulo": 9,
+            "ganhos": 1200,
+            "gastos": 800,
+            "saldo": 1345
         }
     ]
 }

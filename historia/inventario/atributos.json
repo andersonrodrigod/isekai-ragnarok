@@ -3,16 +3,16 @@
         {
             "capitulo": 9,
             "atributos": {
-                "STR": 10,
-                "AGI": 0,
-                "VIT": 0,
-                "INT": 0,
-                "DEX": 1,
-                "LUK": 0
+                "STR": 15,
+                "AGI": 6,
+                "VIT": 9,
+                "INT": 5,
+                "DEX": 8,
+                "LUK": 3
             },
             "status_geral": {
-                "HP": 240,
-                "MP": 80,
+                "HP": 210,
+                "MP": 65,
                 "nivel": 5,
                 "nivel_classe": 2
             }
