@@ -1,0 +1,67 @@
+Protagonist Data:
+
+----------------------------
+Dia: 7
+-----------------------------
+Nível de Classe: 1
+Nível Base: 9
+-----------------------------
+Status de Vida:
+  HP      : 180
+  MP      : 43
+
+Atributos:
+  STR     : 12
+  AGI     : 5
+  VIT     : 5
+  INT     : 5
+  DEX     : 6
+  LUK     : 5
+
+Estatísticas de Combate:
+  ATQ     : 31
+  MATQ    : 14.5
+  HIT     : 6
+  Critical: 1
+  DEF     : 12
+  MDEF    : 5
+  Flee    : 5
+  ASPD    : 106
+-----------------------------
+Zeny: 1745
+-----------------------------
+
+Equipamentos Equipados:
+  Faca
+    ATQ      : 17
+    Descrição: Uma simples faca.
+
+  Camisa de Algodão
+    DEF      : 10
+    Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+-----------------------------
+
+Inventário:
+  Itens                Quant
+    Flor                : 4
+    Broto               : 4
+    Caule               : 6
+    Lantana             : 2
+    Felpa               : 5
+    Menta               : 2
+    Flor Romântica      : 4
+    Celatom             : 2
+    Planta da Melodia   : 2
+    Makulrata           : 2
+    Erva Amarga         : 2
+    Erva Verde          : 6
+    Escama Afiada       : 2
+    Aloés               : 2
+    Folha de Aloe       : 2
+    Folha Romântica     : 2
+    Erva Vermelha       : 6
+    Erva Amarela        : 3
+    Trevos              : 8
+    Jellopy             : 1
+    Asa de Mosca        : 3
+-----------------------------

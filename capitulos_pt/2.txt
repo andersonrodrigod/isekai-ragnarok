@@ -84,3 +84,47 @@
 
 42. Sempre me lembro das pessoas que me ajudaram. Isso é algo natural para mim: recompensar quem me ajuda. Enfim, agora posso ir até a pousada, mas antes passarei para comer algo.
 
+
+
+
+
+----------------------------
+Dia: 2
+-----------------------------
+Nível de Classe: 1
+Nível Base: 3
+-----------------------------
+Status de Vida:
+  HP      : 120
+  MP      : 37
+
+Atributos:
+  STR     : 5
+  AGI     : 5
+  VIT     : 5
+  INT     : 5
+  DEX     : 6
+  LUK     : 5
+
+Estatísticas de Combate:
+  ATQ     : 24
+  MATQ    : 14.5
+  HIT     : 6
+  Critical: 1
+  DEF     : 12
+  MDEF    : 5
+  Flee    : 5
+  ASPD    : 106
+-----------------------------
+Zeny: 180
+-----------------------------
+
+Equipamentos Equipados:
+  Faca
+    ATQ      : 17
+    Descrição: Uma simples faca.
+
+  Camisa de Algodão
+    DEF      : 10
+    Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+-----------------------------

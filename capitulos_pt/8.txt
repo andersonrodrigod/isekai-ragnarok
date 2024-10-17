@@ -86,34 +86,36 @@ O Mercador Sênior, então, nos olhou e declarou que agora estávamos oficialmen
 
 Protagonist Data: 
 
+----------------------------
+Dia: 8
 -----------------------------
 Nível de Classe: 1
 Nível Base: 11
 -----------------------------
 Status de Vida:
-  HP      : 281
-  MP      : 88
+  HP      : 200
+  MP      : 45
 
 Atributos:
-  STR     : 22
-  AGI     : 12
-  VIT     : 10
+  STR     : 15
+  AGI     : 5
+  VIT     : 5
   INT     : 5
-  DEX     : 8
-  LUK     : 1
+  DEX     : 6
+  LUK     : 5
 
 Estatísticas de Combate:
-  ATQ     : 40
-  MATQ    : 16.5
-  HIT     : 8
-  Critical: 0
-  DEF     : 15
-  MDEF    : 7
-  Flee    : 12
-  ASPD    : 0
+  ATQ     : 34
+  MATQ    : 14.5
+  HIT     : 6
+  Critical: 1
+  DEF     : 12
+  MDEF    : 5
+  Flee    : 5
+  ASPD    : 106
 -----------------------------
 
-Zeny: 1345
+Zeny: 845
 
 Equipamentos Equipados:
   Faca 

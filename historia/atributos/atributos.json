@@ -1,20 +1,37 @@
 {
     "capitulos": [
         {
-            "capitulo": 9,
+            "capitulo": 1,
             "atributos": {
-                "STR": 22,
-                "AGI": 12,
-                "VIT": 10,
+                "STR": 5,
+                "AGI": 5,
+                "VIT": 5,
                 "INT": 5,
-                "DEX": 8,
-                "LUK": 1
+                "DEX": 5,
+                "LUK": 5
             },
             "status_geral": {
-                "HP": 281,
-                "MP": 88,
-                "nivel": 11,
+                "HP": 115,
+                "MP": 50,
+                "nivel": 1,
                 "nivel_classe": 1
+            }
+        },
+        {
+            "capitulo": 9,
+            "atributos": {
+                "STR": 24,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 335,
+                "MP": 92,
+                "nivel": 14,
+                "nivel_classe": 10
             }
         }
     ]

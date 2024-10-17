@@ -1,12 +1,12 @@
 {
-    "ATQ": 22,
-    "MATQ": 16.5,
-    "HIT": 8,
-    "Critical": 0,
-    "DEF": 5,
-    "MDEF": 7,
+    "ATQ": 26,
+    "MATQ": 14.0,
+    "HIT": 12,
+    "Critical": 2,
+    "DEF": 6,
+    "MDEF": 6,
     "flee": 12,
-    "aspd": 0,
-    "HP": 281,
-    "MP": 88
+    "aspd": 113,
+    "HP": 335,
+    "MP": 92
 }

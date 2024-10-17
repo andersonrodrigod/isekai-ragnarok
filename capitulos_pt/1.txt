@@ -75,3 +75,62 @@
 38. Abri meu inventário e verifiquei os itens que possuía. Além dos itens necessários para fazer poções, encontrei outros itens que poderia vender e ganhar uma boa quantia. Um deles, uma planta chamada "menta", parecia promissor. Se não me engano, ela é usada para fazer analgésicos e pode ativar a habilidade de vigor. Preciso passar no mercado para descobrir quanto vale a menta.
 
 39. No caminho de volta, fiquei dividido entre ir diretamente à associação dos aventureiros para entregar a missão ou deixar para o dia seguinte. Estava muito cansado, mas não queria deixar isso para depois, então decidi seguir para a associação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------
+Dia: 1
+-----------------------------
+Nível de Classe: 1
+Nível Base: 1
+-----------------------------
+Status de Vida:
+  HP      : 100
+  MP      : 35
+
+Atributos:
+  STR     : 5
+  AGI     : 5
+  VIT     : 5
+  INT     : 5
+  DEX     : 5
+  LUK     : 5
+
+Estatísticas de Combate:
+  ATQ     : 23
+  MATQ    : 14.5
+  HIT     : 6
+  Critical: 1
+  DEF     : 12
+  MDEF    : 5
+  Flee    : 5
+  ASPD    : 105
+-----------------------------
+Zeny: 800
+-----------------------------
+
+Equipamentos Equipados:
+  Faca
+    ATQ      : 17
+    Descrição: Uma simples faca.
+
+  Camisa de Algodão
+    DEF      : 10
+    Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+-----------------------------

@@ -60,14 +60,14 @@ def main():
 
     # Exemplo de novos atributos a adicionar no capítulo 9
     novos_atributos = {
-        "STR": 22,
+        "STR": 24,
         "AGI": 12,
-        "VIT": 10,
-        "INT": 5,  # Ajuste conforme necessário
-        "DEX": 8,
-        "LUK": 1,
-        "nivel": 11,
-        "nivel_classe": 1
+        "VIT": 12,
+        "INT": 0,  
+        "DEX": 10,
+        "LUK": 6,
+        "nivel": 14,
+        "nivel_classe": 8
     }
 
     capitulo_atual = 9

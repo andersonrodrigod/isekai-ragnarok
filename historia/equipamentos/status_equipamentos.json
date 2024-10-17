@@ -1,6 +1,6 @@
 {
     "atributos_totais": {
-        "STR": 0,
+        "STR": 2,
         "AGI": 0,
         "VIT": 0,
         "INT": 0,
@@ -8,11 +8,11 @@
         "LUK": 0
     },
     "atributos_derivados_totais": {
-        "ATQ": 23,
+        "ATQ": 25,
         "MATQ": 0,
         "HIT": 0,
         "Critical": 0,
-        "DEF": 10,
+        "DEF": 74,
         "MDEF": 0,
         "flee": 0,
         "aspd": 0

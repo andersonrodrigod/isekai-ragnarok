@@ -7,14 +7,14 @@ def traduzir_texto(texto, src_lang='pt', dest_lang='en'):
     return traducao.text
 
 # Ler o arquivo em português
-with open('./capitulos_pt/7.txt', 'r', encoding='utf-8') as arquivo:
+with open('./capitulos_pt/traduzir_pt.txt', 'r', encoding='utf-8') as arquivo:
     conteudo_portugues = arquivo.read()
 
 # Traduzir o conteúdo para inglês
 conteudo_traduzido = traduzir_texto(conteudo_portugues)
 
 # Escrever o conteúdo traduzido em um novo arquivo
-with open('./capitulos_en/7.txt', 'w', encoding='utf-8') as arquivo_traduzido:
+with open('./capitulos_pt/traduzir_en.txt', 'w', encoding='utf-8') as arquivo_traduzido:
     arquivo_traduzido.write(conteudo_traduzido)
 
 

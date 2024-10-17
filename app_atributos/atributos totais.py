@@ -20,7 +20,7 @@ def calcular_atributos_totais(capitulo):
         "DEF": 0,
         "MDEF": 0,
         "flee": 0,
-        "aspd": 0,
+        "aspd": 100,
         "HP": status_geral["HP"],  # Usa o HP já calculado
         "MP": status_geral["MP"]   # Usa o MP já calculado
     }
@@ -33,6 +33,8 @@ def calcular_atributos_totais(capitulo):
     vits = atributos.get("VIT", 0)
     atributos_totais["DEF"] += vits // 2  # A cada 2 pontos em VIT = DEF + 1
     atributos_totais["MDEF"] += vits // 5  # A cada 5 pontos em VIT = MDEF + 1
+    atributos_totais["aspd"] += atributos.get("AGI", 0) * 1  # A cada ponto em AGI = aspd + 1
+   
 
     atributos_totais["MATQ"] += atributos.get("INT", 0) * 1.5  # A cada ponto em INT = MATQ + 1,5
     atributos_totais["MDEF"] += atributos.get("INT", 0) // 2  # A cada 2 pontos em INT = MDEF + 1

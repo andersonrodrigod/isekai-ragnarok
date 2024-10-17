@@ -43,8 +43,8 @@ def main():
     dados = carregar_dados(arquivo)
 
     # Exemplo de valores para o novo capítulo
-    ganhos = int(input("Digite quanto o personagem ganhou: "))
-    gastos = int(input("Digite quanto o personagem gastou: "))
+    ganhos = float(input("Digite quanto o personagem ganhou: "))
+    gastos = float(input("Digite quanto o personagem gastou: "))
 
     adicionar_capitulo(dados, ganhos, gastos)
     salvar_dados(arquivo, dados)

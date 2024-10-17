@@ -41,10 +41,10 @@ def pesquisar_palavra_na_pasta(pasta, palavra):
 pasta_arquivos = './capitulos_pt'
 
 # Palavra a ser pesquisada
-palavra_procurada = 'resetar'
+palavra_procurada = 'Cristal'
 
 # Caminho da pasta de saída
-pasta_pesquisa = './pesquisar'
+pasta_pesquisa = 'pesquisar'
 
 # Criar a pasta de pesquisa, se não existir
 if not os.path.exists(pasta_pesquisa):

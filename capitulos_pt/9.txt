@@ -20,13 +20,13 @@ Cada nova explicação era uma surpresa, e eu estava impressionado com o quanto 
 
 Saindo pela porta do prédio da Guilda dos Mercadores, percebi que ainda não era necessário me aprofundar em todas as funções disponíveis. A verdade é que mal conseguia me manter financeiramente, e adicionar essa enorme quantidade de opções na minha placa de status exigiria muitos recursos.
 
-Outra coisa que me deixou frustrado foi o fato de que não poderia usar a habilidade de Superfaturamento para ganhar um dinheiro extra vendendo alguns itens que tinha no inventário. Com apenas 945 zenys restantes, eu precisaria passar dias completando missões e quests, subindo de nível para conseguir mais dinheiro e pontos de habilidades. Para desbloquear a habilidade de Superfaturamento, seria necessário distribuir três pontos em Capacidade de Carga primeiro.
+ o fato era de que eu não poderia usar a habilidade de Superfaturamento para ganhar um dinheiro extra vendendo alguns itens que tinha no inventário. Com apenas 945 zenys restantes, eu precisaria passar dias completando missões e quests, subindo de nível para conseguir mais dinheiro e pontos de habilidades. Para desbloquear a habilidade de Superfaturamento, seria necessário distribuir três pontos em Capacidade de Carga primeiro.
 
 Decidi investir meu único ponto de classe, que ganhei ao me tornar um mercador, na habilidade de Identificar Item. Afinal, eu tinha uma clava desconhecida e precisava usar essa habilidade para descobrir seus atributos. Antes de identificar o item, decidi ir até a pousada e esperar Rox, para que pudéssemos decidir juntos o que fazer a seguir: se nos dedicar a explorar novos locais em busca de força ou se ficar realizando quests nos arredores de Prontera para conseguir mais dinheiro.
 
 Ao chegar na pousada onde me hospedava, encontrei Tayla saindo rapidamente. Antes de passar pela porta, ela me avistou.
 
-"Senhor Azoth, estou saindo agora, mas Rox me pediu para deixar uma mensagem. Ele disse que a passagem de classe dele duraria uma semana e que, por isso, ficaria indisponível nesses dias."
+"Senhor Azoth, estou saindo agora, mas Rox me pediu para deixar uma mensagem. Ele disse que a passagem de classe dele duraria uma semana e que, por isso, ficaria indisponível por 7 dias."
 
 Agradeci a Tayla pela mensagem. Tudo indicava que eu teria que resolver tudo sozinho, mas decidi que era melhor focar meus esforços nesta semana para subir de nível e ganhar pontos suficientes para conseguir a habilidade de Superfaturamento, assim eu poderia vender alguns itens do meu inventário.
 
@@ -51,11 +51,11 @@ Como planejado, não pegaria nenhuma missão nesse período. Meu foco era derrot
 
 ...
 
-Três dias depois, ao final da minha jornada, retornei das planícies. Estava exausto, mas ainda esperançoso de encontrar alguma quest que aceitasse os itens que eu havia conseguido. A luta foi difícil, principalmente estando sozinho. Em vários momentos, tive que caçar porings para ganhar experiência sem arriscar muito minha vida. Já estava no limite; se enfrentasse monstros mais fortes e deixasse que me atacassem, não teria sobrevivido.
+Três dias depois, ao final da minha jornada, retornei das planícies. Estava exausto, mas ainda esperançoso de encontrar alguma quest que aceitasse os itens que eu havia conseguido. A luta foi difícil, principalmente estando sozinho. Em vários momentos, tive que caçar porings para ganhar experiência sem arriscar muito minha vida. Já estava no limite; se enfrentasse monstros mais fortes e deixasse que me atacassem, não teria sobrevivido eu precisava subir de nível pra recuperar todo meu HP.
 
-Ao subir de nível, comecei a enfrentar monstros mais fortes, como os Fabres e o Lunático Alfa. No entanto, tive que derrotar muitos Porings antes de alcançar o próximo nível e recuperar completamente meu HP.
+Ao subir de nível, voltei enfrentar monstros mais fortes, como os Fabres e o Lunático Alfa.
 
-Consegui alcançar o nível 14 de base e o nível 8 de classe. Distribuí os 3 pontos em capacidade de carga e decidi alocar os outros pontos em Einbroch, pois, ao contrário dos pontos de atributos, para resetar minhas habilidades na guilda de mercadores, precisaria pagar uma quantia considerável.
+Consegui alcançar o nível 14 de base e o nível 8 de classe. Distribuí os 3 pontos em capacidade de carga e decidi alocar os outros pontos quando eu chegasse em Einbroch, pois, ao contrário dos pontos de atributos, para resetar minhas habilidades na guilda de mercadores, precisaria pagar uma quantia considerável.
 
 Consegui muitos itens durante minha exploração. O lado positivo de estar sozinho é que não preciso dividir loot com ninguém, o que é excelente. Acredito que, desta vez, não passarei necessidades por alguns dias e poderei finalmente fazer o que faço de melhor: comércio.
 
@@ -75,33 +75,33 @@ Depois desse breve diálogo percebi que ainda precisava ficar mais forte apesar 
 
 
 
+Protagonist Data: 
 
-
-(Falta alterar)
-
+----------------------------
+Dia: 8
 -----------------------------
-Nível de Classe: 8
+Nível de Classe: 10
 Nível Base: 14
 -----------------------------
 Status de Vida:
-  HP      : 281
-  MP      : 88
+  HP      : 335
+  MP      : 92
 
 Atributos:
-  STR     : 22
+  STR     : 24
   AGI     : 12
-  VIT     : 10
-  INT     : 5
-  DEX     : 8
-  LUK     : 1
+  VIT     : 12
+  INT     : 0
+  DEX     : 10
+  LUK     : 6
 
 Estatísticas de Combate:
-  ATQ     : 45
-  MATQ    : 16.5
-  HIT     : 8
-  Critical: 0
-  DEF     : 15
-  MDEF    : 7
+  ATQ     : 49
+  MATQ    : 14.0
+  HIT     : 12
+  Critical: 2
+  DEF     : 16
+  MDEF    : 6
   Flee    : 12
   ASPD    : 0
 -----------------------------
@@ -153,4 +153,14 @@ Inventário:
     Clava [3]          : 2
     Espada [4]         : 1
     Faca               : 1    
+-----------------------------
+
+Habilidades:
+
+Habilidades Ativas:
+  Mammonita                    : Nível 1
+
+Habilidades Passivas:
+  Aumentar Capacidade de Carga : Nível 3
+
 -----------------------------

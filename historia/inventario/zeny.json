@@ -16,11 +16,11 @@
             "capitulo": 3,
             "ganhos": 0,
             "gastos": 0,
-            "saldo": 580
+            "saldo": 180
         },
         {
             "capitulo": 4,
-            "ganhos": 2000,
+            "ganhos": 2500,
             "gastos": 500,
             "saldo": 2020
         },
@@ -46,13 +46,19 @@
             "capitulo": 8,
             "ganhos": 200,
             "gastos": 1000,
-            "saldo": 945    
+            "saldo": 945
         },
         {
             "capitulo": 9,
             "ganhos": 1200,
             "gastos": 800,
             "saldo": 1345
+        },
+        {
+            "capitulo": 10,
+            "ganhos": 5107.15,
+            "gastos": 500.0,
+            "saldo": 5952.15
         }
     ]
 }

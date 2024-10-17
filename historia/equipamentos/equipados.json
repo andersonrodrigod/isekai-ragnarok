@@ -1,7 +1,7 @@
 {
     "equipamentos": [
         {
-            "nome": "Clava [3]",
+            "nome": "Paleto",
             "atributos": {
                 "STR": 0,
                 "AGI": 0,
@@ -11,7 +11,32 @@
                 "LUK": 0
             },
             "atributos_derivados": {
-                "ATQ": 23,
+                "ATQ": 0,
+                "MATQ": 0,
+                "HIT": 0,
+                "Critical": 0,
+                "DEF": 40,
+                "MDEF": 0,
+                "flee": 0,
+                "aspd": 0,
+                "peso": 30,
+                "efeito_passivo": "",
+                "efeito_ativo": "",
+                "descricao": "Terno formal para homens. "
+            }
+        },
+        {
+            "nome": "Espada [4]",
+            "atributos": {
+                "STR": 2,
+                "AGI": 0,
+                "VIT": 0,
+                "INT": 0,
+                "DEX": 0,
+                "LUK": 0
+            },
+            "atributos_derivados": {
+                "ATQ": 25,
                 "MATQ": 0,
                 "HIT": 0,
                 "Critical": 0,
@@ -19,13 +44,14 @@
                 "MDEF": 0,
                 "flee": 0,
                 "aspd": 0,
+                "peso": 50,
                 "efeito_passivo": "",
                 "efeito_ativo": "",
-                "descricao": "Um porrete robusto e pesado."
+                "descricao": "Espada simples, de uma m\u00e3o s\u00f3. "
             }
         },
         {
-            "nome": "Camisa de Algodao",
+            "nome": "Sapatos",
             "atributos": {
                 "STR": 0,
                 "AGI": 0,
@@ -43,9 +69,60 @@
                 "MDEF": 0,
                 "flee": 0,
                 "aspd": 0,
+                "peso": 40,
                 "efeito_passivo": "",
                 "efeito_ativo": "",
-                "descricao": "Camisa simples de algodão. Para ser usada em qualquer ocasião"
+                "descricao": "Cal\u00e7ado feito de couro. Consiste em uma sola grossa e uma cobertura mais leve at\u00e9 logo abaixo do tornozelo. "
+            }
+        },
+        {
+            "nome": "Capuz",
+            "atributos": {
+                "STR": 0,
+                "AGI": 0,
+                "VIT": 0,
+                "INT": 0,
+                "DEX": 0,
+                "LUK": 0
+            },
+            "atributos_derivados": {
+                "ATQ": 0,
+                "MATQ": 0,
+                "HIT": 0,
+                "Critical": 0,
+                "DEF": 4,
+                "MDEF": 0,
+                "flee": 0,
+                "aspd": 0,
+                "peso": 20,
+                "efeito_passivo": "",
+                "efeito_ativo": "",
+                "descricao": "Touca flex\u00edvel para cabe\u00e7a e pesco\u00e7o. "
+            }
+        },
+        {
+            "nome": "Vembrassa",
+            "atributos": {
+                "STR": 0,
+                "AGI": 0,
+                "VIT": 0,
+                "INT": 0,
+                "DEX": 0,
+                "LUK": 0
+            },
+            "atributos_derivados": {
+                "ATQ": 0,
+                "MATQ": 0,
+                "HIT": 0,
+                "Critical": 0,
+                "DEF": 20,
+                "MDEF": 0,
+                "flee": 0,
+                "aspd": 0,
+                "peso": 30,
+                "efeito_passivo": "",
+                "efeito_ativo": "",
+                "descricao": "Escudo quadrado, pequeno mas efetivo para bloquear ataques inimigos. "
             }
         }
     ],
