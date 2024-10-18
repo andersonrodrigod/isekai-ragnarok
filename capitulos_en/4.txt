@@ -56,105 +56,128 @@
 
 29. "Smoke Sentinels? Am I part of that guild?"
 
-30. She replied, ironically: "No, silly. There is a difference between legitimate guilds and formal guilds." //
+30. She replied, ironically: "No, silly. There is a difference between legitimate guilds and formal guilds."
 
 31. Rose explained the two main types of guilds.
 
 32. First, we have the guilds created using a Emperium Shard, a rare item that grants the right to found a legitimate guild, recognized by the Emperium system, created by deities in ancient times. They have well-established hierarchies, their own rules and are usually focused on the War of Emperium, dungeon raids, and any other military operation. The main advantage of a legitimate guild is the just like in the game: Guild Skills, with the iconic "Emergency Call" that summons all chosen members with teleports.
 
-33. On the other hand, the formal, "in name only" guilds are just normal organizations with varying purposes. Among them are class guilds. They are learning centers specific to classes such as alchemists, blacksmiths and knights, where members train and develop their skills. There are also adventurer guilds, which are organizations used for issuing or seeking quests, sharing information and obtaining support for their adventures. These guilds are recognized by the cities to organize and control the activity of adventurers efficiently. TROCAR PROFESSIONS POR CLASS
+33. On the other hand, the formal, "in name only" guilds are just normal organizations with varying purposes. Among them are class guilds. They are learning centers specific to classes such as alchemists, blacksmiths and knights, where members train and develop their skills. There are also adventurer guilds, which are organizations used for issuing or seeking quests, sharing information and obtaining support for their adventures. These guilds are recognized by the cities to organize and control the activity of adventurers efficiently.
 
 34. I also asked Rose about territorial wars in the kingdom of Rune Midgard. She explained that in the past, there have been several alliance breakdowns and wars between legitimate guilds and kingdoms. However, we are currently living in a period of peace. The last major war was with the Republic of Schwartzvald, which happened over 10 years ago. Rose also mentioned the Morroc revolt, but did not go into much detail, only that it was a civil war caused by rebels fighting for the independence of the Morroc region.
 
 35. These wars and revolts often arise from disputes over power and territory, involving guilds that arise due to broader political and territorial interests. However, at this time, the kingdom seems to be in a period of relative tranquility, after the intense battles and political changes that marked the recent past.
 
-36. ***
+36. The adventurer guild building was not a suitable place for conversation right now; there was a lot of euphoria and shouting. I took the opportunity to say goodbye to Balack at the train station.
 
-37. The adventurer guild building was not a suitable place for conversation right now; there was a lot of euphoria and shouting. I took the opportunity to say goodbye to Balack at the train station.
+37. The metallic sound of gears grinding and the smokestacks belching into the gray sky accompanied me as I walked through Einbroch station. The thick, soot-laden air filled my lungs with every step. People in shabby work clothes hurried past me, some carrying sacks of ore, others with tools strapped to their waists. The steam locomotive, parked in front of me, let out a constant squeaking noise, as if it were complaining about its own existence.
 
-38. The metallic sound of gears grinding and the smokestacks belching into the gray sky accompanied me as I walked through Einbroch station. The thick, soot-laden air filled my lungs with every step. People in shabby work clothes hurried past me, some carrying sacks of ore, others with tools strapped to their waists. The steam locomotive, parked in front of me, let out a constant squeaking noise, as if it were complaining about its own existence.
+38. I looked around, looking for Balack. It wasn't long before I spotted him about to enter a train. "Balack!" I called, raising my hand.
 
-39. I looked around, looking for Balack. It wasn’t long before I spotted him about to enter a train. “Balack!” I called, raising my hand.
+39. "Hey, kid!" he shouted as he stepped back from the train.
 
-40. “Hey, kid!” he shouted as he stepped back from the train.
+40. "Are you leaving, then?" I asked, in a farewell tone.
 
-41. "Are you leaving, then?" I asked, in a farewell tone.
+41. "Yes, as I said this morning, I need to get back to work."
 
-42. "Yes, as I said this morning, I need to get back to work."
+42. "Let me at least add your status plate number to mine, so we can communicate from a distance."
 
-43. "Let me at least add your status plate number to mine, so we can communicate from a distance."
+43. The concept of exchanging messages left me full of doubts, but I held out my registration number. Maybe it would be a good opportunity to investigate this communication option later.
 
-44. The concept of exchanging messages left me full of doubts, but I held out my registration number. Maybe it would be a good opportunity to investigate this communication option later.
+44. Once Balack confirmed the registration, he climbed onto the train in a cheery mood. The whistle sounded, and within moments, the locomotive began to move, slowly moving away from the station. I waved lightly as it disappeared into the distance, then turned to face the city center.
 
-45. Once Balack confirmed the registration, he climbed onto the train in a cheery mood. The whistle sounded, and within moments, the locomotive began to move, slowly moving away from the station. I waved lightly as it disappeared into the distance, then turned to face the city center.
+45. Curious, I opened the menu on my status plate to test the messaging function. When I tried to access it, a notification appeared: "Option blocked. Go to the nearest post office to unlock it." I let out a frustrated sigh. Of course, nothing could be that simple. I would have to find a post office in the city to activate this function, and there would certainly be a cost involved.
 
-46. Curious, I opened the menu on my status plate to test the messaging function. When I tried to access it, a notification appeared: "Option blocked. Go to the nearest post office to unlock it." I let out a frustrated sigh. Of course, nothing could be that simple. I would have to find a post office in the city to activate this function, and there would certainly be a cost involved.
+46. With that thought, I decided to head towards the city post office. The streets of Einbroch, covered in industrial dust and with the mechanical sounds of machinery, gave me the feeling that everything there worked like a big gear. The metal buildings and the factories releasing smoke reminded me that this city never stopped.
 
-47. With that thought, I decided to head towards the city post office. The streets of Einbroch, covered in industrial dust and with the mechanical sounds of machinery, gave me the feeling that everything there worked like a big gear. The metal buildings and the factories releasing smoke reminded me that this city never stopped.
+47. After walking a few blocks, I spotted the post office building. It was a discreet building compared to the rest of the city, but the emblem of a winged letter above the door gave away its purpose. Upon entering, I found the place busier than I expected. There were merchants, adventurers, and even city workers, all apparently taking care of their business.
 
-48. After walking a few blocks, I spotted the post office building. It was a discreet building compared to the rest of the city, but the emblem of a winged letter above the door gave away its purpose. Upon entering, I found the place busier than I expected. There were merchants, adventurers, and even city workers, all apparently taking care of their business.
+48. I walked up to the counter, where a middle-aged man wearing a simple uniform greeted me with a curious look. "Can I help you, young man?" he asked, interrupting his work.
 
-49. I walked up to the counter, where a middle-aged man wearing a simple uniform greeted me with a curious look. "Can I help you, young man?" he asked, interrupting his work.
+49. "Yes, I'm trying to unlock the messaging function on my status plate. A notification appeared saying that I need to come here."
 
-50. "Yes, I'm trying to unlock the messaging function on my status plate. A notification appeared saying that I need to come here."
+50. The clerk nodded as if it were something normal. "Ah, I see. You'll need to register here and pay a small fee to enable the service."
 
-51. The clerk nodded as if it were something normal. "Ah, I see. You'll need to register here and pay a small fee to enable the service."
+51. He continued, "Activating the messaging function costs 500 Zeny, and you'll need to pay a fee of 1000 Zeny for each message you send. If you plan on using it a lot, we have more advantageous plans, such as 50, 100, or even unlimited messages per month. We also have special plans for guild leaders, which allow you to send messages to all members directly from the board."
 
-52. He continued, “Activating the messaging function costs 500 Zeny, and you’ll need to pay a fee of 1000 Zeny for each message you send. If you plan on using it a lot, we have more advantageous plans, such as 50, 100, or even unlimited messages per month. We also have special plans for guild leaders, which allow you to send messages to all members directly from the board.”
+52. I thought for a moment. The fees were a bit high, but it was clear that this feature would be useful. In the game, we didn't have to worry about that—messages were instantaneous, and we only needed to use them when someone was offline. However, after finishing that quest, I had 2520 Zeny. It was a good amount to survive for a few days, but what irritated me was realizing that every useful function in this world seemed to come with a fee.
 
-53. I thought for a moment. The fees were a bit high, but it was clear that this feature would be useful. In the game, we didn’t have to worry about that—messages were instantaneous, and we only needed to use them when someone was offline. However, after finishing that quest, I had 2520 Zeny. It was a good amount to survive for a few days, but what irritated me was realizing that every useful function in this world seemed to come with a fee.
+53. I decided to enable the message function at least so I could read what was sent to me. If I needed to send a message, I would have to pay 1000 Zeny each time.
 
-54. I decided to enable the message function at least so I could read what was sent to me. If I needed to send a message, I would have to pay 1000 Zeny each time.
+54. When I left the post office, it was already night. I had 2020 Zeny left and there were still two days until I had to settle my bills with the inn. I should be able to get another week's pay with that money, but my knife was already showing some minor damage. However, I didn't know if it would be worth fixing it. I would need to ask a blacksmith about the cost of repairing it. Then I will decide on whether to repair or buy a new one. I've lived with a blacksmith in my room for 3 days and didn't ask him about it.
 
-55. When I left the post office, it was already night. I had 2020 Zeny left and there were still two days until I had to settle my bills with the inn. I should be able to get another week's pay with that money, but my knife was already showing some minor damage. However, I didn't know if it would be worth fixing it. I would need to ask a blacksmith about the cost of repairing it. Then I will decide on whether to repair or buy a new one. I've lived with a blacksmith in my room for 3 days and didn't ask him about it.
+55. Starting tomorrow, I planned to enter dungeons to increase my level, to quickly reach level 10 and obtain my merchant class. That way, I will start making some decent money.
 
-56. Starting tomorrow, I planned to enter dungeons to increase my level, to quickly reach level 10 and obtain my merchant class. That way, I will start making some decent money.
+56. I arrived at the inn and got my key from Tayla, who was behind the reception. She looked at me with a friendly smile. I briefly greeted her and went to my room. I was eager to rest after having completed all the missions of the day.
 
-57. I arrived at the inn and got my key from Tayla, who was behind the reception. She looked at me with a friendly smile. I briefly greeted her and went to my room. I was eager to rest after having completed all the missions of the day.
-
-58. When I opened the door, however, I was greeted by a completely unexpected scene.
+57. When I opened the door, however, I was greeted by a completely unexpected scene.
 
 
 
 
+58. ----------------------------
 
-59. Protagonist Data:
+59. Protagonist Date:
 
-60. _______________________________________
+60. ----------------------------
+61. Day: 6
+62. -----------------------------
+63. Class Level: 1
+64. Base Level: 6
+65. -----------------------------
+66. Life Status:
+67. HP: 150
+68. MP: 40
 
-61. Status:
+69. Attributes:
+70. STR: 5
+71. AGI: 5
+72. VIT: 5
+73. INT: 5
+74. DEX: 6
+75. LUK: 5
 
-62. HP: 80
-63. SP: 34
+76. Combat Statistics:
+77. ATK: 24
+78. MATQ: 14.5
+79. HIT: 6
+80. Critical: 1
+81. DEF: 12
+82. MDEF: 5
+83. Flee: 5
+84. ASPD: 106
+85. -----------------------------
+86. Zeny: 2020
+87. -----------------------------
 
-64. ---------------------------------------------------------------
+88. Equipped Equipment:
+89. Knife
+90. ATK: 17
+91. Description: A simple knife.
 
-65. Zeny: 2020
+92. Cotton Shirt
+93. DEF: 10
+94. Description: Simple cotton shirt. To be used on any occasion.
+95. -----------------------------
 
-66. Daily Expenses:
-
-67. Meal: 20 zeny
-
-68. ---------------------------------------------------------------
-
-69. Inventory:
-
-70. Flower: 4
-71. Bud: 4
-72. Stem: 6
-73. Lantana: 2
-74. Felpa: 4
-75. Mint: 2
-76. Romantic Flower: 4
-77. Celatom: 2
-78. Melody Plant: 2
-79. Makulrata: 2
-80. Bitter Herb: 2
-81. Green Herb: 5
-82. Sharp Scale: 2
-83. Aloe: 2
-84. Aloe Leaf: 2
-85. Romantic Leaf: 2
-86. Red Herb: 6
-87. Yellow Herb: 3
-88. Quests current:
+96. Inventory:
+97. Items Quantity
+98. Flower: 4
+99. Sprout: 4
+100. Stem: 6
+101. Lantana: 2
+102. Felpa: 4
+103. Mint: 2
+104. Romantic Flower: 4
+105. Celatom: 2
+106. Melody Plant: 2
+107. Makulrata: 2
+108. Bitter Herb: 2
+109. Green Herb: 5
+110. Sharp Scale: 2
+111. Aloe: 2
+112. Aloe Leaf: 2
+113. Romantic Leaf: 2
+114. Red Herb: 6
+115. Yellow Herb: 3
+116. -----------------------------

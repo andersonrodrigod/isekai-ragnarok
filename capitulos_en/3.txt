@@ -2,13 +2,13 @@
 
 2. As I entered, I realized that the situation at the inn was not calm either. There was a lot of confusion and many people were shouting at Tayla, the kafra in charge of the place. Despite everything, she kept her charming smile and continued to speak politely to the complainants, which made me empathize with her. I approached to see what was going on.
 
-3. When I got closer, a man with an aggressive tone said to Tayla: "How come a hostel as bad as this doesn't have a room available? It's already the tenth hostel I've entered and they're all full, what a shitty city that keeps accepting these fucking  immigrants"
+3. When I got closer, a man with an aggressive tone said to Tayla: "How come a hostel as bad as this doesn't have a room available? It's already the tenth hostel I've entered and they're all full, what a shitty city that keeps accepting these fucking immigrants"
 
 4. Tayla, with her persistent smile and a bead of sweat running down her face, replied: "Sir, I apologize, but due to the arrival of new inhabitants from all over the world, we are facing overcrowding. We are doing our best to adapt to this situation."
 
-5. The situation was complicated. I hadn’t anticipated this kind of problem. In my rush to resolve other matters, I didn't pay attention to the impacts of the mass migration on this world. Ignoring the screams, I approached the reception desk to ask for my key.
+5. The situation was complicated. I hadn't anticipated this kind of problem. In my rush to resolve other matters, I didn't pay attention to the impacts of the mass migration on this world. Ignoring the screams, I approached the reception desk to ask for my key.
 
-6. When Tayla saw me, her face lit up with relief, and she called out to me: “Azoth, please, I need to talk to you. Let’s go inside”
+6. When Tayla saw me, her face lit up with relief, and she called out to me: "Azoth, please, I need to talk to you. Let's go inside"
 
 7. I ignored the commotion that was still going on in the reception area. The people waiting in the reception area continued to shout, but nothing could change what was happening. We entered the room and Tayla stopped me in front of her. I was mesmerized by her eyes. There was something charming about her that made me want to say something positive.
 
@@ -30,7 +30,7 @@
 
 16. Although I hadn't prepared for this kind of situation, I had been smart to rush through other tasks on the first day. Maybe my mistake was not taking a mission earlier, but overall, the ones I chose were good.
 
-17. I was exhausted, I could barely stand. My body was asking for rest, and I wanted to get out of there as quickly as possible. "I'll leave it to you, then. I'll be sleeping in the meantime."
+17. I was exhausted, I could barely stand. My body was asking for rest, and I wanted to get out of there as quickly as possible. "I'll leave it to you, then. I'll be sleeping in the meantime."
 
 18. Tayla replied: "Don't worry, we've already sorted it out."
 
@@ -89,46 +89,69 @@
 45. "Yes, it was exactly as you said. Some of us are having trouble adapting," I replied.
 
 
-46. Protagonist Data:
-
-47. _______________________________________
-
-48. Status:
-
-49. HP: 80
-50. SP: 34
-
-51. ---------------------------------------------------------------
-
-52. Zeny: 580
-
-53. Daily Expenses:
-
-54. Meal: 20 zeny
-
-55. ---------------------------------------------------------------
-
-56. Inventory:
-
-57. Flower: 4
-58. Bud: 4
-59. Stem: 6
-60. Lantana: 2
-61. Felpa: 4
-62. Mint: 2
-63. Romantic Flower: 4
-64. Celatom: 2
-65. Melody Plant: 2
-66. Makulrata: 2
-67. Bitter Herb: 2
-68. Green Herb: 5
-69. Sharp Scale: 2
-70. Aloe: 2
-71. Aloe Leaf: 2
-72. Romantic Leaf: 2
-73. Red Herb: 6
-74. Yellow Herb: 3
-75. Quests current:
 
 
 
+46. ----------------------------
+
+47. Protagonist Data:
+
+48. ----------------------------
+49. Day: 2
+50. -----------------------------
+51. Class Level: 1
+52. Base Level: 3
+53. -----------------------------
+54. Life Status:
+55. HP: 120
+56. MP: 37
+
+57. Attributes:
+58. STR: 5
+59. AGI: 5
+60. VIT: 5
+61. INT: 5
+62. DEX: 6
+63. LUK: 5
+
+64. Combat Statistics:
+65. ATK: 24
+66. MATQ: 14.5
+67. HIT: 6
+68. Critical: 1
+69. DEF: 12
+70. MDEF: 5
+71. Flee: 5
+72. ASPD: 106
+73. -----------------------------
+74. Zeny: 180
+75. -----------------------------
+
+76. Equipped Equipment:
+77. Knife
+78. ATK: 17
+79. Description: A simple knife.
+
+80. Cotton Shirt
+81. DEF: 10
+82. Description: Simple cotton shirt. To be used on any occasion.
+83. -----------------------------
+
+84. Inventory:
+85. Flower : 2
+86. Bud : 2
+87. Stem : 2
+88. Lantana : 1
+89. Felpa : 2
+90. Mint : 1
+91. Romantic Flower : 2
+92. Celatom : 1
+93. Melody Plant : 1
+94. Makulrata : 1
+95. Bitter Herb : 1
+96. Green Herb : 1
+97. Sharp Scale : 1
+98. Aloe : 1
+99. Aloe Leaf : 1
+100. Romantic Leaf : 1
+101. -----------------------------
