@@ -1,166 +1,166 @@
-Ao sair da sala, o assistente do mercador sênior estava à espera e nos explicou algumas de nossas novas habilidades. Entre elas estavam: Comércio, Mammonita, Identificar Item, Desconto, Superfaturar, Usar Carrinho e Aumentar Capacidade de Carga.
+1. Ao sair da sala, o assistente do mercador sênior estava à espera e nos explicou algumas de nossas novas habilidades. Entre elas estavam: Comércio, Mammonita, Identificar Item, Desconto, Superfaturar, Usar Carrinho e Aumentar Capacidade de Carga.
 
-Porém, ainda faltavam algumas habilidades que, para mim, eram essenciais, especialmente se eu quisesse me juntar a um grupo de aventureiros. O "Grito de Guerra" era um excelente buff, então decidi perguntar ao assistente.
+2. Porém, ainda faltavam algumas habilidades que, para mim, eram essenciais, especialmente se eu quisesse me juntar a um grupo de aventureiros. O "Grito de Guerra" era um excelente buff, então decidi perguntar ao assistente.
 
-"Existem outras habilidades para mercadores?", perguntei, esperando uma resposta clara,
+3. "Existem outras habilidades para mercadores?", perguntei, esperando uma resposta clara,
 
-"Ah, claro, existem várias habilidades. No entanto, são de aprendizado mais demorado, e é necessário completar missões ou quests para adquiri-las. Existem grupos de mercadores especializados que ensinam essas habilidades. Aqui na cidade, temos o Mott, que pode te ensinar duas delas, mas para isso, você terá que realizar uma tarefa para ele."
+4. "Ah, claro, existem várias habilidades. No entanto, são de aprendizado mais demorado, e é necessário completar missões ou quests para adquiri-las. Existem grupos de mercadores especializados que ensinam essas habilidades. Aqui na cidade, temos o Mott, que pode te ensinar duas delas, mas para isso, você terá que realizar uma tarefa para ele."
 
-Gravei o nome de Mott na memória para procurá-lo futuramente. No momento, havia coisas mais urgentes. O assistente continuou: "Ao abrirem suas placas de status, vocês notarão algumas novas funções. A primeira delas é o rank. Agora que se tornaram mercadores em Einbroch, vocês automaticamente fazem parte dos mercadores locais, sem custo. Porém, se quiserem acesso ao ranking global, será necessário pagar uma taxa extra."
+5. Gravei o nome de Mott na memória para procurá-lo futuramente. No momento, havia coisas mais urgentes. O assistente continuou: "Ao abrirem suas placas de status, vocês notarão algumas novas funções. A primeira delas é o rank. Agora que se tornaram mercadores em Einbroch, vocês automaticamente fazem parte dos mercadores locais, sem custo. Porém, se quiserem acesso ao ranking global, será necessário pagar uma taxa extra."
 
-Achei o ranking uma ferramenta incrível para propaganda, pois permitiria ver o status de outros mercadores, o tipo de produto que vendem e seus volumes de vendas. Isso seria uma ótima maneira de analisar o mercado e suas tendências. Fiquei animado ao ver gráficos comparativos de itens, equipamentos e vendas, além de comparações entre diferentes mercadores. Era uma ferramenta extremamente útil.
+6. Achei o ranking uma ferramenta incrível para propaganda, pois permitiria ver o status de outros mercadores, o tipo de produto que vendem e seus volumes de vendas. Isso seria uma ótima maneira de analisar o mercado e suas tendências. Fiquei animado ao ver gráficos comparativos de itens, equipamentos e vendas, além de comparações entre diferentes mercadores. Era uma ferramenta extremamente útil.
 
-O assistente prosseguiu: "Vale lembrar que vocês ainda não estão nesse ranking. Para serem listados, terão que pagar também. Outra função importante é o comércio virtual, que, como podem ver, é totalmente paga. Esse é o nosso serviço mais caro. Se quiserem mais informações, o recepcionista na entrada do prédio pode explicar melhor, pois há várias regras para esse serviço."
+7. O assistente prosseguiu: "Vale lembrar que vocês ainda não estão nesse ranking. Para serem listados, terão que pagar também. Outra função importante é o comércio virtual, que, como podem ver, é totalmente paga. Esse é o nosso serviço mais caro. Se quiserem mais informações, o recepcionista na entrada do prédio pode explicar melhor, pois há várias regras para esse serviço."
 
-"Agora vamos falar de outro recurso disponível, que também é pago, mas como vocês se tornaram mercadores hoje, terão um mês de acesso gratuito", disse ele, fazendo uma breve pausa antes de continuar: "É a função de Anúncio. Se você deseja comprar ou vender algum item ou equipamento, mas não sabe onde encontrá-lo, ao acessar essa função, terá acesso a todos os mercadores da cidade que compram ou vendem o item desejado. Muitos têm estabelecimentos no Grande Mercado de Einbroch, e com essas informações, você pode enviar uma mensagem ao vendedor ou comprador. Caso o mercador tenha uma loja, poderá acessar essa informação também na função de anúncios da placa de status."
+8. "Agora vamos falar de outro recurso disponível, que também é pago, mas como vocês se tornaram mercadores hoje, terão um mês de acesso gratuito", disse ele, fazendo uma breve pausa antes de continuar: "É a função de Anúncio. Se você deseja comprar ou vender algum item ou equipamento, mas não sabe onde encontrá-lo, ao acessar essa função, terá acesso a todos os mercadores da cidade que compram ou vendem o item desejado. Muitos têm estabelecimentos no Grande Mercado de Einbroch, e com essas informações, você pode enviar uma mensagem ao vendedor ou comprador. Caso o mercador tenha uma loja, poderá acessar essa informação também na função de anúncios da placa de status."
 
-Cada nova explicação era uma surpresa, e eu estava impressionado com o quanto o sistema de mercado havia evoluído para ter tanto controle e organização.
+9. Cada nova explicação era uma surpresa, e eu estava impressionado com o quanto o sistema de mercado havia evoluído para ter tanto controle e organização.
 
-"cada mês é necessário 5 mil Zenys para manter os recursos que vocês tem acesso por um mês e Por fim, existem várias outras opções para quem deseja investir em itens ou equipamentos específicos ou usar o carrinho, mas vocês terão que se informar por conta própria na entrada do prédio da Guilda. Até mais!" disse o assistente, despedindo-se.
+10. "cada mês é necessário 5 mil Zenys para manter os recursos que vocês tem acesso por um mês e Por fim, existem várias outras opções para quem deseja investir em itens ou equipamentos específicos ou usar o carrinho, mas vocês terão que se informar por conta própria na entrada do prédio da Guilda. Até mais!" disse o assistente, despedindo-se.
 
-Saindo pela porta do prédio da Guilda dos Mercadores, percebi que ainda não era necessário me aprofundar em todas as funções disponíveis. A verdade é que mal conseguia me manter financeiramente, e adicionar essa enorme quantidade de opções na minha placa de status exigiria muitos recursos.
+11. Saindo pela porta do prédio da Guilda dos Mercadores, percebi que ainda não era necessário me aprofundar em todas as funções disponíveis. A verdade é que mal conseguia me manter financeiramente, e adicionar essa enorme quantidade de opções na minha placa de status exigiria muitos recursos.
 
- o fato era de que eu não poderia usar a habilidade de Superfaturamento para ganhar um dinheiro extra vendendo alguns itens que tinha no inventário. Com apenas 945 zenys restantes, eu precisaria passar dias completando missões e quests, subindo de nível para conseguir mais dinheiro e pontos de habilidades. Para desbloquear a habilidade de Superfaturamento, seria necessário distribuir três pontos em Capacidade de Carga primeiro.
+12. o fato era de que eu não poderia usar a habilidade de Superfaturamento para ganhar um dinheiro extra vendendo alguns itens que tinha no inventário. Com apenas 945 zenys restantes, eu precisaria passar dias completando missões e quests, subindo de nível para conseguir mais dinheiro e pontos de habilidades. Para desbloquear a habilidade de Superfaturamento, seria necessário distribuir três pontos em Capacidade de Carga primeiro.
 
-Decidi investir meu único ponto de classe, que ganhei ao me tornar um mercador, na habilidade de Identificar Item. Afinal, eu tinha uma clava desconhecida e precisava usar essa habilidade para descobrir seus atributos. Antes de identificar o item, decidi ir até a pousada e esperar Rox, para que pudéssemos decidir juntos o que fazer a seguir: se nos dedicar a explorar novos locais em busca de força ou se ficar realizando quests nos arredores de Prontera para conseguir mais dinheiro.
+13. Decidi investir meu único ponto de classe, que ganhei ao me tornar um mercador, na habilidade de Identificar Item. Afinal, eu tinha uma clava desconhecida e precisava usar essa habilidade para descobrir seus atributos. Antes de identificar o item, decidi ir até a pousada e esperar Rox, para que pudéssemos decidir juntos o que fazer a seguir: se nos dedicar a explorar novos locais em busca de força ou se ficar realizando quests nos arredores de Prontera para conseguir mais dinheiro.
 
-Ao chegar na pousada onde me hospedava, encontrei Tayla saindo rapidamente. Antes de passar pela porta, ela me avistou.
+14. Ao chegar na pousada onde me hospedava, encontrei Tayla saindo rapidamente. Antes de passar pela porta, ela me avistou.
 
-"Senhor Azoth, estou saindo agora, mas Rox me pediu para deixar uma mensagem. Ele disse que a passagem de classe dele duraria uma semana e que, por isso, ficaria indisponível por 7 dias."
+15. "Senhor Azoth, estou saindo agora, mas Rox me pediu para deixar uma mensagem. Ele disse que a passagem de classe dele duraria uma semana e que, por isso, ficaria indisponível por 7 dias."
 
-Agradeci a Tayla pela mensagem. Tudo indicava que eu teria que resolver tudo sozinho, mas decidi que era melhor focar meus esforços nesta semana para subir de nível e ganhar pontos suficientes para conseguir a habilidade de Superfaturamento, assim eu poderia vender alguns itens do meu inventário.
-
-
-Paguei por mais três dias na pousada, e agora só me restavam 345 Zenys. Decidi que passaria esses dias nas planícies de Prontera, treinando e me fortalecendo sozinho. Depois, voltaria com o nível de classe necessário para vender os itens do meu inventário.
-
-Antes disso, precisava verificar a clava de três slots que havia encontrado. Usei a habilidade de Identificar Item e descobri que ela tinha 23 de ataque, o que era superior à minha faca, que tinha apenas 17. No entanto, a clava era significativamente mais pesada. Mesmo assim, optei por usá-la, já que a faca estava em péssimo estado.
-
-Antes de dormir, resolvi passar na Entidade dos Ciclos para resetar meus atributos. Ao chegar lá, observei alguns aventureiros. Eles se aproximavam da estátua, ajoelhavam-se por cinco segundos e depois se levantavam rapidamente. Imitei o processo, e assim que fechei os olhos, senti todos os meus atributos sendo drenados. Era como se toda a minha energia estivesse sendo canalizada para um copo, pronto para ser recuperada a qualquer momento assim que eu o bebesse.
-
-Antes de dormir, resolvi passar na Entidade dos Ciclos para resetar meus atributos. Ao chegar lá, observei alguns aventureiros. Eles se aproximavam da estátua, ajoelhavam-se por cinco segundos e depois se levantavam rapidamente. Imitei o processo, e assim que fechei os olhos, senti todos os meus atributos sendo drenados. Era como se toda a minha energia estivesse sendo canalizada para um copo, pronto para ser recuperada a qualquer momento.
-
-Como mercador, minha única habilidade combativa era Mammonita, uma habilidade poderosa, mas que eu evitava usar devido ao custo. No primeiro nível, essa habilidade me permitia infligir um golpe corpo a corpo, custando 100 Zenys e 5 de MP, com um bônus de 150% de ataque. Isso significava que, com meus 39 de ataque, o golpe resultaria em um total de 97,5. Planejei usá-la apenas em emergências. Por causa disso, decidi distribuir todos os pontos de atributo em boa parte em força e destreza.
-
-Com tudo planejado para o dia seguinte, fui dormir para começar minha jornada renovado.
-
-...
-
-Acordei bem cedo. Agora, com o caminho claro em mente, me organizei e fui direto para a Guilda GateWatchers, seguindo rumo às planícies. Ao chegar, fiquei surpreso com o contraste. O ar era incrivelmente limpo, algo raro comparado à poluição constante de Einbroch, uma cidade industrial. A vastidão verde das planícies era quase um refúgio, um descanso visual e físico.
-
-Como planejado, não pegaria nenhuma missão nesse período. Meu foco era derrotar monstros para ganhar experiência, e no final de cada dia, verificaria se havia quests relacionadas aos itens que eu coletasse. Caso contrário, venderia tudo no mercado.
-
-...
-
-Três dias depois, ao final da minha jornada, retornei das planícies. Estava exausto, mas ainda esperançoso de encontrar alguma quest que aceitasse os itens que eu havia conseguido. A luta foi difícil, principalmente estando sozinho. Em vários momentos, tive que caçar porings para ganhar experiência sem arriscar muito minha vida. Já estava no limite; se enfrentasse monstros mais fortes e deixasse que me atacassem, não teria sobrevivido eu precisava subir de nível pra recuperar todo meu HP.
-
-Ao subir de nível, voltei enfrentar monstros mais fortes, como os Fabres e o Lunático Alfa.
-
-Consegui alcançar o nível 14 de base e o nível 8 de classe. Distribuí os 3 pontos em capacidade de carga e decidi alocar os outros pontos quando eu chegasse em Einbroch, pois, ao contrário dos pontos de atributos, para resetar minhas habilidades na guilda de mercadores, precisaria pagar uma quantia considerável.
-
-Consegui muitos itens durante minha exploração. O lado positivo de estar sozinho é que não preciso dividir loot com ninguém, o que é excelente. Acredito que, desta vez, não passarei necessidades por alguns dias e poderei finalmente fazer o que faço de melhor: comércio.
-
-Ao chegar ao Casarão da Guilda Viperspire, fui conferir no quadro digital quais quests estavam disponíveis. Vi que havia duas que eu poderia completar, oferecendo mil e duzentos zenys no total. Além disso, como havia coletado asas de moscas e alguns equipamentos, poderia vendê-los por um valor considerável e garantir minha sobrevivência por alguns dias.
-
-Ao sair da guilda, notei uma mesa de inscrição e fiquei curioso. Me aproximei para perguntar.
-
-"Oi, para que serve essa inscrição?" — perguntei ao homem atrás da mesa.
-
-"Olá! Eu sou o recrutador da guilda. Para participar do teste de admissão, é necessário estar no nível 25. Você gostaria de participar?" — ele respondeu, olhando-me nos olhos.
-
-"Na verdade, ainda não atingi o nível requerido, mas quando conseguir, definitivamente vou participar da seleção" — respondi, sentindo frustrado um pouco era uma ótima oportunidade para conhecer novas pessoas
-
-"Ótimo! Assim que você alcançar o nível necessário, volte aqui. Estaremos esperando" — ele disse, acenando com a cabeça.
-
-Depois desse breve diálogo percebi que ainda precisava ficar mais forte apesar de ser meu nono dia nesse mundo me sinto limitado quanto aos outros ex-jogadores de ragnarok será que estão em uma caminho mais fácil?
+16. Agradeci a Tayla pela mensagem. Tudo indicava que eu teria que resolver tudo sozinho, mas decidi que era melhor focar meus esforços nesta semana para subir de nível e ganhar pontos suficientes para conseguir a habilidade de Superfaturamento, assim eu poderia vender alguns itens do meu inventário.
 
 
+17. Paguei por mais três dias na pousada, e agora só me restavam 345 Zenys. Decidi que passaria esses dias nas planícies de Prontera, treinando e me fortalecendo sozinho. Depois, voltaria com o nível de classe necessário para vender os itens do meu inventário.
 
-Protagonist Data: 
+18. Antes disso, precisava verificar a clava de três slots que havia encontrado. Usei a habilidade de Identificar Item e descobri que ela tinha 23 de ataque, o que era superior à minha faca, que tinha apenas 17. No entanto, a clava era significativamente mais pesada. Mesmo assim, optei por usá-la, já que a faca estava em péssimo estado.
 
-----------------------------
-Dia: 8
------------------------------
-Nível de Classe: 10
-Nível Base: 14
------------------------------
-Status de Vida:
-  HP      : 335
-  MP      : 92
+19. Antes de dormir, resolvi passar na Entidade dos Ciclos para resetar meus atributos. Ao chegar lá, observei alguns aventureiros. Eles se aproximavam da estátua, ajoelhavam-se por cinco segundos e depois se levantavam rapidamente. Imitei o processo, e assim que fechei os olhos, senti todos os meus atributos sendo drenados. Era como se toda a minha energia estivesse sendo canalizada para um copo, pronto para ser recuperada a qualquer momento assim que eu o bebesse.
 
-Atributos:
-  STR     : 24
-  AGI     : 12
-  VIT     : 12
-  INT     : 0
-  DEX     : 10
-  LUK     : 6
+20. Antes de dormir, resolvi passar na Entidade dos Ciclos para resetar meus atributos. Ao chegar lá, observei alguns aventureiros. Eles se aproximavam da estátua, ajoelhavam-se por cinco segundos e depois se levantavam rapidamente. Imitei o processo, e assim que fechei os olhos, senti todos os meus atributos sendo drenados. Era como se toda a minha energia estivesse sendo canalizada para um copo, pronto para ser recuperada a qualquer momento.
 
-Estatísticas de Combate:
-  ATQ     : 49
-  MATQ    : 14.0
-  HIT     : 12
-  Critical: 2
-  DEF     : 16
-  MDEF    : 6
-  Flee    : 12
-  ASPD    : 0
------------------------------
+21. Como mercador, minha única habilidade combativa era Mammonita, uma habilidade poderosa, mas que eu evitava usar devido ao custo. No primeiro nível, essa habilidade me permitia infligir um golpe corpo a corpo, custando 100 Zenys e 5 de MP, com um bônus de 150% de ataque. Isso significava que, com meus 39 de ataque, o golpe resultaria em um total de 97,5. Planejei usá-la apenas em emergências. Por causa disso, decidi distribuir todos os pontos de atributo em boa parte em força e destreza.
 
-Zeny: 1345
+22. Com tudo planejado para o dia seguinte, fui dormir para começar minha jornada renovado.
 
------------------------------
+23. ...
 
-Equipamentos Equipados:
-  Clava [3]
-    ATQ      : 23
-    Descrição: Um porrete robusto e pesado.
+24. Acordei bem cedo. Agora, com o caminho claro em mente, me organizei e fui direto para a Guilda GateWatchers, seguindo rumo às planícies. Ao chegar, fiquei surpreso com o contraste. O ar era incrivelmente limpo, algo raro comparado à poluição constante de Einbroch, uma cidade industrial. A vastidão verde das planícies era quase um refúgio, um descanso visual e físico.
 
-  Camisa de Algodão
-    DEF      : 10
-    Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
------------------------------
+25. Como planejado, não pegaria nenhuma missão nesse período. Meu foco era derrotar monstros para ganhar experiência, e no final de cada dia, verificaria se havia quests relacionadas aos itens que eu coletasse. Caso contrário, venderia tudo no mercado.
 
-Inventário:
-  Itens:
-    Flor                : 4
-    Broto               : 4
-    Caule               : 6
-    Lantana             : 2
-    Felpa               : 5
-    Menta               : 2
-    Flor Romântica      : 4
-    Celatom             : 2
-    Planta da Melodia   : 2
-    Makulrata           : 2
-    Erva Amarga         : 2
-    Erva Verde          : 8
-    Escama Afiada       : 2
-    Aloes               : 2
-    Folha de Aloe       : 2
-    Folha Romântica     : 2
-    Erva Vermelha       : 6
-    Erva Amarela        : 3
-    Asa de Mosca        : 9
-    Cenoura Arco-Iris   : 2
-    Cenoura             : 3
-    Trevo               : 18
-    Pluma               : 3
-    Jellopy             : 10
-    Maçã                : 2
-    Muco Pegajoso       : 2
+26. ...
 
-  Equipamentos:
-    Clava [3]          : 2
-    Espada [4]         : 1
-    Faca               : 1    
------------------------------
+27. Três dias depois, ao final da minha jornada, retornei das planícies. Estava exausto, mas ainda esperançoso de encontrar alguma quest que aceitasse os itens que eu havia conseguido. A luta foi difícil, principalmente estando sozinho. Em vários momentos, tive que caçar porings para ganhar experiência sem arriscar muito minha vida. Já estava no limite; se enfrentasse monstros mais fortes e deixasse que me atacassem, não teria sobrevivido eu precisava subir de nível pra recuperar todo meu HP.
 
-Habilidades:
+28. Ao subir de nível, voltei enfrentar monstros mais fortes, como os Fabres e o Lunático Alfa.
 
-Habilidades Ativas:
-  Mammonita                    : Nível 1
+29. Consegui alcançar o nível 14 de base e o nível 8 de classe. Distribuí os 3 pontos em capacidade de carga e decidi alocar os outros pontos quando eu chegasse em Einbroch, pois, ao contrário dos pontos de atributos, para resetar minhas habilidades na guilda de mercadores, precisaria pagar uma quantia considerável.
 
-Habilidades Passivas:
-  Aumentar Capacidade de Carga : Nível 3
+30. Consegui muitos itens durante minha exploração. O lado positivo de estar sozinho é que não preciso dividir loot com ninguém, o que é excelente. Acredito que, desta vez, não passarei necessidades por alguns dias e poderei finalmente fazer o que faço de melhor: comércio.
 
------------------------------
+31. Ao chegar ao Casarão da Guilda Viperspire, fui conferir no quadro digital quais quests estavam disponíveis. Vi que havia duas que eu poderia completar, oferecendo mil e duzentos zenys no total. Além disso, como havia coletado asas de moscas e alguns equipamentos, poderia vendê-los por um valor considerável e garantir minha sobrevivência por alguns dias.
+
+32. Ao sair da guilda, notei uma mesa de inscrição e fiquei curioso. Me aproximei para perguntar.
+
+33. "Oi, para que serve essa inscrição?" — perguntei ao homem atrás da mesa.
+
+34. "Olá! Eu sou o recrutador da guilda. Para participar do teste de admissão, é necessário estar no nível 25. Você gostaria de participar?" — ele respondeu, olhando-me nos olhos.
+
+35. "Na verdade, ainda não atingi o nível requerido, mas quando conseguir, definitivamente vou participar da seleção" — respondi, sentindo frustrado um pouco era uma ótima oportunidade para conhecer novas pessoas
+
+36. "Ótimo! Assim que você alcançar o nível necessário, volte aqui. Estaremos esperando" — ele disse, acenando com a cabeça.
+
+37. Depois desse breve diálogo percebi que ainda precisava ficar mais forte apesar de ser meu nono dia nesse mundo me sinto limitado quanto aos outros ex-jogadores de ragnarok será que estão em uma caminho mais fácil?
+
+
+
+38. Protagonist Data:
+
+39. ----------------------------
+40. Dia: 8
+41. -----------------------------
+42. Nível de Classe: 10
+43. Nível Base: 14
+44. -----------------------------
+45. Status de Vida:
+46. HP      : 335
+47. MP      : 92
+
+48. Atributos:
+49. STR     : 24
+50. AGI     : 12
+51. VIT     : 12
+52. INT     : 0
+53. DEX     : 10
+54. LUK     : 6
+
+55. Estatísticas de Combate:
+56. ATQ     : 49
+57. MATQ    : 14.0
+58. HIT     : 12
+59. Critical: 2
+60. DEF     : 16
+61. MDEF    : 6
+62. Flee    : 12
+63. ASPD    : 0
+64. -----------------------------
+
+65. Zeny: 1345
+
+66. -----------------------------
+
+67. Equipamentos Equipados:
+68. Clava [3]
+69. ATQ      : 23
+70. Descrição: Um porrete robusto e pesado.
+
+71. Camisa de Algodão
+72. DEF      : 10
+73. Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+74. -----------------------------
+
+75. Inventário:
+76. Itens:
+77. Flor                : 4
+78. Broto               : 4
+79. Caule               : 6
+80. Lantana             : 2
+81. Felpa               : 5
+82. Menta               : 2
+83. Flor Romântica      : 4
+84. Celatom             : 2
+85. Planta da Melodia   : 2
+86. Makulrata           : 2
+87. Erva Amarga         : 2
+88. Erva Verde          : 8
+89. Escama Afiada       : 2
+90. Aloes               : 2
+91. Folha de Aloe       : 2
+92. Folha Romântica     : 2
+93. Erva Vermelha       : 6
+94. Erva Amarela        : 3
+95. Asa de Mosca        : 9
+96. Cenoura Arco-Iris   : 2
+97. Cenoura             : 3
+98. Trevo               : 18
+99. Pluma               : 3
+100. Jellopy             : 10
+101. Maçã                : 2
+102. Muco Pegajoso       : 2
+
+103. Equipamentos:
+104. Clava [3]          : 2
+105. Espada [4]         : 1
+106. Faca               : 1
+107. -----------------------------
+
+108. Habilidades:
+
+109. Habilidades Ativas:
+110. Mammonita                    : Nível 1
+
+111. Habilidades Passivas:
+112. Aumentar Capacidade de Carga : Nível 3
+
+113. -----------------------------
