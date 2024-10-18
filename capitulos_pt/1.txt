@@ -18,7 +18,7 @@
 
 10. Ao aceitar, recebi boas-vindas calorosas. O guia começou a me explicar a importância de se preparar antes de embarcar em uma aventura. Ele falou sobre o sistema de níveis, como coletar itens e a necessidade de se equipar adequadamente. "Você é um Novice agora, e é um prazer ter um novo aventureiro entre nós!", exclamou, seu entusiasmo era contagiante.
 
-11. Ele explicou que, ao atingir o nível 25, eu poderia escolher uma classe — Alquimista, Guerreiro, Mago, e assim por diante. Cada classe teria habilidades e responsabilidades únicas. O guia também mencionou missões simples que eu poderia realizar para ganhar experiência e itens, como coletar materiais de monstros locais ou ajudar NPCs da cidade.
+11. Ele explicou que, ao atingir o nível 40, eu poderia escolher uma classe — Alquimista, Espadachin, Mago, e assim por diante. Cada classe teria habilidades e responsabilidades únicas. O guia também mencionou missões simples que eu poderia realizar para ganhar experiência e itens, como coletar materiais de monstros locais ou ajudar NPCs da cidade.
 
 12. Entre suas explicações, ele destacou áreas importantes para explorar, como as Pampas de Payon, o Pântano de Payon e a Caverna de Payon. Essas regiões ofereciam oportunidades valiosas para caçar monstros e coletar itens. Ele enfatizou a importância de aprender a negociar com mercadores e vender os itens coletados para obter recursos.
 
@@ -36,11 +36,15 @@
 
 19. Aparentemente estou 20 anos mais novo, pareço um jovem de aproximadamente 17 anos, em minha vida passada eu tinha 37 anos mas eu vejo pessoas reencarnadas de toda forma, adultos, jovens, idosos e crianças.
 
-20. Continuando a caminhar, passei por várias lojas e mercadores negociando na praça. Apesar da tensão no ar, os nativos locais pareciam não se importar muito com o ocorrido. Alguns deram boas-vindas, tentando acalmar os que estavam em pânico, enquanto outros apenas ignoraram a situação. Foi então que avistei a loja de alquimia e uma onda de nostalgia me invadiu. Entrei, curioso para saber se as leis da criação ainda eram as mesmas.
+20. Continuando a caminhar, passei por várias lojas e mercadores negociando na praça. Apesar da tensão no ar, os nativos locais pareciam não se importar muito com o ocorrido. Alguns deram boas-vindas, tentando acalmar os que estavam em pânico, enquanto outros apenas ignoraram a situação. Foi então que avistei a loja de alquimia e uma onda de nostalgia me invadiu. Entrei, curioso para saber se as maneiras de criação de poções continuava sendo o mesmo do jogo.
 
 21. Ao entrar na loja, fui recebido por uma cena familiar. Havia alquimistas e pessoas negociando manuais e livros. Dirigi-me ao "cardápio" da mesa e vi os mesmos livros de sempre: os manuais de vol. 1, 2 e 3, os mais simples. Perguntei ao vendedor, um homem de barba longa e calva nas laterais, que aparentava cerca de 50 anos: "Senhor, só tem esses volumes de manuais? Onde estão os outros?"
 
-22. O vendedor me olhou de cima a baixo, com uma expressão de desdém. "Durarara! Garoto, você nem mesmo é um alquimista e vem falar dos volumes posteriores ao 3? Você ainda não consegue aprender o primeiro manual. Vai ter que ralar um pouco para dominar o primeiro volume. Depois, podemos conversar sobre os volumes 2 e 3."
+22. O vendedor me lançou um olhar astuto me avaliando. Contudo, sem pretensão de vender algo naquele instante, ele falou com uma voz firme:"Garoto, qual é o seu nome?"
+
+"Azoth", respondi de imediato. 
+
+ele continuou, "me chamo Benner. Vou ser direto. Não trabalhamos com volumes acima do 3 por aqui; são caros e raros. Aqueles que buscam algo mais, seja para comércio de grande escala ou para outras criações não perdem tempo nesse lugar."
 
 23. Entendi que ele estava zombando de mim, mas tentei parecer humilde. "Senhor, entendo, mas devo pensar a longo prazo. Três volumes não podem ser meu limite. Preciso aprender todos eles para ser o melhor criador futuramente."
 
@@ -58,7 +62,7 @@
 
 30. Saí da loja de alquimia com uma dúvida na cabeça. O número um do ranking de alquimia poderia ter a habilidade de criar novas poções, mas também novos ingredientes diferentes. Será que utilizando os métodos do meu mundo eu conseguiria criar novas armas para guerras? "Nem fodendo", pensei, "se for pensar que todas as pessoas do mundo reencarnaram aqui. Não dou 20 anos para termos um monte de fuzis e uma guerra de trincheira." Acredito que nem todo mundo foi reencarnado. Embora nesta cidade houvesse muitos, não conseguiria colocar em números, pois parecia que todos foram teleportados de maneira aleatória.
 
-31. Depois daquela conversa interessante com Benner, um grande sono começou a me invadir. Eu pensava que não precisaria dormir neste mundo, mas, para minha surpresa, a fadiga era real. Com 900 zeny sobrando na minha conta, comecei a ponderar: seria possível encontrar um quarto para descansar em uma pousada? Se os preços fossem muito altos, teria que me contentar em dormir na rua, o que não era uma perspectiva muito animadora.
+31. Depois daquela conversa interessante com Benner e vários pontos turístico da Cidade de Einbroch, um grande sono começou a me invadir. Eu pensava que não precisaria dormir neste mundo, mas, para minha surpresa, a fadiga era real. Com 900 zeny sobrando na minha conta, comecei a ponderar: seria possível encontrar um quarto para descansar em uma pousada? Se os preços fossem muito altos, teria que me contentar em dormir na rua, o que não era uma perspectiva muito animadora.
 
 32. Logo avistei algumas pousadas e entrei na mais simples. Assim que atravessei a porta, fui recebido por uma mulher do outro lado do balcão, vestida com roupas de empregada. Ela me olhou com um sorriso cordial e disse: "Olá, sou a Kafra desta pousada. Deseja um quarto ou pretende usar o serviço de armazenamento?"
 
