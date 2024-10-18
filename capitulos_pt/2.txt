@@ -88,43 +88,43 @@
 
 
 
-----------------------------
-Dia: 2
------------------------------
-Nível de Classe: 1
-Nível Base: 3
------------------------------
-Status de Vida:
-  HP      : 120
-  MP      : 37
+43. ----------------------------
+44. Dia: 2
+45. -----------------------------
+46. Nível de Classe: 1
+47. Nível Base: 3
+48. -----------------------------
+49. Status de Vida:
+50. HP      : 120
+51. MP      : 37
 
-Atributos:
-  STR     : 5
-  AGI     : 5
-  VIT     : 5
-  INT     : 5
-  DEX     : 6
-  LUK     : 5
+52. Atributos:
+53. STR     : 5
+54. AGI     : 5
+55. VIT     : 5
+56. INT     : 5
+57. DEX     : 6
+58. LUK     : 5
 
-Estatísticas de Combate:
-  ATQ     : 24
-  MATQ    : 14.5
-  HIT     : 6
-  Critical: 1
-  DEF     : 12
-  MDEF    : 5
-  Flee    : 5
-  ASPD    : 106
------------------------------
-Zeny: 180
------------------------------
+59. Estatísticas de Combate:
+60. ATQ     : 24
+61. MATQ    : 14.5
+62. HIT     : 6
+63. Critical: 1
+64. DEF     : 12
+65. MDEF    : 5
+66. Flee    : 5
+67. ASPD    : 106
+68. -----------------------------
+69. Zeny: 180
+70. -----------------------------
 
-Equipamentos Equipados:
-  Faca
-    ATQ      : 17
-    Descrição: Uma simples faca.
+71. Equipamentos Equipados:
+72. Faca
+73. ATQ      : 17
+74. Descrição: Uma simples faca.
 
-  Camisa de Algodão
-    DEF      : 10
-    Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
------------------------------
+75. Camisa de Algodão
+76. DEF      : 10
+77. Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+78. -----------------------------
