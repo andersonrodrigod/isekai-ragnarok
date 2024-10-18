@@ -94,7 +94,7 @@ The high rate made me stop to reflect on the reality of that place. It was evide
 
 "And if we manage to get to the outskirts of Prontera, how will we get back?" I asked, with even more doubts in my mind.
 
-Rose smiled slightly, noticing my confusion. "Well, on the outskirts of Prontera, near the villages, there are several adventurer camps. And most importantly, there are Gatewatchers there. They control portals that take you to every city in Rune Midgard."
+Rose smiled slightly, noticing my confusion. "Well, on the outskirts of Prontera, near the villages, there are several adventurer camps. And most importantly, there are Portal Watchers there. They control portals that take you to every city in Rune Midgard."
 
 'This was news to me. Those camps and villages? They never existed when I played. But it looks like the game has had a lot of updates while I've been away. I didn't play enough to keep up with everything that changed.'
 
@@ -102,46 +102,76 @@ Rose smiled slightly, noticing my confusion. "Well, on the outskirts of Prontera
 
 "Well, if you're looking for quests, the adventurer's guide at the camp there can help you. He has some quests related to the surrounding area. Here, at the guild, we only have quests that are more focused on our city, and there are generally few options. The most interesting ones, so to speak, are deeper into the jungle of Prontera, and are of rank D or C."
 
-After hearing Rose's response, I said goodbye and headed towards the Gatewatchers, ready to venture into the plains around Prontera.
+After hearing Rose's response, I said goodbye and headed towards the Portal Watchers, ready to venture into the plains around Prontera.
 
-_______________________________________
+
+
+
+----------------------------
 
 Protagonist Date:
 
-_______________________________________
+----------------------------
+Day: 6
+-----------------------------
+Class Level: 1
+Base Level: 6
+-----------------------------
+Life Status:
+ HP: 150
+ MP: 40
 
+Attributes:
+ STR: 9
+ AGI: 5
+ VIT: 5
+ INT: 5
+ DEX: 6
+ LUK: 5
+
+Combat Statistics:
+ ATK: 28
+ MATQ: 14.5
+ HIT: 6
+ Critical: 1
+ DEF: 12
+ MDEF: 5
+ Flee: 5
+ ASPD: 106
+-----------------------------
 Zeny: 2020
+-----------------------------
 
-Status:
+Equipped Equipment:
+ Knife
+ ATK: 17
+ Description: A simple knife.
 
-HP: 100
-MP: 35
-
-_______________________________________
+ Cotton Shirt
+ DEF: 10
+ Description: Simple cotton shirt. To be used on any occasion.
+-----------------------------
 
 Inventory:
-
-Flower: 4
-Bud: 4
-Stem: 6
-Lantana: 2
-Felpa: 4
-Mint: 2
-Romantic Flower: 4
-Flower: 4
-Celatom: 2
-Melody Plant: 2
-Makulrata: 2
-Bitter Herb: 2
-Green Herb: 5
-Sharp Scale: 2
-Aloes: 2
-Aloe Leaf: 2
-Romantic Leaf: 2
-Red Herb: 6
-Yellow Herb: 3
-
-
-
+ Items Quantity
+ Flower: 4
+ Sprout: 4
+ Stem: 6
+ Lantana: 2
+ Felpa: 4
+ Mint: 2
+ Romantic Flower: 4
+ Celatom: 2
+ Melody Plant: 2
+ Makulrata: 2
+ Bitter Herb: 2
+ Green Herb: 5
+ Sharp Scale: 2
+ Aloe: 2
+ Aloe Leaf: 2
+ Romantic Leaf: 2
+ Red Herb: 6
+ Yellow Herb: 3
+-----------------------------
 
 
