@@ -1,0 +1,9 @@
+[
+    {
+        "nome": "Mammonita",
+        "tipo": "ATQ",
+        "percentual_aumento": 150.0,
+        "descricao": "Usa o próprio dinheiro para causar dano fisico corpo a corpo no oponente.",
+        "efeitos": {}
+    }
+]
