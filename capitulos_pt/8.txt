@@ -4,11 +4,11 @@
 
 3. Então, nos aproximamos do quadro digital para verificar qual missão seria mais apropriada para o dia. Queríamos algo que pudéssemos completar com facilidade, mas que também nos proporcionasse uma boa quantia de grana. Poderíamos explorar e matar os monstros que quiséssemos, mas, ao voltar, poderíamos descobrir que não havia mais quests disponíveis, então era melhor garantir uma nova missão no quadro.
 
-4. A quest era a seguinte: 16 Felpas, 10 Ervas Verdes, 8 Plumas, 5 Cenouras. A recompensa era de 400 zenys. Era pouco, mas era a melhor opção para ganharmos mais experiência e subirmos de nível. Com isso em mente, partimos novamente para a selva nas planícies de Prontera em mais uma jornada.
+4. A quest era a seguinte: 16 Felpas, 10 Ervas Verdes, 8 Plumas, 5 Cenouras. A recompensa era de 400 zenys. Era pouco, mas era a melhor opção para ganharmos mais experiência e subirmos de nível. Com isso em mente, partimos novamente para a selva nas planícies de Prontera em mais uma jornada. O tempo parecia passar mais rápido enquanto nos concentrávamos na coleta, e a repetição dos combates trouxe novas ideias à mente.
 
-5. Era final de tarde, e já tínhamos conseguido os itens necessários para a realização da quest. Desde ontem, ao observar aqueles monstros, lembrei-me de que poderia fazê-los de pets. O Poring era o mais fácil, mas ele era mais um pet fofo e não traria muita ajuda. Então pensei no Lunático. Quando matamos o último Lunático Alfa, ele soltou a Cenoura Arco-Íris, que era o item necessário para conseguir capturá-lo como pet.
+5. As horas foram se arrastando enquanto avançávamos pela selva, enfrentando os mesmos monstros e coletando os itens da lista. Era final de tarde, e já tínhamos conseguido os itens necessários para a realização da quest. Desde ontem, ao observar aqueles monstros, lembrei-me de que poderia fazê-los de pets. O Poring era o mais fácil, mas ele era mais um pet fofo e não traria muita ajuda. Então pensei no Lunático. Quando matamos o último Lunático Alfa, ele soltou a Cenoura Arco-Íris, que era o item necessário para conseguir capturá-lo como pet.
 
-6. Tamém conseguimos chegar no nível 11 um nível a mais que o suficiente para obter minha classe de mercador.
+6. Também conseguimos chegar no nível 11 um nível a mais que o suficiente para obter minha classe de mercador.
 
 7. Como conseguimos apenas uma cenoura com os itens restantes dessa exploração, planejava dividir com Rox. Eu ficaria com essa cenoura e a clava de 3 slots, enquanto ele ficaria com todos os outros itens, incluindo a clava de 4 slots.
 
@@ -18,7 +18,7 @@
 
 10. Yamal tinha sido muito generoso conosco. Oferecer sua barraca para passarmos a noite foi um grande favor, e era uma pena eu não poder retribuir à altura.
 
-11. "Ei, vovô, posso adicionar o ID da sua placa de status?" perguntei antes que ele partisse.
+11. "Ei, vovô, posso adicionar o número de ID da sua placa de status?" perguntei antes que ele partisse.
 
 12. "Claro, garoto. O futuro é incerto. Quem sabe ainda faremos um grande negócio?" respondeu Yamal com um sorriso genuíno.
 
@@ -34,15 +34,13 @@
 
 18. Mesmo que eu tivesse, vender a esse mercador seria um mau negócio. Ele certamente oferecia um valor bem abaixo do mercado. Quando chegarmos em Einbroch, irei me certificar dos preços.
 
-19. Ao passar pelo portal e voltar à grandiosa mansão em Einbroch dos Vigilantes de Portais, notei outra placa informando que ali também compravam Asa de Mosca e Asa de Borboleta. Asa de mosca por exemplo era um item que era bastante usados por aventureiros solo. considerando que era um item relativamente fácil de obter a demanda pelo produto parece alta nesses locais onde existem portais.
+19. Ao passar pelo portal e voltar à grandiosa mansão em Einbroch dos Gatewachers, notei outra placa informando que ali também compravam Asa de Mosca e Asa de Borboleta. Asa de mosca por exemplo era um item que era bastante usados por aventureiros solo. considerando que era um item relativamente fácil de obter a demanda pelo produto parece alta na guilda de Gatewachers.
 
-20. Já era noite, e eu estava decidido a voltar para a pousada. Minha ideia para o dia seguinte era ir à Guilda dos Mercadores e obter minha classe de mercador.
+20. Quando passamos pelo portal já era noite, e eu estava decidido a voltar para a pousada. Minha ideia para o dia seguinte era ir à Guilda dos Mercadores e obter minha classe de mercador. O peso das decisões que me aguardavam se misturava ao cansaço, mas, por ora, descansar era o melhor que eu podia fazer.
 
-21. Na manhã seguinte, acordei cedo e comecei a me preparar para ir à guilda. Ao me levantar, percebi que Rox não estava no quarto. Ele provavelmente também iria pegar sua classe hoje, embora eu não soubesse qual ele escolheria. Essa curiosidade começava a me intrigar.
+21. O amanhecer chegou mais rápido do que eu esperava. Acordei cedo, ansioso para iniciar o dia. Enquanto me preparava para ir à guilda, percebi que Rox não estava no quarto. Ele provavelmente também iria pegar sua classe hoje, embora eu não soubesse qual ele escolheria. Essa curiosidade começava a me intrigar.
 
-22. Descendo as escadas da pousada, encontrei Tayla na recepção. Ela me cumprimentou com um sorriso caloroso e disse:
-
-23. "Bom dia, senhor Azoth! Vai renovar sua estadia conosco? Hoje é o dia do seu checkout."
+22. Descendo as escadas da pousada, encontrei Tayla na recepção. Ela me cumprimentou com um sorriso caloroso e disse "Bom dia, senhor Azoth! Vai renovar sua estadia conosco? Hoje é o dia do seu checkout."
 
 24. Eu havia me esquecido desse detalhe, e agora, diferente de antes, teria que pagar 200 zenys por dia. Embora estivesse indo bem, ainda me sentia preso à margem financeira. No momento, eu tinha 1.745 zenys e muitos itens acumulados no inventário.
 
@@ -70,7 +68,7 @@
 
 36. Ele fez um gesto com as mãos enquanto explicava: "A Cerimônia da Moeda é o ritual que oficializa a transição para a classe de mercador. Os requisitos são simples: estar no nível 10 e pagar mil Zenys à Guilda de Aventureiros."
 
-37. Mil Zenys... Cada novo passo parecia trazer mais despesas, e às vezes parecia que eu estava à beira de enlouquecer com tantos custos inesperados. Mas esse era essencial. Tornar-me um mercador era crucial para expandir meus recursos. Assenti com a cabeça, aceitando o que ele disse, e o assistente me orientou a me juntar aos outros que também esperavam.
+37. Mil Zenys... Cada novo passo trazia mais despesas, e em certos momentos parecia que os custos inesperados eram esmagadores. Mas esse era necessário. Tornar-me um mercador era vital para expandir meus recursos. Assenti com a cabeça, aceitando suas palavras, e o assistente me indicou que me juntasse aos outros que aguardavam.
 
 38. Assim que a décima pessoa entrou na sala, fomos guiados a um cômodo maior, onde o Mercador Sênior nos aguardava. Ele era um homem de aparência séria, mas com um ar de sabedoria e autoridade. Ele se apresentou como um dos apóstolos de Forseti, o deus da justiça e das negociações. Com uma voz firme, ele anunciou que, ao término do ritual, todos ali se tornariam mercadores.
 
