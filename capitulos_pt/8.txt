@@ -113,7 +113,7 @@
 67. ASPD    : 106
 68. -----------------------------
 
-69. Zeny: 845
+69. Zeny: 945
 
 70. Equipamentos Equipados:
 71. Faca

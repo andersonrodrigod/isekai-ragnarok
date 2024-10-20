@@ -116,6 +116,6 @@ idioma = input("Escolha o idioma (pt para português, en para inglês): ").lower
 
 # Exemplo de uso:
 personagem = Personagem(hp=335, mp=92, atk=51, defense=80, vit=6, aspd=113, hit=12, flee=12)
-monstro = Monstro(hp=127, atk=85, defense=22, aspd=100, req_hit=222, req_flee=205)
+monstro = Monstro(hp=775, atk=92, defense=16, aspd=100, req_hit=222, req_flee=205)
 
 batalha(personagem, monstro, idioma)

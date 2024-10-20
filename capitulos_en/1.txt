@@ -20,7 +20,7 @@
 
 11. When our eyes met, he straightened up, giving me a nod and a half-smile. "Looking to get started in the adventurer life?" he asked, his tone casual but with the unmistakable trace of someone who’d had this conversation too many times. "You’ll find lots of opportunities in this line of work, I can help you get an idea of how it goes."
 
-12. Upon accepting, the guide began to explain to me what I needed to know before embarking on an adventure. He talked about the level system, how to collect items, and the need to equip yourself properly. "You're a Novice now, it's great to have a new adventurer among us." he said. (sem alteração noviço é uma classe inicial para todos aventureiros não precisa de alguem trnanformando)
+12. Upon accepting, the guide began to explain to me what I needed to know before embarking on an adventure. He talked about the level system, how to collect items, and the need to equip yourself properly. "You're a apprentice now, it's great to have a new adventurer among us." he said. (sem alteração noviço é uma classe inicial para todos aventureiros não precisa de alguem trnanformando)
 
 13. (He explained that once I reached level 40, I could choose a class—Alchemist, Swordsman, Mage, and so on. Each class would have unique skills and responsibilities. The guide also mentioned simple quests I could take to gain experience and items, such as collecting materials from local monsters or helping out NPCs in town.)
 
