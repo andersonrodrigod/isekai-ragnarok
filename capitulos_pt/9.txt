@@ -54,7 +54,7 @@
 
 28. Ao subir de nível, voltei enfrentar monstros mais fortes, como os Fabres e o Lunático Alfa.
 
-29. Consegui alcançar o nível 14 de base e o nível 8 de classe. Distribuí os 3 pontos em capacidade de carga e decidi alocar os outros pontos quando eu chegasse em Einbroch, pois, ao contrário dos pontos de atributos, para resetar minhas habilidades na guilda de mercadores, precisaria pagar uma quantia considerável.
+29. Consegui alcançar o nível 14 de base e o nível 8 de classe. Distribuí os 3 pontos de habilidade em capacidade de carga e decidi alocar os outros pontos quando eu chegasse em Einbroch, pois, ao contrário dos pontos de atributos, para resetar minhas habilidades na guilda de mercadores, precisaria pagar uma quantia considerável.
 
 30. Consegui muitos itens durante minha exploração. O lado positivo de estar sozinho é que não preciso dividir loot com ninguém, o que é excelente. Acredito que, desta vez, não passarei necessidades por alguns dias e poderei finalmente fazer o que faço de melhor: comércio.
 
@@ -70,7 +70,7 @@
 
 36. "Ótimo! Assim que você alcançar o nível necessário, volte aqui. Estaremos esperando" — ele disse, acenando com a cabeça.
 
-37. Talvez participar de uma guilda, eu consiga uma evolução mais rápida podendo formar grupo para uma expedição, subir de nível solo pra uma classe igual a minha que não muito focado em combate pode se tornar dificil. devo focar meus recurso sendo suporte de um grupo de expedição
+37. Talvez participar de uma guilda, eu consiga uma evolução mais rápida podendo formar grupo para uma expedição, subir de nível solo pra uma classe igual a minha que não muito focado em combate pode se tornar dificil. devo focar meus esforços em dar suporte a um grupo de expedição.
 
 
 38. Protagonist Data:
@@ -104,7 +104,7 @@
 63. ASPD    : 0
 64. -----------------------------
 
-65. Zeny: 1345
+65. Zeny: 1745
 
 66. -----------------------------
 
@@ -143,9 +143,9 @@
 97. Cenoura             : 3
 98. Trevo               : 18
 99. Pluma               : 3
-100. Jellopy             : 10
-101. Maçã                : 2
-102. Muco Pegajoso       : 2
+100. Jellopy            : 10
+101. Maçã               : 2
+102. Muco Pegajoso      : 2
 
 103. Equipamentos:
 104. Clava [3]          : 2

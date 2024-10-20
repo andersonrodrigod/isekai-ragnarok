@@ -17,6 +17,11 @@ def alterar_palavra_no_txt(caminho_arquivo):
     # Substituir "zeny" por "Zeny"
     conteudo_alterado = conteudo_alterado.replace("zeny", "Zeny")
 
+    conteudo_alterado = conteudo_alterado.replace("Overprice", "Overcharge")
+
+    conteudo_alterado = conteudo_alterado.replace("Overpricing", "Overcharge")
+    
+
     # Gravar as alterações no arquivo
     with open(caminho_arquivo, 'w', encoding='utf-8') as file:
         file.write(conteudo_alterado)
@@ -24,5 +29,5 @@ def alterar_palavra_no_txt(caminho_arquivo):
     print("Alterações realizadas com sucesso!")
 
 # Caminho para o arquivo .txt
-caminho_do_arquivo = "./capitulos_en/7.txt"
+caminho_do_arquivo = "./capitulos_en/9.txt"
 alterar_palavra_no_txt(caminho_do_arquivo)
