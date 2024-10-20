@@ -28,10 +28,9 @@
 
 15. "Mister Azoth, I'm leaving now, but Rox asked me to leave a message. He said his class pass would last for a week and therefore he would be unavailable for 7 days."
 
-16. (I thanked Tayla for the message. Rox’s class progression was slowing down, which meant I would have to do it on my own for now. Given this, I decided that it would be best to focus my efforts this week on leveling up and accumulating enough points to acquire the Overpricing skill. With it, I could sell some items from my inventory for a higher price, thus securing resources to better equip myself and face the challenges that lay ahead.)
+16. I thanked Tayla for the message. Rox’s Class Upgrade process was very time consuming, which meant I would have to go out on my own for now. As a result, I decided that it would be best to focus my efforts this week on leveling up and accumulating enough points to acquire the Overpricing skill. With it, I could sell some items from my inventory for a higher price, which would speed up my pursuit of better equipments.
 
-
-17. (I paid for just one more day of my stay, knowing that from now on, there would be no more time for the comfort of inns. It was time to start adventuring regularly. After paying, I had 745 zeny left. I decided that I would spend the next few days in the plains of Prontera, camping and training to strengthen myself. My goal was clear: to return with the necessary class level to finally sell the items accumulated in my inventory and take the next step in my journey.)
+17. I paid for just one more day of my stay, knowing that from now on, there would be no more time for the comfort of inns. It was time to start adventuring regularly. After paying, I had 745 zeny left. I decided that I would spend the next few days in the plains of Prontera, camping and hunting to strengthen myself. My goal was to return with the necessary class level to finally sell the items accumulated in my inventory with the Overcharge Skill. (Mudar todos os "Overprice" e "Overpricing" pra "Overcharge", tem que prestar atenção nos nomes oficiais dos itens e skills em inglês, que nem sempre são uma tradução direta)
 
 18. Before that, I needed to check the three-slot club I had found. I used the Identify Item skill and discovered that it had 23 attack, which was higher than my knife, which only had 17. However, the club was significantly heavier. Even so, I chose to use it, as the knife was in poor condition.
 
@@ -45,9 +44,9 @@
 
 23. ...
 
-24. (I woke up early. Now with a clear path in mind, I organized myself and headed straight to the GateWatchers Guild, heading towards the plains. Upon arriving, I was struck by the contrast again. The air was incredibly clean, something rare compared to the constant pollution of Einbroch, an industrial city. The green expanse of the plains was almost a refuge, a visual and physical respite.)
+24. I woke up early today. Now with a clear path in mind, I organized myself and headed straight to the GateWatchers Guild, heading towards the plains (que planícies? se for de prontera, coloca "Prontera Plains"). Upon arriving, I was struck by the contrast again. The air was incredibly clean, very unlike the constant pollution of Einbroch, an industrial city. The green expanse of the plains was almost a refuge, a visual and physical respite.
 
-25. (Knowing that there were always quests related to the monsters I wanted to defeat, I decided not to go to the Guild to get a quest right away. My main goal was to gain experience by fighting the creatures. At the end of each day, I would check to see if any of the items I collected were part of a quest. If there were nothing relevant, I would sell them at the market.)
+25. Knowing that there were always quests related to the monsters I wanted to defeat, I decided not to go to the Guild to get a quest right away. My main goal was to gain experience by fighting the creatures. At the end of each day, I would check to see if any of the items I collected were part of a quest. If there was nothing relevant, I would sell them at the market.
 
 26. ...
 
@@ -71,7 +70,7 @@
 
 36. "Great! As soon as you reach the required level, come back here. We'll be waiting" — he said, nodding his head.
 
-37. (Maybe by joining a guild, I can progress faster by forming a group for an expedition, leveling up solo for a class like mine that is not very combat-focused can become difficult. Should I focus my resources on supporting an expedition group?)
+37. By joining a guild, I could progress faster by forming a group going to an expedition. Solo leveling with a not very combat-focused class like mine would be too hard. Maybe I should focus my resources on supporting an expedition group? (como assim?)
 
 
 
