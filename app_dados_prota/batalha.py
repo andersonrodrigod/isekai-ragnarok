@@ -11,14 +11,14 @@ class Personagem:
 
     def calcular_soft_def(self):
         # Fórmula simplificada para Soft DEF baseada na VIT
-        return self.vit
+        return self.vit * 0.3  # 30% da VIT é considerada na soft DEF
 
 
 class Monstro:
     def __init__(self, hp, atk, defense, aspd, req_hit, req_flee):
         self.hp = hp
         self.atk = atk
-        self.defense = defense
+        self.defense = defense  # Hard DEF do monstro
         self.aspd = aspd
         self.req_hit = req_hit
         self.req_flee = req_flee
@@ -57,7 +57,7 @@ def batalha(personagem, monstro, idioma):
             "ataques_personagem": "Azoth made",
             "ataques_monstro": "The monster made",
             "dano_total": "total damage.",
-            "hp_personagem": "Final HP of the monster:",
+            "hp_personagem": "Final HP of the Azoth:",
             "hp_monstro": "Final HP of the monster:",
             "vitoria_personagem": "Result: Azoth won the battle!",
             "vitoria_monstro": "Result: The monster won the battle!",
@@ -68,8 +68,8 @@ def batalha(personagem, monstro, idioma):
     # Calcula Soft DEF (defesa da VIT)
     soft_def_personagem = personagem.calcular_soft_def()
 
-    # Dano do personagem no monstro
-    dano_personagem = calcular_dano(personagem.atk, 0, monstro.defense)  # Monstro não tem soft DEF
+    # Dano do personagem no monstro (monstro não tem soft DEF)
+    dano_personagem = calcular_dano(personagem.atk, 0, monstro.defense)  
     print(f'{mensagens[idioma]["dano_personagem"]} {dano_personagem}')
 
     # Dano do monstro no personagem (levando em conta soft DEF e hard DEF)
@@ -116,6 +116,6 @@ idioma = input("Escolha o idioma (pt para português, en para inglês): ").lower
 
 # Exemplo de uso:
 personagem = Personagem(hp=335, mp=92, atk=51, defense=80, vit=6, aspd=113, hit=12, flee=12)
-monstro = Monstro(hp=127, atk=35, defense=22, aspd=100, req_hit=222, req_flee=205)
+monstro = Monstro(hp=127, atk=85, defense=22, aspd=100, req_hit=222, req_flee=205)
 
 batalha(personagem, monstro, idioma)
