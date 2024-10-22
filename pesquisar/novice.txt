@@ -1,6 +1,0 @@
-Resultados da pesquisa pela palavra 'novice':
-
-Arquivo: 2.txt | Ocorrências: 1
-Parágrafos com a palavra:
-  - 19. "according to the guild, each plant could tank around 10 hits from a novice, and they'd only deal 1 damage with each attack, which are pretty slow. with my initial hp of 50, i could deal 50 of their attacks, so i should be able to defeat quite a few of them. the quest was also perfect for me since i could use these herbs to make hp and sp potions from the level 1 alchemy manual."
-
