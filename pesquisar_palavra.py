@@ -41,7 +41,7 @@ def pesquisar_palavra_na_pasta(pasta, palavra):
 pasta_arquivos = './capitulos_en'
 
 # Palavra a ser pesquisada
-palavra_procurada = "manual"
+palavra_procurada = "stormlords"
 
 # Caminho da pasta de saída
 pasta_pesquisa = 'pesquisar'
