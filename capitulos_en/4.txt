@@ -10,7 +10,7 @@
 
 6. "I see... What about attribute resets? Where can I reset them?"
 
-7. "Ah, that's simple. In the square here in the city, there is a statue of the Entity of Cycles. Just kneel before it and your attributes will be reset. Now, as for skills, it depends on your class. You go to the association dedicated to your class to reset your skills." (trocar todos os "profession" por "class")
+7. "Ah, that's simple. In the square here in the city, there is a statue of the Entity of Cycles. Just kneel before it and your attributes will be reset. Now, as for skills, it depends on your class. You go to the association dedicated to your class to reset your skills." 
 
 8. Well, at least I won't have to worry so much about attribute distribution. While I was thinking about this, Balack asked me directly, "By the way, what class do you want to pursue?"
 
@@ -20,7 +20,7 @@
 
 12. I was curious about that insinuation. I really didn't see many Alchemists around town, even though it was a place dedicated to the class. "Why is that?"
 
-13. "In general, adventurers choose combat-oriented professions, as they are most effective in battle. A Merchant's only significant advantage lies in logistic, which can be useful on expeditions." (eu acho que tu tá inflando demais essa dificuldade. não consigo ver como isso vai ser tão difícil quanto tu tá fazendo soar)
+13. (In general, adventurers tend to choose combat-oriented classes due to their effectiveness in battle. However, the Merchant excels in logistics, playing an essential role in planning and providing support during expeditions.)
 
 14. I already knew that, but for me, the alchemy class was the most complete one. I will just have to work hard to achieve my goals.
 
@@ -32,17 +32,17 @@
 
 18. "It depends. If you die anywhere else, it's permanent. But if it's in the War of Emperium, you'll be resurrected."
 
-19. I thanked him and said goodbye for the day. (é bom adicionar algum pensamento do protagonista a respeito disso. tipo "ah que pena que não tem ressureição" ou "vou ter q tomar muito cuidado" etc)
+19. (I thanked him and said goodbye for the day. As I walked away, a thought came to me: It would be so much easier if it were like in the game, it's a shame you can't revive after you die.)
 
 20. ...
 
-21. Three days later, I was returning to town after a day of harvesting plants. I had already completed my mission, reached level 6, and still had time to do something useful. I decided to take the opportunity to say goodbye to Balack, the nice man who had helped me a lot these past few days. He mentioned that when I became a merchant, he wanted to do business with me. He also said that he had a son who wanted to go on dungeon adventures and that he would introduce me to him next time.
+21. Three days later, I was returning to town after a day of harvesting plants. I had already completed my quest, reached level 6, and still had time to do something useful. I decided to take the opportunity to say goodbye to Balack, the nice man who had helped me a lot these past few days. He mentioned that when I became a merchant, he wanted to do business with me. He also said that he had a son who wanted to go on dungeon adventures and that he would introduce me to him next time.
 
 22. 'I've been a lone wolf so far, but maybe it's time for a change. Doing everything alone is getting complicated.'
 
 23. When I arrived at the adventurers' guild, I noticed a lot of movement. People were shouting, "Avalanchers!" I handed over my collected items to Rose and asked what was going on.
 
-24. "Today is a day of celebration for some and sadness for others (porque tristeza pra outros?). A new guild has been formed, called the Avalanchers."
+24. ("Today is a day of celebration). A new guild has been formed, called the Avalanchers."
 
 25. The guild was packed. Members cheered, raising the flag with the guild's crest. I couldn't help but ask, "Is that really such a big deal?"
 
@@ -94,7 +94,7 @@
 
 51. He continued, "Activating the messaging function costs 500 Zeny, and you'll need to pay a fee of 1000 Zeny for each message you send. If you plan on using it a lot, we have more advantageous plans, such as 50, 100, or even unlimited messages per month. We also have special plans for guild leaders, which allow you to send messages to all members."
 
-52. I thought for a moment. The fees were a bit high, but it was clear that this feature would be useful. In the game, we didn't have to worry about that. Messages were instantaneous, and we only needed to use them when someone was offline (ficou esquisito. como assim? não usavam quando tava online também não?). However, after finishing the last quest, I had 2520 Zeny. It was a good amount to survive for a few days. 
+52. I thought for a moment. The fees were a bit high, but it was clear that this feature would be useful. In the game, we didn't have to worry about that. Messages were instantaneous, and we only needed to use them when someone was offline (quando uma pessoa tava online nós mandava mensagem direta pelo chat não precisava usar o comando de mensagem). However, after finishing the last quest, I had 2520 Zeny. It was a good amount to survive for a few days. 
 
 53. It feels weird having to pay for functions that were for free in the game, but I decided to enable the message function at least so I could read what was sent to me. If I needed to send a message, I would have to pay 1000 Zeny each time, which is pretty expensive for me right now.
 
