@@ -1,4 +1,4 @@
-Cheguei em Einbroch no final da tarde, satisfeito com os ganhos dos meus últimos dias produtivos coletando itens para acumular Zenys. Confesso que, no jogo, caçar monstros e coletar os itens que eles dropavam era muito mais divertido. Agora, imerso neste mundo, tem sido um tanto frustrante sair todos os dias apenas para conseguir alguns itens. Talvez participar de uma expedição torne as coisas mais interessantes.
+Cheguei em Einbroch no final da tarde, satisfeito com os ganhos dos meus últimos dias produtivos coletando itens para acumular Zenys. Confesso que, no jogo, caçar monstros e coletar os itens que eles dropavam era muito mais divertido. Agora, imerso neste mundo, teenho que sair todos os dais para conseguir alguns itens. Talvez participar de uma expedição torne as coisas mais interessantes.
 
 Ao chegar na pousada, minha frustração começou. Tayla me lembrou que hoje era meu último dia pago e que precisaria renovar minha hospedagem se quisesse continuar. Eu tinha exatamente 1.345 Zenys, então decidi pagar por mais 6 dias, ficando com apenas 145 Zenys. Amanhã, eu teria que ir ao mercado e tentar conseguir mais dinheiro.
 
@@ -21,7 +21,6 @@ Já era o quarto dia desde que Rox foi fazer sua transição de classe. Parecia 
 Ainda faltam três dias para ele voltar. O ideal seria eu continuar subindo de nível, mas preciso me aventurar em uma área um pouco mais densa da selva nas Planícies de Prontera. Vou ter que enfrentar monstros um pouco mais fortes. Agora que consegui juntar uma quantia razoável de grana, posso me preparar melhor para lutar sozinho contra eles, sem perder tempo.
 
 Lembro que, nas Planícies de Prontera, dá para ir longe e encontrar monstros mais adequados na selva um pouco mais densa. Preciso me preparar antes. Primeiro, vou à Guilda de Aventureiros Smoke Sentinels para descobrir quais monstros consigo enfrentar sozinho e, em seguida, comprar alguns equipamentos efetivos para esse lugar.
-
 
 "Olha só quem está aqui! Se tornou um mercador! Bem incomum para alguém que gosta tanto de explorar. Me conta, qual é o seu plano? Porque mercadores geralmente são burros de carga em expedições," ela disse, piscando o olho de forma divertida.
 
@@ -87,7 +86,7 @@ Estatísticas de Combate:
   ASPD    : 113
 -----------------------------
 
-Zeny: 5952.15
+Zeny: 6152.15
 
 -----------------------------
 
@@ -135,7 +134,7 @@ Inventário:
     Espada [4]         : 1
     Faca               : 1    
 -----------------------------
-                                                                              *lenmbrar de mudar a história ele conseguiu nível de classe nível 10
+
 Habilidades:
 
 Habilidades Ativas:

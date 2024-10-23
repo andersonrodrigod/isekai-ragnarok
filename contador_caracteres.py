@@ -21,7 +21,7 @@ def contar_elementos_arquivo(arquivo):
     return num_caracteres, num_palavras, num_letras, letra_frequencia
 
 # Caminho do arquivo
-caminho_arquivo = './capitulos_pt/13.txt'
+caminho_arquivo = './capitulos_pt/10.txt'
 
 # Chamar a função para contar os elementos
 num_caracteres, num_palavras, num_letras, letra_frequencia = contar_elementos_arquivo(caminho_arquivo)
