@@ -1,116 +1,82 @@
-"Well, you're free to go out and explore on your own, face monsters, and survive however you see fit," said Mary, with a slight smile. However, her tone soon became more serious. "But there are some things you need to understand. Although there are no restrictions for those who wish to roam the plains on their own, participating in the quests organized by the guild is a little different. If you want to access our quests, you must officially register with guild. With a fee of 300 Zenys per person, you will have access to all available quests, in addition to the support of our network of information and benefits that can facilitate your survival and progress here."
-
-<<<<<<< HEAD
-Mary shared her observations with a discerning eye. It was evident that, just like the Smoke Sentinels Guild, the services offered here had their own requirements. Each group had its own particularities and ways of operating, and I needed to be mindful of that.
-=======
-2. Hearing Mary’s words, a familiar feeling washed over me. Just like in the Smoke Sentinels Guild, there was a cost to accessing the services here. Everywhere I went, it seemed like each established group had its own price for sharing their resources and information. (remover obviedade. óbvio que vão cobrar pra compartilhar recursos e informação)
->>>>>>> 553667612c3ce001d953f8d8e6ee78966ed9a5ef
+"Well, you're free to go out and explore on your own, face monsters, and survive however you see fit," said Mary, with a slight smile. However, her tone soon became more serious. "But there are some things you need to understand. Although there are no restrictions for those who wish to roam the plains on their own, participating in the quests organized by the guild is a little different. To get access to our quests without official membership, you'll need to register as a guest in the guild. With a fee of 300 Zenys per person, you will have access to all available quests, in addition to the support of our network of information and benefits that can facilitate your survival and progress here."
 
 Mary paused before continuing, as if considering the next important point to mention. "Oh, and something that might interest you... have you ever heard of Linker Rings?"
 
 I shook my head, curious.
 
-"These are special rings, forged by skilled blacksmiths, that allow you to form groups of adventurers and divide combat experience among all members of the group. When you are in a group with these rings, the experience you and your allies gain by defeating monsters is shared just like items, which can greatly accelerate your growth and make it fair to divide items. However, they have a limited lifespan — depending on the quality, they last a certain number of days before wearing out completely. I have these that are expiring in two days, you can buy them for 200 Zenys"
+"These are special rings that allow you to form groups of adventurers and divide combat experience among all members of the group. When you are in a group with these rings, the experience you and your allies gain by defeating monsters is shared just like items, which can greatly accelerate your growth and make it fair to divide items. However, they have a limited lifespan. I have these that are expiring in two days, you can buy them for 200 Zenys."
 
-<<<<<<< HEAD
-I thought about everything Mary had told me. Viperspire was more than just a guild. She introduced me to two of their products: Linker Rings. The persuasive way she presented their services made me consider buying them. It was as if the guild had a steady stream of income, a well-oiled machine that knew exactly how to take advantage of each adventurer.
-=======
-6. I pondered everything Mary had told me. Viperspire was proving to be more than just a guild. Within minutes (isso ficou estranho), she had introduced me to two of their products: Linker Rings (só tem um produto aqui, não dois). The persuasive way she presented their services made me consider purchasing them. It was as if the guild had a steady stream of income, a well-oiled machine that knew exactly how to take advantage of each adventurer.
->>>>>>> 553667612c3ce001d953f8d8e6ee78966ed9a5ef
-
-I couldn't even imagine how many other forms of financing Viperspire had, but one thing was clear: they had complete control over the region and knew how to take advantage of every opportunity to guarantee a profit.
+As I pondered Mary's words, it became apparent that Viperspire was more than just a guild. They seemed to be actively exploring all avenues for profit, constantly seeking new ways to generate income. 
 
 I asked Rox for a loan of 150 Zeny, necessary so I could sign up and access Viperspire's quest advantages. He gladly accepted, understanding the importance of this opportunity for our progress as adventurers.
 
-<<<<<<< HEAD
-After registering, I was able to access the available quests. Although I had access to these quests, I did not become an official member of the guild. I went to the large digital board, where several quests were listed. Many of them involved Fly Wings, an item that, despite being expensive on the market, was easy to obtain in combat and served as a quick random teleportation between locations. I decided to avoid these quests so that I could save the Fly Wings that I would manage to drop during our adventures. Instead, I thought I would take on one or two quests that would outweigh the costs we had accumulated so far at the guild outpost.
-=======
-9. After registering, I was able to access the available quests without having to join the guild. I went to the large digital board, where several quests were listed. Many of them involved Fly Wings, an item that, despite being expensive on the market, was easy to obtain in combat and served as a quick random teleportation to areas in the same Warp (talvez seja bom mudar esse Warp). I decided to avoid these quests so that I could save the Fly Wings that I would manage to drop during our adventures. Instead, I thought I would take on one or two quests that would outweigh the costs we had accumulated so far at the guild outpost.
->>>>>>> 553667612c3ce001d953f8d8e6ee78966ed9a5ef
+After registering, I was able to access the available quests. I went to the large digital board, where several quests were listed. Many of them involved Fly Wings, an item that, despite being expensive on the market, was easy to obtain and served as a quick random teleportation between locations. I decided to avoid these quests so that I could save the Fly Wings that I will get during our adventures.
 
-It was then that I saw a very useful mission: 10 Feathers, 12 Carrots, 5 Fluff, 6 Jellopy, 2 Green Herbs, 4 Apples. The reward for this quest was 700 Zenys, which meant I could split 350 for myself and 350 to level up Rox. However, considering all the expenses, from teleportation to completing the mission, I realized that we would not be able to surpass the value of 450 Zenys.
+It was then that I saw a very useful mission: 10 Feathers, 12 Carrots, 5 Fluff, 6 Jellopy, 2 Green Herbs, 4 Apples. The reward for this quest was 700 Zenys, which meant I could split 350 for myself and 350 to Rox. However, considering all the expenses, from teleportation to completing the mission, I realized that we would not be able to surpass the value of 450 Zenys.
 
 In light of this, I had the idea of ​​asking Rox if he would like to spend two days exploring the plains of Prontera. I believe that this way we would be able to not only cover our costs, but also advance our experience levels. Rox accepted the proposal
 
-Before we left, I decided to record information about the monsters that could help us complete the quest. On the digital board, various data were organized. A specific section highlighted the region's monsters and the items they dropped.
+Before our departure, I carefully noted the monster information on the digital board. A dedicated section displayed details about local creatures and the items they dropped
 
-soon after we left towards the jungle on the plains of Prontera.
+Soon after we left towards the jungle on the plains of Prontera.
 
 As we explored the jungle, the atmosphere around us became increasingly vibrant and full of life. The smell of fresh greenery filled the air, and the sound of leaves blowing in the breeze created a peaceful melody. Soon, we realized that we were not alone; other adventurers, in pairs and trios, were also on the hunt, facing the typical Porings that moved smoothly across the ground.
 
-In that place, the monsters were peaceful by nature; there was no aggro, which meant that they would only attack if provoked. When he spotted a Poring near a tree, a small, jelly-like creature with a round body and pink color, a goofy smile and big, bright eyes. It was an ordinary monster, with a cute nature and a harmless appearance.
+In that area, monsters were docile and only attacked when provoked. I saw a Poring near a tree - a small, pink jelly with a cute smile and big eyes. It was an ordinary monster, with a cute and harmless appearance.
 
-I approached the creature. "Let's flank it to maximize our damage! That way, we'll be able to defeat it faster." I said to Rox.
+I approached the creature. "Try to always attack it from its flanks. It takes higher damage that way." I said to Rox.
 
-Rox nodded, preparing for action. As soon as we positioned ourselves, he surrounded Poring, who, upon noticing the approach, turned towards him. I then took the opportunity and moved forward, slashing him with my knife. However, my attack was not enough to defeat him immediately. The angry Poring turned to me and attacked me, dealing 7 points of damage.
+Rox nodded, preparing for action. As soon as we positioned ourselves, the surrounded Poring turned towards him. I then took the opportunity and moved forward, slashing with my knife. However, my attack was not enough to defeat him immediately. The angry Poring turned to me and attacked, dealing 7 points of damage.
 
 "Now it's my turn!" shouted Rox, throwing himself at the Poring. With a precise strike, he managed to defeat him. The small gelatinous creature exploded in a rain of gelatin, leaving behind a few items that glittered in the sunlight.
 
-<<<<<<< HEAD
-The items were automatically delivered to my and Rox's inventory. Before the battle, we had decided that we would share everything we found. So we started receiving the items dropped by the Porging, satisfied with our first victory in the jungle. The feeling of being together as a team and the thrill of the hunt made that moment even more special. 
-=======
-19. The items were automatically delivered to my and Rox's inventory. Before the battle, we had decided that we would leave the sharing of drop items to the Linker Ring. Satisfied with our first victory in the jungle. The feeling of being together as a team and the thrill of the hunt made that moment even more special. (tá meio homossexual isso)
->>>>>>> 553667612c3ce001d953f8d8e6ee78966ed9a5ef
+The items were automatically added to our inventories. Before the fight, we agreed to let the Linker Ring handle item distribution. Satisfied with our first victory, we continued looking for more Porings to hunt.
 
-We managed to defeat 15 Porings before finally getting the last apple, an item that seemed more difficult to drop. With that, both Rox and I rose to level 7, our enthusiasm growing with each victory. With the items in hand, we then decided to go in search of the Lunatics.
+We managed to defeat 15 Porings before finally getting the last apple we needed. With that, both Rox and I rose to level 7, our enthusiasm growing with each victory. With the items in hand, we then decided to go in search of the Lunatics.
 
 The Lunatics were strange and somewhat comical creatures, with small, round bodies covered in bluish fur and bulging eyes that seemed to always be in a state of surprise. They were known for their erratic behavior, jumping and spinning unpredictably, making fighting them a true test of skill and reflexes.
 
-<<<<<<< HEAD
-We used the same battle strategy with all the monsters, and as we walked through the jungle we were lucky enough to encounter the Alpha Lunatic several times, a more robust and imposing version of the regular Lunatic. Not only did the Alpha Lunatic look more intimidating, with darker fur and a more ferocious gaze, but it also had a higher drop rate of fly wings, which helped us a lot in our search. 
-=======
-22. We used the same battle strategy with all the monsters, and as we walked through the jungle we were lucky enough to encounter the Alpha Lunatic several times, a more robust and imposing version of the regular Lunatic. Not only did the Alpha Lunatic look more intimidating, with darker fur and a more ferocious gaze, but it also had a higher drop rate of Fly Wings, which helped us get more of them.
->>>>>>> 553667612c3ce001d953f8d8e6ee78966ed9a5ef
+We used the same battle strategy with all the monsters, and as we walked through the jungle we were lucky enough to encounter the Alpha Lunatic several times, a more robust and imposing version of the regular Lunatic. The Alpha Lunatic was not only more intimidating with darker fur and a fiercer gaze, but it also had a higher drop rate of Fly Wings, which helped increase our supply.
 
-As we faced these creatures, our experience continued to increase, and we soon reached level 8. It was already starting to get dark when we decided we'll now be in search of the Fabre, a monster that was known to have a stronger attack. A powerful monster in that region.
+As we faced these creatures, our experience continued to increase, and we soon reached level 8. It was already starting to get dark when we decided we'll now be hunting the Fabre, a monster that was known to have a stronger attack, one of the more powerful monsters in this regions.
 
-I quickened my pace alongside Rox, eager to get the items needed to complete our mission. The sun was low on the horizon, and the worry of not being able to return with the quest complete began to grow on me. When we found the Fabres, we saw they were long, slender creatures, covered in green fur and with long ears. His eyes had a curious gleam, but they were not deceived; They were known for their quick and relentless attack.
+I quickened my pace alongside Rox, eager to get the items needed to complete our mission. The sun was low on the horizon, and I started to worry about not being able to finish the quest today. When we found the Fabres, we noticed they were long, slender creatures, covered in green fur and with long ears. Its eyes had a curious gleam, but one should not be deceived; They were known for their quick and relentless attack.
 
-<<<<<<< HEAD
-We fought bravely and defeated 10 Fabres, which made us rise to level 9. During the battle, my knife, which I was using as equipment, broke, and I would have to repair it when I returned. We were exhausted, and as we sat on the ground, our breathing was heavy and labored, a clear sign of the intensity of the day.
-=======
-25. We fought bravely and defeated 10 Fabres, which made us rise to level 9. My knife broke during the battle, and I will have to repair it when I returned. We were exhausted, and as we sat on the ground, our breathing was heavy and labored, a clear sign of the intensity of the day.
->>>>>>> 553667612c3ce001d953f8d8e6ee78966ed9a5ef
+We fought valiantly, defeating 10 Fabres and reaching level 9. Unfortunately, my knife broke during the battle and will need repairs. Exhausted, we collapsed to the ground, our heavy breathing a testament to the day's intensity
 
 “We did it!” said Rox, tired but with a satisfied smile on his face.
 
 “Let's go back before it gets dark, or we'll get lost.” I replied, standing up quickly and extending my hand to help him up. With that, we started our way back to the Viperspire camp.
 
-When we arrived at the camp, the scene was enchanting and chaotic. Bonfires crackled everywhere, illuminating the space with a warm, cozy glow, while lanterns hanging from the trees cast dancing shadows. The aroma of roasting meat and burning herbs permeated the air, and the sound of laughter and lively conversations from other adventurers returning from their own expeditions created a vibrant atmosphere. As we passed through these crowded passages, I headed straight for the Viperspire Mansion, eager to complete the mission we had undertaken.
+The camp was a bustling scene of bonfires, lanterns, and the delicious aroma of roasting meat. Laughter and conversation filled the air as adventurers returned from their expeditions. Pushing through the crowd, I headed toward the Viperspire Mansion to complete our mission
 
-<<<<<<< HEAD
 After receiving our reward, I left the mansion and noticed the diversity of people in that camp. Rox, who was relaxed, noticed my expression and asked: "What are you looking for?"
-=======
-29. After receiving our reward, I left the mansion and noticed the diversity of people in that camp. Rox, who was relaxed, noticed my expression and asked:
->>>>>>> 553667612c3ce001d953f8d8e6ee78966ed9a5ef
 
-"A blacksmith or a merchant. I need to fix my knife." I replied, a little frustrated.
+"A Blacksmith or a Merchant. I need to repair my knife." I replied, a little frustrated.
 
-Rox looked around, his curious gaze fixed on one of the stalls and he suggested:
+Rox looked around, his curious gaze fixed on one of the stalls and he suggested, "How about going to that store?"
 
-"How about going to that store?"
-
-"It is not very appropriate for us to go to equipment stores generally. Cheap apprentice equipment is not found there. Swords that are not valuable are either found with blacksmiths or merchants," I explained, gesturing to emphasize my point.
+"It is not very appropriate for us to go to equipment stores generally. Cheap apprentice equipment is not found there. Swords that are not valuable are either found with blacksmiths or merchants," I explained.
 
 While we were talking, Rox spotted a blacksmith in one of the camp's tents and we went over to him.
 
-When we arrived, the blacksmith was already in an advanced stage of life, an elderly man who, upon noticing our approach, asked: "New adventurers, aren't you?"
+The blacksmith, an elderly man, greeted us as we arrived and asked, "New adventurers?"
 
-Rox happily replied, "Yeah, we're new adventurers! Our first expedition together."
+Rox happily replied, "Yeah, we're new adventurers! Just back from our first expedition together."
 
-I took his arm from my shoulders and said, "Can you repair my knife?"
+I removed his arm from my shoulders and asked, "Can you repair my knife?"
 
 He took the knife in his hands, examined it carefully, and commented, "Look, it's more appropriate to buy another one. After it breaks the first time, if you don't refine it, it will break quickly. I have this one.. ."
 
 Before he finished speaking, I interrupted: "Sir, I don't have any money. If you could fix it so it can last another day, that would be a great help." As I spoke, I gestured sincerely, hoping he understood my situation.
 
-"Calm down, boy. I understand your situation. Don't worry, the knife I'm going to offer you is the same. Are you going to tell me that there aren't 30 Zenys there?"
+"Calm down, boy. I understand your situation. Don't worry, the knife I'm going to offer you is very affordable. Or are you going to tell me that there aren't 30 Zenys there?"
 
-He seemed like an honest person. The knife I had only cost 25 Zenys, and he was only asking for 5 Zenys more. So I decided to accept the knife for the value of 30 Zenys. It seemed like he wasn't too worried about the money. I thanked him and turned to Rox.
+He seemed like an honest person. The knife I had only cost 25 Zenys, and he was only asking for 5 Zenys more. So I decided to buy the knife. It seemed like he wasn't too worried about the money. I thanked him and turned to Rox.
 
-"Come on, Rox! We need to find a good place to sleep at this camp. Let's avoid spending money on lodging."
+"Come on, Rox. Let's find a spot to sleep at the camp and save some money on lodging."
 
-The blacksmith, upon hearing this, looked at us with an understanding and generous look and said, "Hey, boys, wait there. I heard you have nowhere to sleep today. How about keeping this old man company today?"
+The blacksmith overheard us and generously offered, "Hey there, boys. Need a place to stay tonight? How about keeping an old man company?"
 
 
 Protagonist Data: 

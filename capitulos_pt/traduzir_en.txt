@@ -1,40 +1,64 @@
+Protagonist Date:
+
 ----------------------------
-Day: 1
+Day: 6
 -----------------------------
 Class Level: 1
-Base Level: 1
+Base Level: 6
 -----------------------------
 Life Status:
-  HP: 100
-  MP: 35
+  HP: 150
+  MP: 40
 
 Attributes:
-  STR: 5
+  STR: 9
   AGI: 5
   VIT: 5
   INT: 5
-  DEX: 5
+  DEX: 6
   LUK: 5
 
 Combat Statistics:
-  ATK: 23
+  ATK: 28
   MATQ: 14.5
   HIT: 6
   Critical: 1
   DEF: 12
   MDEF: 5
   Flee: 5
-  ASPD: 105
+  ASPD: 106
 -----------------------------
-Zeny: 800
+Zeny: 1820
 -----------------------------
 
 Equipped Equipment:
-  Do
+  knife
     ATK: 17
     Description: A simple knife.
 
   Cotton Shirt
     DEF: 10
     Description: Simple cotton shirt. To be used on any occasion.
+-----------------------------
+
+Inventory:
+  Items Quantity
+    Flower: 4
+    Sprout: 4
+    Stem: 6
+    Lantana: 2
+    Felpa: 4
+    Mint: 2
+    Romantic Flower: 4
+    Celatom: 2
+    Melody Plant: 2
+    Makulrata: 2
+    Bitter Herb: 2
+    Green Herb: 5
+    Sharp Scale: 2
+    Aloe: 2
+    Aloe Leaf: 2
+    Romantic Leaf: 2
+    Red Herb: 6
+    Yellow Herb: 3
 -----------------------------

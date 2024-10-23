@@ -1,32 +1,34 @@
+Protagonist Data:
+
 ----------------------------
-Dia: 1
+Dia: 6
 -----------------------------
 Nível de Classe: 1
-Nível Base: 1
+Nível Base: 6
 -----------------------------
 Status de Vida:
-  HP      : 100
-  MP      : 35
+  HP      : 150
+  MP      : 40
 
 Atributos:
-  STR     : 5
+  STR     : 9
   AGI     : 5
   VIT     : 5
   INT     : 5
-  DEX     : 5
+  DEX     : 6
   LUK     : 5
 
 Estatísticas de Combate:
-  ATQ     : 23
+  ATQ     : 28
   MATQ    : 14.5
   HIT     : 6
   Critical: 1
   DEF     : 12
   MDEF    : 5
   Flee    : 5
-  ASPD    : 105
+  ASPD    : 106
 -----------------------------
-Zeny: 800
+Zeny: 1820
 -----------------------------
 
 Equipamentos Equipados:
@@ -37,4 +39,26 @@ Equipamentos Equipados:
   Camisa de Algodão
     DEF      : 10
     Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+-----------------------------
+
+Inventário:
+  Itens                Quant
+    Flor                : 4
+    Broto               : 4
+    Caule               : 6
+    Lantana             : 2
+    Felpa               : 4
+    Menta               : 2
+    Flor Romântica      : 4
+    Celatom             : 2
+    Planta da Melodia   : 2
+    Makulrata           : 2
+    Erva Amarga         : 2
+    Erva Verde          : 5
+    Escama Afiada       : 2
+    Aloés               : 2
+    Folha de Aloe       : 2
+    Folha Romântica     : 2
+    Erva Vermelha       : 6
+    Erva Amarela        : 3
 -----------------------------

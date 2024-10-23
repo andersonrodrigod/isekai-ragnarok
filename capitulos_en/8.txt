@@ -1,64 +1,51 @@
-It wasn't a bad location; it was a tent, and, by the way, much better than sleeping on the street. We talked a lot before going to sleep. The blacksmith seemed like a nice person, his name was Yamal and he shared some stories about his past adventures. He mentioned how blacksmiths nowadays are much more skilled than they were before; Now, they can create magical weapons and equipment with items dropped by big bosses. It was a great innovation! He also said that the demand for equipment increased due to the large number of new adventurers, which forced him to come out of retirement. He no longer worked, but with this new demand, he felt obliged to participate.
+The tent was a decent place to sleep, much better than the street. We chatted with Yamal, the blacksmith, who shared stories of his adventures. He mentioned how blacksmithing had evolved, with skilled craftsmen now creating magical items using boss drops. This innovation, combined with the influx of new adventurers, led to increased demand, prompting Yamal to return to work.
 
-The night was long and full of conversations until we finally fell asleep. When I woke up in the morning, I called Rox to go to the Viperspire Mansion again. Due to the amount of experience we gained the day before, it might not be that easy for us to level up again, but we were confident that we were stronger.
+The night was filled with conversation, and eventually, we drifted off to sleep. The next morning, I roused Rox and suggested returning to Viperspire Mansion. Despite our recent leveling up, we were confident we wouldn't take long to level up again.
 
-So we approached the digital board to see which mission would be most appropriate for the day. We wanted something that we could complete easily, but that would also make us a good amount of money. We could explore and kill whatever monsters we wanted, but upon returning, we might find that there were no more quests available, so it was best to secure a new quest on the board.
+We approached the digital board to find a suitable quest. We wanted something achievable yet rewarding. While we could freely explore and hunt, it was important to secure a quest on the board since they were being taken at a fast rate.
 
-<<<<<<< HEAD
-The quest was as follows: 16 Plushies, 10 Green Herbs, 8 Feathers, 5 Carrots, with a reward of 400 zeny. It wasn't much, but it was the best quest to do while getting more experience to level up. With that in mind, we set off again into the jungle on the plains of Prontera on another journey. Time seemed to pass more quickly as we focused on the hunting, and the repetition of combats brought new ideas to mind.
+The quest we chose required 16 Plushies, 10 Green Herbs, 8 Feathers, and 5 Carrots, offering 400 zeny. It wasn't much, but it was the best option for our current level and would provide a good amount of experience.
 
-The hours dragged by as we faced the same monsters again and again and collected the items for the quest. By late afternoon we had already obtained the items necessary to complete the quest. Since yesterday, when observing those monsters, I remembered that I could make them as pets. Poring was the easiest, but he was just another cute pet and wouldn't be much help. Then I thought about the Lunatic. When we killed the last Alpha Lunatic, he dropped the Rainbow Carrot, which was the item needed to capture him as a pet.
-=======
-4. (The quest was as follows: 16 Plushies, 10 Green Herbs, 8 Feathers, 5 Carrots. The reward was 400 zeny. It wasn't much, but it was the best option to gain more experience and level up. With that in mind, we set off again into the jungle on the plains of Prontera on another journey. Time seemed to pass more quickly as we focused on gathering, and the repetition of combats brought new ideas to mind.)
+We ventured back into the jungle, focusing on our hunting and adapting our strategies with each encounter, the repetition of combats bringing new ideas to mind. Hours passed as we faced familiar monsters and collected the necessary items. By late afternoon, we had gathered the itens required by the quest.
 
-5. (The hours dragged by as we advanced through the jungle, facing the same monsters and collecting the items on the list. It was late afternoon, and we had already obtained the items necessary to complete the quest. Since yesterday, when observing those monsters, I remembered that I could make them as pets. Poring was the easiest, but he was just another cute pet and wouldn't be much help. Then I thought about the Lunatic. When we killed the last Alpha Lunatic, he dropped the Rainbow Carrot, which was the item needed to capture him as a pet.)
->>>>>>> fc23d61074d8a907dc44829822349206cd1dbaee
+While observing the monsters yesterday, I recalled the possibility of making them pets. Poring was easy to capture but wouldn't be very useful. I then considered the Lunatic. The Alpha Lunatic we defeated dropped a Rainbow Carrot, which could be used to capture a Lunatic pet.
 
-We also managed to reach level 11, one level higher than needed to upgrade into the Merchant Class.
+We successfully reached level 11, surpassing the requirement for the Merchant Class in my case. Since we only got one Rainbow Carrot, I proposed I'd keep the carrot and a 3-slot club, while Rox could have the 4-slot club and other items.
 
-Since we only got one carrot from the remaining items from this exploration, I planned to share it with Rox. I would keep this carrot and the 3-slot club, while he would keep all the other items, including the 4-slot club.
+As we prepared to leave the camp, we encountered Yamal, who was already packing up his tent. He greeted us warmly and expressed his pleasure at meeting us.
 
-When we arrived at the camp, we met the blacksmith Yamal. He was already taking down his tent, preparing to leave. Upon seeing us, he called us and we approached to say goodbye.
+I thanked him for his hospitality and asked for his ID Number, hoping to repay his kindness in the future."
 
-"Hey boys, I'll be leaving tonight. It was a pleasure meeting you." Yamal said in a friendly tone.
+Yamal departed, and Rox and I headed to the Viperspire Mansion to complete our quest. We received a reward of 200 zeny each and quickly hurried through the portal to return home.
 
-Yamal had been very generous to us. Offering to share his tent for us to spend the night was a great favor, and it was a shame I couldn't repay him in kind.
+At the Gate Watcher's location, I noticed a merchant advertising the purchase of Fly Wings. A nearby sign indicated he also bought Butterfly Wings.
 
-“Hey Grandpa, can I get your ID number?” I asked before he left.
+Ignoring the crowd, I approached the merchant and inquired, "How much do you pay for each Fly Wing?"
 
-"Of course, kid. The future is uncertain. Who knows, maybe we'll make a big deal?" replied Yamal with a genuine smile.
+He eagerly replied, "100 zeny. Do you have any to sell?"
 
-He went on his way, while Rox and I headed to the Viperspire Mansion to finish our quest. We received the reward, which, divided between us, yielded 200 zenys for each of us. Without wasting any time, we hurried towards the portal to return as soon as possible.
+I quickly responded, "No, I was just curious about the price."
 
-When we arrived where the Gate Watcher was, there was a merchant there who announced "I Buy Fly Wings!", but there was also a sign saying that he bought fly and butterfly wings.
-
-Many people passed by without paying attention, but, unlike them, I decided to ask: "How much do you pay for each Fly Wing?"
-
-"100 zenys. Do you have any to sell me?" he replied, with a greedy gleam in his eyes.
-
-"I don't have any right now, I just wanted to know the price," I replied quickly, not wanting to prolong the conversation.
-
-Even if I did, selling to that merchant would be a bad deal. He certainly offered a value well below the market. When we arrive in Einbroch, I will check the prices.
+The merchant's offer was significantly below market value. I decided to hold onto my Fly Wings and check prices in Einbroch."
 
 <<<<<<< HEAD
 As I passed through the portal and returned to the Gatewachers' grand mansion in Einbroch, I noticed another sign informing me that they also bought Fly Wings and Butterfly Wings there. Fly Wing was an item that was quite popular among solo adventurers. Considering that they were relatively easy to obtain, the demand for the product seemed high in the Gatewachers' guild.
-=======
-19. As I passed through the portal and returned to the grand mansion in Einbroch of the Gatewachers, I noticed another sign informing me that they also bought Fly Wings and Butterfly Wings there. Fly Wings, for example, were an item that was quite popular among solo adventurers. Considering that they were relatively easy to obtain, the demand for the product seemed high in the Gatewachers' guild. (explicado que havia demanda na de compra na guilda Gatewachers)
->>>>>>> fc23d61074d8a907dc44829822349206cd1dbaee
 
-When we passed through the portal, it was already night, and I was determined to return to the inn. My plan for the next day was to go to the Merchant Guild and obtain my merchant class. The weight of the decisions that awaited me mixed with fatigue, but for now, resting was the best I could do.
+When we passed through the portal, it was already night, and I was eager to return to the inn. My plan for the next day was to go to the Merchant Guild and obtain my merchant class. The weight of the decisions that awaited me mixed with fatigue, and soon I drifted off to sleep.
 
-Dawn came faster than I expected. I woke up early, eager to start the day. As I was getting ready to go to the guild, I noticed that Rox was not in the room. He would probably also get his class today, although I didn't know which one he would choose. This curiosity was starting to intrigue me.
+...
+
+Dawn came faster than I expected. I woke up early, eager to start the day. As I was getting ready to go to the guild, I noticed that Rox was not in the room. He would probably also get his class today, although I didn't know which one he would choose. That got me very curious.
 
 Going down the stairs of the inn, I found Tayla at the reception. She greeted me with a warm smile. "Good morning, Mr. Azoth! Are you going to renew your stay with us? Today is your checkout day."
 
-I had forgotten this detail, and now I would have to pay 200 zenys a day. Even though I was doing well, I still felt my financial progress was too slow. At the moment, I had 1,745 zeny and a lot of items accumulated in my inventory.
+I realized I'd forgotten about that. Despite my progress, I felt my finances were growing too slowly. I currently had 1,745 zeny and a full inventory.
 
 "Can you wait until tonight? I'm going to take care of some things today, and if I have any money left over, I'll advance you a few days."
 
-"Of course, we'll be waiting! We really hope you continue to stay with us," she replied, with genuine sympathy.
+"Of course, we'll be waiting! We really hope you continue to stay with us" she replied genuinely.
 
-When leaving the inn, I noticed the constant construction noise. There was a lot of construction going on, and all the inns seemed to be under renovation. The city didn't take long to respond to the growing demand for housing.
+Leaving the inn, I was greeted by a cacophony of construction noise. The city was undergoing rapid development, with numerous inns under renovation to meet the growing demand for housing.
 
 Walking through the city streets, it was now impossible to ignore the massive presence of adventurers. Many of them wore impressive helmets and armor, with intricate designs and high-quality materials. The number seemed to have tripled from the previous days, but upon closer inspection, I noticed that they were not newbies. They were experienced adventurers, with equipment that showcased their journeys and achievements.
 
@@ -78,15 +65,11 @@ I didn't understand what he meant and asked, curious, "Coin Ceremony?"
 
 He gestured with his hands as he explained, "The Coin Ceremony is the ritual that formalizes the transition to the merchant class. The requirements are simple: be at level 10 and pay a thousand Zenys to the Adventurers Guild."
 
-<<<<<<< HEAD
 A thousand Zenys… Each new step brought more expenses, and at times it felt like the unexpected costs were overwhelming. But this was necessary. Becoming a merchant was vital to expanding my resources. I nodded, accepting his words, and the assistant motioned me to join the others waiting.
-=======
-37. A thousand Zenys… Each new step brought more expenses, and at times it felt like the unexpected costs were overwhelming. But this was necessary. Becoming a merchant was vital to expanding my resources. I nodded, accepting his words, and the assistant motioned me to join the others waiting. (tirado o ar de reclamação)
->>>>>>> fc23d61074d8a907dc44829822349206cd1dbaee
 
-As soon as the tenth person entered the room, we were guided to a larger room, where the Senior Merchant was waiting for us. He was a serious-looking man, but with an air of wisdom and authority. He introduced himself as one of the apostles of Forseti, the God of Justice and negotiations. With a firm voice, he announced that, at the end of the ritual, everyone there would become merchants.
+As soon as the tenth person entered the room, we were guided to a larger room, where the Senior Merchant was waiting for us. He was a serious-looking man, but with an air of wisdom and authority. He introduced himself as one of the apostles of Forseti, the God of Justice and Negotiation. With a firm voice, he announced that, at the end of the ritual, everyone there would become merchants.
 
-The ritual was simple, but full of symbolism. On a table in front of us, ten silver coins were laid out, one for each of us. We were instructed to pick up a coin and hold it with both hands. The Senior Merchant then began to chant ancient words about prosperity and fairness in negotiations. When he finished, each of us had to flip the coin. As it fell, the metallic sound echoed throughout the room. This was the sign that we had completed our transition – the coin symbolized exchange, commerce, and our commitment to the profession of merchant.
+The ritual was simple, but full of symbolism. On a table in front of us, ten silver coins were laid out, one for each of us. We were instructed to pick up a coin and hold it with both hands. The Senior Merchant then began to chant ancient words about prosperity and fairness in negotiations. When he finished, each of us had to flip the coin. As it fell, the metallic sound echoed throughout the room. This was the sign that we had completed our transition – the coin symbolized exchange, commerce, and our commitment to the profession of Merchant.
 
 When the ceremony ended, something inside me changed. I picked up the coin lying at my feet and looked at it. The feeling of being a merchant was now real. I felt more confident, as if I could see opportunities where before I had only seen obstacles. The ability to calculate profits, predict the value of items, and make shrewd trades seemed to be part of me instinctively.
 
