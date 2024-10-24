@@ -1,14 +1,14 @@
-Upon leaving the room, the senior merchant's assistant was waiting and explained some of our new skills to us. Some of them were: Commerce, Mammonite, Identify Item, Discount, Overcharge, Use Cart and Increase Carrying Capacity.
+Upon leaving the room, the senior merchant's assistant was waiting and explained some of our new skills to us. Some of them were: Commerce, Mammonite, Identify Item, Discount, Overcharge, Pushcart and Enlarge Weight Limit.
 
-However, there were still some skills missing that, for me, were essential, especially if I wanted to join a group of adventurers. "Battle Cry" was an excellent buff, so I decided to ask the assistant.
+However, there were still some skills missing that were essential, especially if I wanted to join a group of adventurers. "Battle Cry" was an excellent buff, so I decided to ask the assistant.
 
-"Are there other skills for merchants?" I asked, hoping for a clear answer,
+"Are there other skills for merchants?" I asked.
 
-"Ah, of course, there are several skills. However, they take longer to learn, and you need to complete missions or quests to acquire them. There are groups of specialized merchants who teach these skills. Here in the city, we have Mott, who can teach you two of them, but to do so, you will have to perform a task for him."
+"Ah, of course, there are several skills. However, they take longer to learn, and you need to complete missions or quests to acquire them. There are groups of specialized merchants who teach these skills. Here in the city we have Mott, who can teach you two of them. But he'll demmand you to perform a task for him before that."
 
-I committed Mott's name to memory to look for it in the future. Right now, there were more pressing things. The assistant continued: "When you open your Status Plates, you will notice a few new functions. The first of these is rank. Now that you have become a merchant in Einbroch, you are automatically part of the local merchants, at no cost. However, if you want access to global ranking, you will need to pay an extra fee."
+I committed Mott's name to memory to look for it in the future. Right now, there were more pressing things. The assistant continued: "When you open your Status Plates, you will notice a few new functions. The first of these is rank. Now that you have become a Merchant in Einbroch, you have been added to the local Merchants list (dei uma alterada aqui, vê se tá certo), at no cost. However, if you want access to global ranking, you will need to pay an extra fee."
 
-I found the ranking to be an incredible tool for advertising, as it would allow you to see the status of other merchants, the type of products they sell and their sales volumes. This would be a great way to analyze the market and its trends. I was excited to see comparison charts of items, equipment, and sales, as well as comparisons between different merchants. It was an extremely useful tool.
+I found the ranking to be an incredible tool for advertising, as it would allow you to see the status of other Merchants, the type of products they sell and their sales volumes. This would be a great way to analyze the market and its trends. I was excited to see comparison charts of items, equipment, and sales, as well as comparisons between different merchants. It was an extremely useful tool.
 
 The assistant continued: "It's worth remembering that you are not yet in this ranking. To be listed, you will also have to pay. Another important function is virtual commerce, which, as you can see, is fully paid. This is our most expensive service. If you want more information, the receptionist at the entrance of the building can explain better, as there are several rules for this service."
 
@@ -18,17 +18,17 @@ Each new explanation was a surprise, and I was amazed at how much the market sys
 
 "Each month you'll need 5,000 Zenys to maintain the resources you have access to for a month and finally, there are several other options for those who want to invest in specific items or equipment or to use a cart, but you will have to find out on your own at the entrance to the Guild building. See you later!” finished the assistant.
 
-Leaving the door of the Merchants Guild building, I realized that it was not yet necessary to delve into all the available functions. The truth is that I was barely supporting myself financially, and adding this huge amount of options to my Status Plate would require a lot of Zeny.
+Leaving the door of the Merchants Guild building, I realized that it was not yet necessary to delve into all the available functions. The truth is that I was barely supporting myself financially, and adding this huge amount of functions to my Status Plate would require a lot of Zeny.
 
-The fact was, I couldn't use the Overcharge skill to make extra money by selling some items I had in my inventory. With only 945 Zenys left, I would need to spend days completing missions and quests, leveling up to get more money and skill points. To unlock the Overbilling ability, you would need to distribute three points into Carrying Capacity first.
+The fact was, I couldn't use the Overcharge skill to make extra money by selling some items I had in my inventory. With only 945 Zenys left, I would need to spend days completing missions and quests, leveling up to get more money and skill points. To unlock the Overcharge (mudar todos os "Overbill" e "Overbilling" pra "Overcharge") ability, I would need to distribute three skill points into Enlarge Weight Limit first.
 
-I decided to invest my only class point, which I gained from becoming a merchant, into the Identify Item skill. After all, I had an unknown club and needed to use this skill to discover its attributes. Before identifying the item, I decided to go to the inn and wait for Rox, so that we could decide together what to do next: dedicate ourselves to exploring new places in search of strength or carry out quests around Prontera to get more money.
+I decided to invest my only skill point (tu botou "class point", mas é "skill point", né?), which I gained from becoming a Merchant (roda um código pra mudar todos os nomes de classe pra inicial maiúscula), into the Item Appraisal skill (mudar todos os "Identify Item" pra "Item Appraisal"). After all, I had an unknown club and needed to use this skill to discover its attributes. Before identifying the item, I decided to go to the inn and wait for Rox, so that we could decide together what to do next: dedicate to exploring other places to level up or carry out quests around Prontera to get more money.
 
 Upon arriving at the inn where I was staying, I found Tayla leaving quickly. Before walking through the door, she saw me.
 
-"Mister Azoth, I'm leaving now, but Rox asked me to leave a message. He said his class pass would last for a week and therefore he would be unavailable for 7 days."
+"Mister Azoth, I'm leaving now, but Rox asked me to leave a message. He said his Class Upgrade would last for a week and therefore he would be unavailable for 7 days."
 
-I thanked Tayla for the message. Rox’s Class Upgrade process was very time consuming, which meant I would have to go out on my own for now. As a result, I decided that it would be best to focus my efforts this week on leveling up and accumulating enough points to acquire the Overcharge skill. With it, I could sell some items from my inventory for a higher price, which would speed up my pursuit of better equipments.
+I thanked Tayla for the message. Rox’s Class Upgrade process was very long, which meant I would have to go out on my own for now. As a result, I decided that it would be best to focus my efforts this week on leveling up and accumulating enough points to acquire the Overcharge skill. With it, I could sell some items from my inventory for a higher price, which would help me acquire better equipment faster.
 
 I paid for just one more day of my stay, knowing that from now on, there would be no more time for the comfort of inns. It was time to start adventuring regularly. After paying, I had 745 Zeny left. I decided that I would spend the next few days in the plains of Prontera, camping and hunting to strengthen myself. My goal was to return with the necessary class level to finally sell the items accumulated in my inventory with the Overcharge Skill. 
 
@@ -42,17 +42,17 @@ With everything planned for the next day, I went to sleep to start my journey re
 
 ...
 
-I woke up early today. Now with a clear path in mind, I organized myself and headed straight to the GateWatchers Guild, heading towards the Prontera Plains. Upon arriving, I was struck by the contrast again. The air was incredibly clean, very unlike the constant pollution of Einbroch, an industrial city. The green expanse of the plains was almost a refuge, a visual and physical respite.
+I woke up early today. Now with a clear path in mind, I got myself ready and headed straight to the GateWatchers Guild, heading towards the Prontera Plains. Upon arriving, I was struck by the contrast again. The air was incredibly clean, very unlike the constant pollution of Einbroch, an industrial city. The green expanse of the plains was almost a refuge, a visual and physical respite.
 
 Knowing that there were always quests related to the monsters I wanted to defeat, I decided not to go to the Guild to get a quest right away. My main goal was to gain experience by fighting the creatures. At the end of each day, I would check to see if any of the items I collected were part of a quest. If there was nothing relevant, I would sell them at the market.
 
 ...
 
-Three days later, at the end of my journey, I returned from the plains. I was exhausted, but still hopeful of finding a quest that accepted the items I had obtained. The fight was difficult, especially being alone. On several occasions, I had to hunt porings to gain experience without risking my life too much. I was already at my limit; If I had faced stronger monsters and couldn't avoid their attacks, I wouldn't have survived. I needed to level up to recover all my HP.
+Three days later, at the end of my journey, I returned from the plains. I was exhausted, but still hopeful of finding a quest that accepted the items I had obtained. The fight was difficult, especially being alone. On several occasions, I had to hunt Porings to gain experience without risking my life too much. I was already at my limit; If I had faced stronger monsters I would have to consume potions or stop early. So I stuck to Porings until I leveled up and restored my HP and MP.
 
-As I leveled up, I faced stronger monsters again, such as the Fabres and the Alpha Lunatic.
+As I leveled up, I got back to facing stronger monsters again, mainly as the Fabres, Lunatics, and when I was lucky, Alpha Lunatics.
 
-I managed to reach base level 14 and class level 8. I distributed the 3 skill points into Carrying Capacity and decided to allocate the other points when I arrived in Einbroch, because, unlike the attribute points, to reset my skills in the merchant guild, I would need to pay a considerable amount.
+I managed to reach base level 14 and class level 8. I distributed the 3 skill points into Enlarge Weight Limit and decided to allocate the other points when I arrived in Einbroch, because, unlike the attribute points, to reset my skills in the merchant guild, I would need to pay a considerable amount.
 
 I got a lot of items during my exploration. The positive side of being alone is that I don't have to share loot with anyone, which is great. I believe that this time I won't be in need for a few days and I'll finally be able to do what I do best: trade.
 
@@ -62,13 +62,13 @@ As I left the guild, I noticed a registration table and became curious. I approa
 
 "Hi, what is this inscription for?" I asked the man behind the desk.
 
-"Hello! I am the guild recruiter. To participate in the entrance test, you must be level 25. Would you like to participate?" — he replied, looking me in the eyes.
+"Hello! I am the guild recruiter. To participate in the entrance test, you must be level 25. Would you like to participate?" he replied.
 
-"Actually, I haven't reached the required level yet, but when I do, I will definitely participate in the selection" — I replied, feeling a little frustrated, it was a great opportunity to meet new people
+"Actually, I haven't reached the required level yet, but when I do, I will definitely participate in the selection." I replied, feeling a little frustrated, it was a great opportunity to meet new people
 
-"Great! As soon as you reach the required level, come back here. We'll be waiting" — he said, nodding his head.
+"Great! As soon as you reach the required level, come back here. We'll be waiting!" he said, nodding his head.
 
-By joining a guild, I could progress faster by forming a group going to an expedition. Solo leveling with a not very combat-focused class like mine would be too hard. Maybe I should take a supporting role in an expedition group? 
+By joining a guild, I could progress faster by joining a group to go on an expedition. Solo leveling with a not very combat-focused class like mine would be too hard. Maybe I should take a more supporting role in an expedition group? 
 
 
 
