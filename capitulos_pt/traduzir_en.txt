@@ -1,64 +1,67 @@
-Protagonist Date:
+44. Protagonist Date:
 
-----------------------------
-Day: 6
------------------------------
-Class Level: 1
-Base Level: 6
------------------------------
-Life Status:
-  HP: 150
-  MP: 40
+45. ----------------------------
+46. ​​Day: 7
+47. -----------------------------
+48. Class Level: 1
+49. Base Level: 9
+50. -----------------------------
+51. Life Status:
+52. HP: 180
+53. MP: 43
 
-Attributes:
-  STR: 9
-  AGI: 5
-  VIT: 5
-  INT: 5
-  DEX: 6
-  LUK: 5
+54. Attributes:
+55. STR: 12
+56. AGI: 5
+57. VIT: 5
+58. INT: 5
+59. DEX: 6
+60. LUK: 5
 
-Combat Statistics:
-  ATK: 28
-  MATQ: 14.5
-  HIT: 6
-  Critical: 1
-  DEF: 12
-  MDEF: 5
-  Flee: 5
-  ASPD: 106
------------------------------
-Zeny: 1820
------------------------------
+61. Combat Statistics:
+62. ATK: 31
+63. MATQ: 14.5
+64. HIT: 6
+65. Critical: 1
+66. DEF: 12
+67. MDEF : 5
+68. Flee: 5
+69. ASPD: 106
+70. -----------------------------
+71. Zeny: 1745
+72. -----------------------------
 
-Equipped Equipment:
-  knife
-    ATK: 17
-    Description: A simple knife.
+73. Equipped Equipment:
+74. Knife
+75. ATK: 17
+76. Description: A simple knife.
 
-  Cotton Shirt
-    DEF: 10
-    Description: Simple cotton shirt. To be used on any occasion.
------------------------------
+77. Cotton Shirt
+78. DEF: 10
+79. Description: Simple cotton shirt. To be used on any occasion.
+80. -----------------------------
 
-Inventory:
-  Items Quantity
-    Flower: 4
-    Sprout: 4
-    Stem: 6
-    Lantana: 2
-    Felpa: 4
-    Mint: 2
-    Romantic Flower: 4
-    Celatom: 2
-    Melody Plant: 2
-    Makulrata: 2
-    Bitter Herb: 2
-    Green Herb: 5
-    Sharp Scale: 2
-    Aloe: 2
-    Aloe Leaf: 2
-    Romantic Leaf: 2
-    Red Herb: 6
-    Yellow Herb: 3
------------------------------
+81. Inventory:
+82. Quantity Items
+83. Flower: 4
+84. Sprout: 4
+85. Stem: 6
+86. Lantana: 2
+87. Felpa: 5
+88. Mint: 2
+89. Romantic Flower: 4
+90. Celatom: 2
+91. Melody Plant: 2
+92. Makulrata : 2
+93. Bitter Herb: 2
+94. Green Herb: 6
+95. Sharp Scale: 2
+96. Aloe : 2
+97. Aloe Leaf: 2
+98. Romantic Leaf: 2
+99. Red Herb: 6
+100. Yellow Herb: 3
+101. Shamrocks: 8
+102. Jellopy : 1
+103. Flywing: 3
+104. -----------------------------

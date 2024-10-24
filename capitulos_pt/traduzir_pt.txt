@@ -1,64 +1,67 @@
-Protagonist Data:
+44. Protagonist Data:
 
-----------------------------
-Dia: 6
------------------------------
-Nível de Classe: 1
-Nível Base: 6
------------------------------
-Status de Vida:
-  HP      : 150
-  MP      : 40
+45. ----------------------------
+46. Dia: 7
+47. -----------------------------
+48. Nível de Classe: 1
+49. Nível Base: 9
+50. -----------------------------
+51. Status de Vida:
+52. HP      : 180
+53. MP      : 43
 
-Atributos:
-  STR     : 9
-  AGI     : 5
-  VIT     : 5
-  INT     : 5
-  DEX     : 6
-  LUK     : 5
+54. Atributos:
+55. STR     : 12
+56. AGI     : 5
+57. VIT     : 5
+58. INT     : 5
+59. DEX     : 6
+60. LUK     : 5
 
-Estatísticas de Combate:
-  ATQ     : 28
-  MATQ    : 14.5
-  HIT     : 6
-  Critical: 1
-  DEF     : 12
-  MDEF    : 5
-  Flee    : 5
-  ASPD    : 106
------------------------------
-Zeny: 1820
------------------------------
+61. Estatísticas de Combate:
+62. ATQ     : 31
+63. MATQ    : 14.5
+64. HIT     : 6
+65. Critical: 1
+66. DEF     : 12
+67. MDEF    : 5
+68. Flee    : 5
+69. ASPD    : 106
+70. -----------------------------
+71. Zeny: 1745
+72. -----------------------------
 
-Equipamentos Equipados:
-  Faca
-    ATQ      : 17
-    Descrição: Uma simples faca.
+73. Equipamentos Equipados:
+74. Faca
+75. ATQ      : 17
+76. Descrição: Uma simples faca.
 
-  Camisa de Algodão
-    DEF      : 10
-    Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
------------------------------
+77. Camisa de Algodão
+78. DEF      : 10
+79. Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+80. -----------------------------
 
-Inventário:
-  Itens                Quant
-    Flor                : 4
-    Broto               : 4
-    Caule               : 6
-    Lantana             : 2
-    Felpa               : 4
-    Menta               : 2
-    Flor Romântica      : 4
-    Celatom             : 2
-    Planta da Melodia   : 2
-    Makulrata           : 2
-    Erva Amarga         : 2
-    Erva Verde          : 5
-    Escama Afiada       : 2
-    Aloés               : 2
-    Folha de Aloe       : 2
-    Folha Romântica     : 2
-    Erva Vermelha       : 6
-    Erva Amarela        : 3
------------------------------
+81. Inventário:
+82. Itens                Quant
+83. Flor                : 4
+84. Broto               : 4
+85. Caule               : 6
+86. Lantana             : 2
+87. Felpa               : 5
+88. Menta               : 2
+89. Flor Romântica      : 4
+90. Celatom             : 2
+91. Planta da Melodia   : 2
+92. Makulrata           : 2
+93. Erva Amarga         : 2
+94. Erva Verde          : 6
+95. Escama Afiada       : 2
+96. Aloés               : 2
+97. Folha de Aloe       : 2
+98. Folha Romântica     : 2
+99. Erva Vermelha       : 6
+100. Erva Amarela        : 3
+101. Trevos              : 8
+102. Jellopy             : 1
+103. Asa de Mosca        : 3
+104. -----------------------------
