@@ -85,70 +85,70 @@
 43. O ferreiro, ao ouvir isso, nos olhou com um olhar compreensivo e generoso e disse: "Ei, garotos, esperem aí. Ouvi que vocês hoje não têm onde dormir. Que tal fazer companhia a este velho hoje?"
 
 
-44. Protagonist Data:
+44. Protagonist Date:
 
 45. ----------------------------
-46. Dia: 7
+46. ​​Day: 7
 47. -----------------------------
-48. Nível de Classe: 1
-49. Nível Base: 9
+48. Class Level: 1
+49. Base Level: 9
 50. -----------------------------
-51. Status de Vida:
-52. HP      : 180
-53. MP      : 43
+51. Life Status:
+52. HP: 180
+53. MP: 43
 
-54. Atributos:
-55. STR     : 12
-56. AGI     : 5
-57. VIT     : 5
-58. INT     : 5
-59. DEX     : 6
-60. LUK     : 5
+54. Attributes:
+55. STR: 12
+56. AGI: 5
+57. VIT: 5
+58. INT: 5
+59. DEX: 6
+60. LUK: 5
 
-61. Estatísticas de Combate:
-62. ATQ     : 31
-63. MATQ    : 14.5
-64. HIT     : 6
+61. Combat Statistics:
+62. ATK: 31
+63. MATQ: 14.5
+64. HIT: 6
 65. Critical: 1
-66. DEF     : 12
-67. MDEF    : 5
-68. Flee    : 5
-69. ASPD    : 106
+66. DEF: 12
+67. MDEF : 5
+68. Flee: 5
+69. ASPD: 106
 70. -----------------------------
 71. Zeny: 1745
 72. -----------------------------
 
-73. Equipamentos Equipados:
-74. Faca
-75. ATQ      : 17
-76. Descrição: Uma simples faca.
+73. Equipped Equipment:
+74. Knife
+75. ATK: 17
+76. Description: A simple knife.
 
-77. Camisa de Algodão
-78. DEF      : 10
-79. Descrição: Camisa simples de algodão. Para ser usada em qualquer ocasião.
+77. Cotton Shirt
+78. DEF: 10
+79. Description: Simple cotton shirt. To be used on any occasion.
 80. -----------------------------
 
-81. Inventário:
-82. Itens                Quant
-83. Flor                : 4
-84. Broto               : 4
-85. Caule               : 6
-86. Lantana             : 2
-87. Felpa               : 5
-88. Menta               : 2
-89. Flor Romântica      : 4
-90. Celatom             : 2
-91. Planta da Melodia   : 2
-92. Makulrata           : 2
-93. Erva Amarga         : 2
-94. Erva Verde          : 6
-95. Escama Afiada       : 2
-96. Aloés               : 2
-97. Folha de Aloe       : 2
-98. Folha Romântica     : 2
-99. Erva Vermelha       : 6
-100. Erva Amarela        : 3
-101. Trevos              : 8
-102. Jellopy             : 1
-103. Asa de Mosca        : 3
+81. Inventory:
+82. Quantity Items
+83. Flower: 4
+84. Sprout: 4
+85. Stem: 6
+86. Lantana: 2
+87. Felpa: 5
+88. Mint: 2
+89. Romantic Flower: 4
+90. Celatom: 2
+91. Melody Plant: 2
+92. Makulrata : 2
+93. Bitter Herb: 2
+94. Green Herb: 6
+95. Sharp Scale: 2
+96. Aloe : 2
+97. Aloe Leaf: 2
+98. Romantic Leaf: 2
+99. Red Herb: 6
+100. Yellow Herb: 3
+101. Shamrocks: 8
+102. Jellopy : 1
+103. Flywing: 3
 104. -----------------------------
