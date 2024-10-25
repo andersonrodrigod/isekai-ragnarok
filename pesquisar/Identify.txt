@@ -1,0 +1,11 @@
+Resultados da pesquisa pela palavra 'Identify':
+
+Arquivo: 11.txt | Ocorrências: 2
+Parágrafos com a palavra:
+  - 3. before purchasing the shield, i needed to identify the sword and club that i had obtained on my last expedition. i used my skill to identify the sword.
+  - 112. identify item: level 1
+
+Arquivo: 10.txt | Ocorrências: 1
+Parágrafos com a palavra:
+  - 101. identify item: level 1
+

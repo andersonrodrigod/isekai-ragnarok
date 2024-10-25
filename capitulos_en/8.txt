@@ -28,7 +28,6 @@ I quickly responded, "No, I was just curious about the price."
 
 The merchant's offer was significantly below market value. I decided to hold onto my Fly Wings and check prices in Einbroch."
 
-<<<<<<< HEAD
 As I passed through the portal and returned to the Gatewachers' grand mansion in Einbroch, I noticed another sign informing me that they also bought Fly Wings and Butterfly Wings there. Fly Wing was an item that was quite popular among solo adventurers. Considering that they were relatively easy to obtain, the demand for the product seemed high in the Gatewachers' guild.
 
 When we passed through the portal, it was already night, and I was eager to return to the inn. My plan for the next day was to go to the Merchant Guild and obtain my merchant class. The weight of the decisions that awaited me mixed with fatigue, and soon I drifted off to sleep.
@@ -182,52 +181,3 @@ Mace [3] : 1
 
 
 
-
-
-
-Protagonist Date:
-
-_______________________________________
-
-Zeny: 845
-
-
-Status:
-
-HP: 130/130
-MP: 38/38
-
-
-_______________________________________
-
-
-Inventory:
-
-items:
-
-Flower: 4
-Sprout: 4
-Stem: 6
-Lantana: 2
-Fluff: 5
-Mint: 2
-Romantic Flower: 4
-Celatom: 2
-melody blueprint: 2
-Makulrata: 2
-Bitter Herb: 2
-Green Herb: 6
-Sharp Scale: 2
-Aloes: 2
-Aloe Leaf: 2
-Romantic sheet: 2
-Red Herb: 6
-Yellow Herb: 3
-Clovers: 8
-Jelopy: 1
-Fly Wing: 3
-Rainbow Carrot: 2
-
-equipment:
-
-Club [3]: 1
