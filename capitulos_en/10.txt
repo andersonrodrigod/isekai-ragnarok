@@ -1,28 +1,30 @@
 1. I arrived at Einbroch late in the afternoon, satisfied with the gains from the last few days gathering items. I confess that, in the game, hunting monsters and collecting their drops was much more fun. In this world, everything takes so long, it's way more of a chore. Maybe joining an expedition will make things more interesting.
 
-2. Upon arriving at the inn, Tayla reminded me that today was my last paid day and that I would need to renew my hosting if I wanted to continue. I had exactly 1,345 Zenys, so I decided to pay for another 6 days, leaving me with only 145 Zenys (era bom explicar o porquê de ele querer pagar 6 dias. tipo "já que eu planejo passar os próximos dias na cidade" ou algo do tipo). Tomorrow, I'm planning to go to the market to get more money.
+2. When I got back to the inn, I realized that things weren’t the same anymore. Three days ago, when I checked out, the daily rates were still affordable, but now the rate is 400 Zenys per day. I would definitely only stay here again if I really had to; after all, it was time to become a real adventurer and camp with other groups on expeditions.
 
-3. ...
+3. Counting my Zenys, I saw that I still had 1,345. After paying for another night, I had 945 left. As for the money, I wasn’t too worried. Tomorrow I planned to go to the market and I was sure that I would come back with a good profit.
 
-4. The next morning, I woke up determined to put all my remaining skill points into the Overcharge (mudar todos os Overbilling e Overbill pra Overcharge) skill. Now, with a 5 points added to the skill, I could sell my items for an additional 15% profit.
+---
 
-5. Before leaving, I took a look at the Merchant options on my Status Plate (mudar todos os Status Board pra Status Plate) and reviewed the items in my inventory to decide where to sell them. Unlike the game, there are no NPCs to sell here. You trade directly with people or other merchants. Only merchants have access to sales and purchases via the Status Plate, and while I don't fully understand how this works, it would be much better if it was an option available to all classes. It seems like another way to monopolize trade and leave other classes out.
+4. The next morning, I woke up determined to put all my remaining skill points into the Overcharge skill. Now, with a 5 points added to the skill, I could sell my items for an additional 15% profit.
+
+5. Before leaving, I took a look at the Merchant options on my Status Plate and reviewed the items in my inventory to decide where to sell them. Unlike the game, there are no NPCs to sell here. You trade directly with people or other merchants. Only merchants have access to sales and purchases via the Status Plate, and while I don't fully understand how this works, it would be much better if it was an option available to all classes. It seems like another way to monopolize trade and leave other classes out.
 
 6. The truth is that the Merchant Class has always been one of the least chosen. Blacksmiths and Alchemists are not very popular in expeditions, as they are more supporting classes.
 
 7. After seeing that most of my items had potential buyers interested in them at the Einbroch market, I left the inn and headed towards the market. After a few minutes of walking, I saw the market. It was located on a suburban street in Einbroch, a place dominated by industrial buildings and heavy machinery. The air had a faint smell of oil and burnt metal, typical of the industry. Stalls were lined up along the street, mixing elements of traditional commerce with steampunk tech. They were metal and glass structures, some covered in neon signs that flashed with advertisements for items and prices.
 
-8. I opened my status board and looked for the numbers of the stalls that were interested in purchasing my items. The closest one was number 7. I approached the totem, where there were two options: buy or sell. I selected sell, and the most valuable (tu quis dizer item mais caro, né?) item in my inventory appeared: a Rainbow Carrot. A very rare item, with a drop rate of just 1%. I had gotten this item together with Rox, and again later, while exploring by myself. This carrot alone was worth 1,250 Zenys (ele tinha 2 e vendeu 1, né?).
+8. I opened my Status Plate and looked for the numbers of the stalls that were interested in purchasing my items. The closest one was number 7. I approached the totem, where there were two options: buy or sell. I selected sell, and the most valuable (tu quis dizer item mais caro, né? >>> sim) item in my inventory appeared: a Rainbow Carrot. A very rare item, with a drop rate of just 1%. I had gotten this item together with Rox, and again later, while exploring by myself. This carrot alone was worth 1,250 Zenys (ele tinha 2 e vendeu 1, né? >>> ele vendeu os dois errei pode consertar).
 
-9. After visiting the other stalls and selling almost all of my items, I made a good amount of money. I was relieved, because after today, it wouldn't go back into the triple digits. Now, finally, I could explore a little more of this world without worrying so much about housing costs. (não era bom mencionar o saldo atual dele?)
+9. After visiting the other stalls and selling almost all of my items, I made a good amount of money. I was relieved, because after today, it wouldn't go back into the triple digits. Now, finally, I could explore a little more of this world without worrying so much about housing costs. (não era bom mencionar o saldo atual dele? >>> é mencionado no final do capítulo não é muito legal mencionar direto o valor que ele tem num acho legal ficar mencionando direto o que ele tem na carteira nao se alguem quiser ver vai la no final do capítulo mas algumas vezes eu ainda digo)
 
 10. It was already the fourth day since Rox went to make his class transition. It seemed like the other classes could require more than just a simple ritual like tossing a coin.
 
 11. There are still three days until he returns. Ideally, I would continue leveling up, but I need to venture into a slightly denser area of ​​the jungle in the Plains of Prontera. I'll have to face slightly stronger monsters (então não fez muito sentido ele reservar a pousada por 6 dias). Now that I've managed to save a reasonable amount of money, I can better prepare myself to fight them alone, without wasting time.
 
-12. I remember that deeper into the Plains of Prontera, stronger monsters could be found in the slightly denser jungle (mudei um pouco o sentido, olha se tá certo). I need to prepare beforehand. First, I'll go to the Smoke Sentinels Adventurer's Guild to find out what monsters I can face alone (como assim?), and then buy equipment that are suitable against them.
+12. I remember that deeper into the Plains of Prontera, stronger monsters could be found in the slightly denser jungle (mudei um pouco o sentido, olha se tá certo >>> ta tranquilo). I need to prepare beforehand. First, I'll go to the Smoke Sentinels Adventurer's Guild to find out what monsters I can face alone (como assim? >>> ele foi pesquisar as warps pra saber qual ele poderia upar sozinho e ganhar experiencia, and then buy equipment that are suitable against them.
 
-13. "Look who's here! He's become a merchant! Very unusual for someone who likes exploring so much. Tell me, what's your plan? Because Merchants are usually workhorses (vai ter que mudar todos os "workhorses" pra "freight carrier", porque workhorse tem nada ver com o que tu quer dizer) on expeditions," she said, winking.
+13. "Look who's here! He's become a merchant! Very unusual for someone who likes exploring so much. Tell me, what's your plan? Because Merchants are usually freight carrier on expeditions," she said, winking.
 
 14. What she said was the truth, but I had a plan for after Rox got back. With his help, I would be able to carry it out.
 
@@ -30,17 +32,17 @@
 
 16. "I hope it doesn't take so long," she said, with a smile that reminded her of an anxious aunt waiting for good news. "But then, what do you need?"
 
-17. "I came to get information about monsters from a certain area of ​​the Prontera Plains," I replied, pointing to my status board.
+17. "I came to get information about monsters from a certain area of ​​the Prontera Plains," I replied, pointing to my Status Plate.
 
 18. "You know that this information is not free, right? You only have free access if there is a quest and the person responsible for the quest provides the monster's information to facilitate the completion of the quest," Rose said, as if explaining something obvious.
 
-19. Although I found what she said weird, after thinking of it, it was was true. In the quests, I had only found information about the monsters I had to hunt, and in Viperspire, some of the quests I took didn't have information about certain monsters. For example, they had no info on the Alpha Lunatic (que tipo de info ele quer dizer?), and the doubt persisted in my mind.
+19. Although I found what she said weird, after thinking of it, it was was true. In the quests, I had only found information about the monsters I had to hunt, and in Viperspire, some of the quests I took didn't have information about certain monsters. For example, they had no info on the Alpha Lunatic (que tipo de info ele quer dizer? >>> vida, atk, etc.), and the doubt persisted in my mind.
 
 20. “Who gets to collect this information?” I asked, with a touch of curiosity.
 
-21. "All information about monsters is collected by people in the Professor class (que tipo de informação? porque se for o básico, qq um pode coletar). They gather this data and sell it to the guilds. Many Professors (cuidado que o tradutor as vezes vai chamar o professor de teacher) make good money just by selling the monster status information and the items they drop (mas aí só faz sentido vender informação sobre monstros novos, não? ficou esquisita essa parte, talvez seja bom deletar idk)," explained Rose, with a look of admiration while talking about the class.
+21. (“Anyone can gather information about monsters, including you,” Rose explained. “But the accuracy of the data depends on the experience and skill of the gatherer. Many adventurers can gather basic information about common creatures, but there is a considerable difference when it comes to bosses. These rare monsters, which only appear on specific occasions or in hard-to-reach areas, make data gathering more difficult. In these cases, it takes more preparation and often group work to get truly reliable information about their abilities, attack patterns, and weaknesses.”) 
 
-22. You'd expect someone to do that. In the game, we had access to a database, but here, in reality, information needs to be collected and stored. The Professor class really seemed suitable for this task.
+22. It was only natural that someone would have to take on this responsibility. In the game, we had a database at our fingertips, but here in the real world, information had to be collected in the field and stored manually. The idea that anyone could try seemed appealing, but I recognized that Professors, with their specific training and tools, really seemed ideally suited to do this job more accurately.
 
 23. "Okay, so what's the value of information about the monsters of the Prontera Plains?" I asked.
 
@@ -48,7 +50,7 @@
 
 25. 'Things only get more and more complicated' I thought, feeling the pressure building. It seems like as time passes, I need more and more things, which are also more and more expensive, and at a high rate. I stiil needed the information, so I bought it and had it transfered to my Status Plate. Now I had info on all of the monsters in the Prontera Plains jungle area (é jungle area mesmo? dá uma olhada nas partes q foi mencionado).
 
-26. Looking at the information on my status board, I saw that there was a promising location in the Prontera Plains called PRT_FILD08. The monsters there had stats that indicated I could defeat them, and I could gain a good amount of experience without spending money on potions. It was ideal for me.
+26. Looking at the information on my Status Plate, I saw that there was a promising location in the Prontera Plains called PRT_FILD08. The monsters there had stats that indicated I could defeat them, and I could gain a good amount of experience without spending money on potions. It was ideal for me.
 
 27. I opened my Status Plate again and started checking for good (era bom mencionar q ele tava procurando nas lojas dos mercadores), affordable equipment that would allow me to spend as much time as possible in that location. After reviewing everything, I wasted no time and went straight to the market once again. Today would be shopping day.
 
@@ -86,7 +88,7 @@
 53. ASPD: 113
 54. -----------------------------
 
-55. Zeny: 6152.15
+55. Zeny: 5752.15
 
 56. -----------------------------
 
@@ -143,7 +145,7 @@
 
 102. Passive Skills:
 103. Increase Load Capacity: Level 3
-104. Overprice: Level 5
+104. Overcharge: Level 5
 
 105. -----------------------------
 

@@ -24,6 +24,8 @@ def alterar_palavra_no_txt(caminho_arquivo):
     conteudo_alterado = conteudo_alterado.replace("mission", "quest")
 
     conteudo_alterado = conteudo_alterado.replace("profession", "Class")
+
+    conteudo_alterado = conteudo_alterado.replace("workhorses", "freight carrier")
     
 
     # Gravar as alterações no arquivo
@@ -33,7 +35,7 @@ def alterar_palavra_no_txt(caminho_arquivo):
     print("Alterações realizadas com sucesso!")
 
 # Caminho para o arquivo .txt
-caminho_do_arquivo = "./capitulos_en/9.txt"
+caminho_do_arquivo = "./capitulos_en/10.txt"
 alterar_palavra_no_txt(caminho_do_arquivo)
 
 
