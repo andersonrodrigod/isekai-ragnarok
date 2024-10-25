@@ -1,12 +1,12 @@
-Upon leaving the room, the senior merchant's assistant was waiting and explained some of our new skills to us. Some of them were: Commerce, Mammonite, Identify Item, Discount, Overcharge, Pushcart and Enlarge Weight Limit.
+Upon leaving the room, the senior merchant's assistant was waiting and explained some of our new skills to us. Some of them were: Commerce, Mammonite, Item Appraisal, Discount, Overcharge, Pushcart and Enlarge Weight Limit.
 
 However, there were still some skills missing that were essential, especially if I wanted to join a group of adventurers. "Battle Cry" was an excellent buff, so I decided to ask the assistant.
 
 "Are there other skills for merchants?" I asked.
 
-"Ah, of course, there are several skills. However, they take longer to learn, and you need to complete missions or quests to acquire them. There are groups of specialized merchants who teach these skills. Here in the city we have Mott, who can teach you two of them. But he'll demmand you to perform a task for him before that."
+"Ah, of course, there are several skills. However, they take longer to learn, and you need to complete quests or quests to acquire them. There are groups of specialized merchants who teach these skills. Here in the city we have Mott, who can teach you two of them. But he'll demmand you to perform a task for him before that."
 
-I committed Mott's name to memory to look for it in the future. Right now, there were more pressing things. The assistant continued: "When you open your Status Plates, you will notice a few new functions. The first of these is rank. Now that you have become a Merchant in Einbroch, you have been added to the local Merchants list (dei uma alterada aqui, vê se tá certo), at no cost. However, if you want access to global ranking, you will need to pay an extra fee."
+I committed Mott's name to memory to look for it in the future. Right now, there were more pressing things. The assistant continued: "When you open your Status Plates, you will notice a few new functions. The first of these is rank. Now that you have become a Merchant in Einbroch, you have been added to the local Merchants list, at no cost. However, if you want access to global ranking, you will need to pay an extra fee."
 
 I found the ranking to be an incredible tool for advertising, as it would allow you to see the status of other Merchants, the type of products they sell and their sales volumes. This would be a great way to analyze the market and its trends. I was excited to see comparison charts of items, equipment, and sales, as well as comparisons between different merchants. It was an extremely useful tool.
 
@@ -20,9 +20,9 @@ Each new explanation was a surprise, and I was amazed at how much the market sys
 
 Leaving the door of the Merchants Guild building, I realized that it was not yet necessary to delve into all the available functions. The truth is that I was barely supporting myself financially, and adding this huge amount of functions to my Status Plate would require a lot of Zeny.
 
-The fact was, I couldn't use the Overcharge skill to make extra money by selling some items I had in my inventory. With only 945 Zenys left, I would need to spend days completing missions and quests, leveling up to get more money and skill points. To unlock the Overcharge (mudar todos os "Overbill" e "Overbilling" pra "Overcharge") ability, I would need to distribute three skill points into Enlarge Weight Limit first.
+The fact was, I couldn't use the Overcharge skill to make extra money by selling some items I had in my inventory. With only 945 Zenys left, I would need to spend days completing quests and quests, leveling up to get more money and skill points. To unlock the Overcharge ability, I would need to distribute three skill points into Enlarge Weight Limit first.
 
-I decided to invest my only skill point (tu botou "class point", mas é "skill point", né?), which I gained from becoming a Merchant (roda um código pra mudar todos os nomes de classe pra inicial maiúscula), into the Item Appraisal skill (mudar todos os "Identify Item" pra "Item Appraisal"). After all, I had an unknown club and needed to use this skill to discover its attributes. Before identifying the item, I decided to go to the inn and wait for Rox, so that we could decide together what to do next: dedicate to exploring other places to level up or carry out quests around Prontera to get more money.
+I decided to invest my only skill point, which I gained from becoming a Merchant, into the Item Appraisal skill . After all, I had an unknown club and needed to use this skill to discover its attributes. Before identifying the item, I decided to go to the inn and wait for Rox, so that we could decide together what to do next: dedicate to exploring other places to level up or carry out quests around Prontera to get more money.
 
 Upon arriving at the inn where I was staying, I found Tayla leaving quickly. Before walking through the door, she saw me.
 
@@ -32,7 +32,7 @@ I thanked Tayla for the message. Rox’s Class Upgrade process was very long, wh
 
 I paid for just one more day of my stay, knowing that from now on, there would be no more time for the comfort of inns. It was time to start adventuring regularly. After paying, I had 745 Zeny left. I decided that I would spend the next few days in the plains of Prontera, camping and hunting to strengthen myself. My goal was to return with the necessary class level to finally sell the items accumulated in my inventory with the Overcharge Skill. 
 
-Before that, I needed to check the three-slot club I had found. I used the Identify Item skill and discovered that it had 23 attack, which was higher than my knife, which only had 17. However, the club was significantly heavier. Even so, I chose to use it, as the knife was in poor condition.
+Before that, I needed to check the three-slot club I had found. I used the Item Appraisal skill and discovered that it had 23 attack, which was higher than my knife, which only had 17. However, the club was significantly heavier. Even so, I chose to use it, as the knife was in poor condition.
 
 Before going to sleep, I decided to go to the Cycles Entity to reset my attributes. When I got there, I noticed some adventurers. They would approach the statue, kneel for five seconds and then quickly stand up. I imitated the process, and as soon as I closed my eyes, I felt all my attributes being drained. It was as if all my energy was being channeled into a cup, ready to be retrieved at any moment.
 
