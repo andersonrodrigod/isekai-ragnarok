@@ -33,6 +33,57 @@
                 "nivel": 14,
                 "nivel_classe": 10
             }
+        },
+        {
+            "capitulo": 9,
+            "atributos": {
+                "STR": 25,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 335,
+                "MP": 92,
+                "nivel": 14,
+                "nivel_classe": 10
+            }
+        },
+        {
+            "capitulo": 9,
+            "atributos": {
+                "STR": 25,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 335,
+                "MP": 92,
+                "nivel": 14,
+                "nivel_classe": 10
+            }
+        },
+        {
+            "capitulo": 9,
+            "atributos": {
+                "STR": 25,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 352,
+                "MP": 95,
+                "nivel": 15,
+                "nivel_classe": 10
+            }
         }
     ]
 }

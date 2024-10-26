@@ -40,7 +40,7 @@
 
 21. I was a little embarrassed, but I answered. "I plan to rent a tent around here and spend the night. Tomorrow, I want to continue hunting and gain more experience." My voice carried a mix of indecision and determination, unsure if I should go it alone again.
 
-22. Drakon looked at me with a welcoming smile and extended the invitation. "Why don't you join us? We're camped over there," he gestured with his thumb to a neatly organized area. "We've been here for two days now and we'll stay for two more. If you want to be part of the group, you'd be most welcome. With you, perhaps we can venture into a more challenging area."
+22. Drakon looked at me with a welcoming smile and extended the invitation. "Why don't you join us? We're camping over there," he pointed with his thumb to a well-organized area. "We've been here for two days now and we'll be staying for a few more days. I'll just have to go back home to take care of a few things, but I want to be back soon. If you want to be part of the group, you'll be most welcome. With you, maybe we can venture into a more challenging area."
 
 23. A genuine smile appeared on my face. "I didn't want to disturb or delay you," I said, a little embarrassed, but gratitude was evident in my voice. "But it would be amazing to join you. I really appreciate the offer."
 
@@ -71,3 +71,93 @@
 36. We talked about various things for a while longer, laughing and discussing possibilities, until tiredness finally caught up with us. "Tomorrow, we decide what we're going to do," Drakon said, yawning. "But for today, let's rest. We need strength for what lies ahead."
 
 37. I agreed, lying down next to them, feeling an unusual peace when being next to people who, despite being so different, seemed to share the same adventurous spirit as me.
+
+
+
+
+
+
+----------------------------
+Protagonist Date
+----------------------------
+Day: 12
+-----------------------------
+Class Level: 9
+Base Level: 14
+-----------------------------
+​​Life Status
+HP: 335
+MP: 92
+
+Attributes
+STR: 27
+AGI: 12
+VIT: 12
+INT : 0
+DEX: 10
+LUK: 6
+
+Combat Statistics
+ATK: 51
+MATQ: 14
+HIT: 12
+Critical: 2
+DEF: 80
+MDEF : 6
+Flee: 12
+ASPD: 113
+-----------------------------
+Zeny: 3.752,15
+-----------------------------
+Equipped Equipment
+
+Armor: Formal Suit
+DEF: 40
+Description: Formal suit for men.
+
+Left Hand: Vembrassa
+DEF: 20
+Description: Square shield, small but effective for blocking enemy attacks.
+
+Right Rand: Espada [4]
+STR: 2
+ATK: 25
+Description: A sturdy and heavy club.
+
+Robe: Hood
+DEF: 4
+Description: Flexible cap for head and neck.
+
+Shoes: Shoes
+DEF: 10
+Description: Footwear made of leather. It consists of a thick sole and a lighter covering that reaches just below the ankle.
+-----------------------------
+Inventory
+
+Items:
+Stem: 6
+Bitter Herb: 2
+Green Herb: 8
+Aloes: 2
+Red Herb: 6
+Yellow Herb: 3
+Feather: 1x
+Animal Leather: 5x
+Meat: 1x
+
+Equipment:
+Mace [3] : 2
+Sword [4] : 1
+Knife: 1
+Axe [4]: 1x
+-----------------------------
+Skills
+
+Active Skills:
+Mammonite: Level 1
+Item Appraisal: Level 1
+
+Passive Skills:
+Increase Carrying Capacity: Level 3
+Overcharge: Level 5
+-----------------------------

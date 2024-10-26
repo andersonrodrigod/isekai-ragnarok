@@ -35,5 +35,5 @@ def numerar_linhas(caminho_arquivo):
     print("Linhas numeradas com sucesso!")
 
 # Caminho para o arquivo .txt
-caminho_do_arquivo = "./capitulos_pt/13.txt"
+caminho_do_arquivo = "./capitulos_en/12.txt"
 numerar_linhas(caminho_do_arquivo)

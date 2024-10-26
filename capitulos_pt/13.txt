@@ -40,7 +40,7 @@
 
 21. Fiquei um pouco sem jeito, mas respondi. "Eu planejo alugar uma barraca por aqui e passar a noite. Amanhã, quero continuar a caçar e ganhar mais experiência." Minha voz carregava uma mistura de indecisão e determinação, incerto se deveria seguir sozinho novamente.
 
-22. Drakon olhou para mim com um sorriso acolhedor e estendeu o convite. "Por que você não se junta a nós? Estamos acampados ali," ele apontou com o polegar para uma área bem organizada. "Já estamos aqui há dois dias e vamos ficar mais dois. Se você quiser fazer parte do grupo, será muito bem-vindo. Com você, talvez possamos nos aventurar em uma zona mais desafiadora."
+22. Drakon olhou para mim com um sorriso acolhedor e estendeu o convite. "Por que você não se junta a nós? Estamos acampados ali," ele apontou com o polegar para uma área bem organizada. "Já estamos aqui há dois dias e vamos ficar por alguns dias, só terei que voltar pra casa pra resolver algumas coisas mas logo em breve quero voltar. Se você quiser fazer parte do grupo, será muito bem-vindo. Com você, talvez possamos nos aventurar em uma zona mais desafiadora."
 
 23. Um sorriso genuíno apareceu no meu rosto. "Eu não queria atrapalhar ou atrasar vocês," disse, um tanto envergonhado, mas a gratidão era evidente na minha voz. "Mas seria incrível me juntar a vocês. Agradeço muito pela oferta."
 
@@ -70,4 +70,97 @@
 
 36. Conversamos sobre várias coisas por mais um tempo, rindo e discutindo possibilidades, até que o cansaço finalmente nos alcançou. "Amanhã, decidimos o que vamos fazer," disse Drakon, bocejando. "Mas, por hoje, vamos descansar. Precisamos de força para o que vem pela frente."
 
-37. Concordei, deitando-me ao lado deles, sentindo uma paz incomum ao estar ao lado de pessoas que, apesar de tão diferentes, pareciam compartilhar do mesmo espírito aventureiro que eu.
+37. Concordei, deitando-me, sentindo uma paz incomum ao estar ao lado de pessoas que, apesar de tão diferentes, pareciam compartilhar do mesma sintonia que eu estava.
+
+
+
+
+
+
+
+
+
+
+----------------------------
+Protagonist Data:
+----------------------------
+Day: 12
+-----------------------------
+Class Level: 9
+Base Level: 14
+-----------------------------
+​​Life Status:
+HP: 352
+MP: 95
+
+Attributes:
+STR: 27
+AGI: 12
+VIT: 12
+INT : 0
+DEX: 10
+LUK: 6
+
+Combat Statistics:
+ATK: 52
+MATQ: 14
+HIT: 12
+Critical: 2
+DEF: 80
+MDEF : 6
+Flee: 12
+ASPD: 113
+-----------------------------
+Zeny: 3.752,15
+-----------------------------
+Equipped Equipment:
+Armor: Formal Suit
+DEF: 40
+Description: Formal suit for men.
+
+Left Hand: Vembrassa
+DEF: 20
+Description: Square shield, small but effective for blocking enemy attacks.
+
+Right Rand: Espada [4]
+STR: 2
+ATK: 25
+Description: A sturdy and heavy club.
+
+Robe: Hood
+DEF: 4
+Description: Flexible cap for head and neck.
+
+Shoes: Shoes
+DEF: 10
+Description: Footwear made of leather. It consists of a thick sole and a lighter covering that reaches just below the ankle.
+-----------------------------
+Inventory
+
+Items:
+Stem: 6
+Bitter Herb: 2
+Green Herb: 8
+Aloes: 2
+Red Herb: 6
+Yellow Herb: 3
+Pluma: 1x
+Couro de Animal: 5x
+Carne: 1x
+
+Equipment:
+Mace [3] : 2
+Sword [4] : 1
+Knife: 1
+Machado [4]: 1x
+-----------------------------
+Skills:
+
+Active Skills:
+Mammonite: Level 1
+Item Appraisal: Level 1
+
+Passive Skills:
+Increase Carrying Capacity: Level 3
+Overcharge: Level 5
+-----------------------------

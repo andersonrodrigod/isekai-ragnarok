@@ -73,14 +73,8 @@
 37. I watched them for a moment, thinking, "As expected, their goal must also be to join Viperspire. How many members does Viperspire already have?" I speculated for a moment. The guild was located in the largest beginner adventurer zone in the region, so it was probably among the top ten on the continent in terms of members. However, quantity is not always synonymous with quality.
 
 
-
-
-
-38. 2100 items + 1400 from 7 days hosting + 200 from the portal
-
-
+38. ----------------------------
 39. Protagonist Date:
-
 40. ----------------------------
 41. Day: 12
 42. -----------------------------
@@ -89,7 +83,7 @@
 45. -----------------------------
 46. ​​Life Status:
 47. HP: 335
-48.MP: 92
+48. MP: 92
 
 49. Attributes:
 50. STR: 26
@@ -109,64 +103,52 @@
 63. Flee: 12
 64. ASPD: 113
 65. -----------------------------
-
-66. Zeny: 5952.15
-
+66. Zeny: 3.752,15
 67. -----------------------------
-
 68. Equipped Equipment:
-69. Mace [3]
-70. ATK: 23
-71. Description: A sturdy and heavy club.
+69. Armor: Formal Suit
+70. DEF: 40
+71. Description: Formal suit for men.
 
-72. Cotton Shirt
-73. DEF: 10
-74. Description: Simple cotton shirt. To be used on any occasion.
-75. -----------------------------
+72. Left Hand: Vembrassa
+73. DEF: 20
+74. Description: Square shield, small but effective for blocking enemy attacks.
 
-76. Inventory:
-77. Items:
-78. Flower: 4
-79. Sprout: 4
-80. Stem: 6
-81. Lantana: 2
-82. Felpa: 5
-83. Mint: 2
-84. Romantic Flower: 4
-85. Celatom: 2
-86. Melody Plant: 2
-87. Makulrata : 2
-88. Bitter Herb: 2
-89. Green Herb: 8
-90. Sharp Scale: 2
+75. Right Rand: Espada [4]
+76. STR: 2
+77. ATK: 25
+78. Description: Simple, one-handed sword.
+
+79. Robe: Hood
+80. DEF: 4
+81. Description: Flexible cap for head and neck.
+
+82. Shoes: Shoes
+83. DEF: 10
+84. Description: Footwear made of leather. It consists of a thick sole and a lighter covering that reaches just below the ankle.
+85. -----------------------------
+86. Inventory
+
+87. Items:
+88. Stem: 6
+89. Bitter Herb: 2
+90. Green Herb: 8
 91. Aloes: 2
-92. Aloe Leaf: 2
-93. Romantic Leaf: 2
-94. Red Herb: 6
-95. Yellow Herb: 3
-96. Flywing: 9
-97. Rainbow Carrot: 2
-98. Carrot: 3
-99. Clover: 18
-100. Feather: 3
-101. Jellopy: 10
-102. Apple: 2
-103. Sticky Mucus: 2
+92. Red Herb: 6
+93. Yellow Herb: 3
 
-104. Equipment:
-105. Mace [3] : 2
-106. Sword [4] : 1
-107. Knife: 1
-108. -----------------------------
+94. Equipment:
+95. Mace [3] : 2
+96. Sword [4] : 1
+97. Knife: 1
+98. -----------------------------
+99. Skills:
 
-109. Skills:
+100. Active Skills:
+101. Mammonite: Level 1
+102. Item Appraisal: Level 1
 
-110. Active Skills:
-111. Mammonite: Level 1
-112. Identify Item: Level 1
-
-113. Passive Skills:
-114. Increase Carrying Capacity: Level 3
-115. Overprice: Level 5
-
-116. -----------------------------
+103. Passive Skills:
+104. Increase Carrying Capacity: Level 3
+105. Overcharge: Level 5
+106. -----------------------------

@@ -2,7 +2,7 @@
 
 2. Ao retornar à pousada, percebi que as coisas já não eram mais como antes. Três dias atrás, quando fiz o checkout, as diárias ainda estavam acessíveis, mas agora o valor é de 400 Zenys por dia. Certamente, só iria me hospedar aqui novamente se fosse realmente necessário; afinal, estava na hora de me tornar um aventureiro de verdade e acampar com outros grupos em expedições.
 
-3. Contando meus Zenys, vi que ainda tinha 1.345. Depois de pagar por mais uma diária, sobraram 945. Quanto ao dinheiro, não estava tão preocupado. Amanhã planejava ir ao mercado e tinha certeza de que voltaria com um bom lucro.
+3. Contando meus Zenys, vi que ainda tinha 1.745 Depois de pagar por mais uma diária, sobraram 1345. Quanto ao dinheiro, não estava tão preocupado. Amanhã planejava ir ao mercado e tinha certeza de que voltaria com um bom lucro.
 
 
 4. Na manhã seguinte, acordei decidido a colocar todos os pontos de habilidade restantes na habilidade Superfaturamento. Agora, com um aumento de 5 pontos na habilidade, eu poderia vender meus itens com um lucro adicional de 15%.
@@ -87,7 +87,7 @@
 53. ASPD    : 113
 54. -----------------------------
 
-55. Zeny: 6152.15
+55. Zeny: 6.452,15
 
 56. -----------------------------
 
