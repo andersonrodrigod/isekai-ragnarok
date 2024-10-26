@@ -1,12 +1,12 @@
-1. I needed a few essential items: armor, a cape, boots, and a shield. However, since I'm using a 3-slot club, I wouldn't be able to use a shield; To do this, you would have to choose a sword or a dagger. I considered the shield a good option, since my goal was to avoid damage and not need to resort to potions.
+1. I needed a few essential equipment: armor, a cape, boots, and a shield. However, since I'm using a 3-slot club, I wouldn't be able to use a shield; To do this, you would have to choose a sword or a dagger. I considered the shield a good option, since my goal was to avoid damage and not need to resort to potions.
 
-2. Therefore, I would need to invest a lot in my defense to ensure that, when I leveled up, I would be able to recover all my HP and MP. I didn't want to spend a lot of money, but I realized that the shields were quite expensive, and, adding everything up, the total would be two thousand and one hundred Zenys.
+2. Therefore, I would need to invest a lot in my defense to ensure that my HP would last until my next level up. I didn't want to spend a lot of money, but I realized that the shields were quite expensive, and, adding everything up, the total would be 2,100 Zenys.
 
-3. Before purchasing the shield, I needed to identify the sword and club that I had obtained on my last expedition. I used my skill to identify the sword.
+3. Before purchasing the shield, I needed to identify the sword and clubs that I had obtained on my last expedition.
 
-4. It had attributes of 25 attack and 2 STR, in addition to having 4 card slots. Cards were a concept that I hadn't explored yet, but since I hadn't dropped any, I didn't research it in depth. However, the sword I just revealed was definitely better than my two-handed club.
+4. The sword had stats of 25 attack and 2 STR, in addition to having 4 card slots, a mechanic I knew from the game but hadn't yet delved into since arriving here to compare. Regardless, the sword I just revealed was definitely better than my two-handed club.
 
-5. The other equipment identified was a 4-slot Mace, with 23 attack and 1 more strength, and another 3-slot Mace like the one I had. I kept the item, but I was already thinking about getting rid of the 3-slot club, which had 23 attack and was previously using.
+5. The other equipment identified was a 4-slot Mace with 23 attack and 1 STR and a 3-slot Mace like the one I had. I kept the item (que item?), but I was already thinking of selling the 3-slot club with 23 attack that I was previously using.
 
 6. I went to the stalls that sold the equipment I needed and bought them: shoes, hood, shoulder pads and jacket. After that, I went to the inn, as I still had to stay for another day.
 
@@ -14,15 +14,15 @@
 
 8. ...
 
-9. I woke up very early and took a look at my stats, now with the range of equipment I was using. My defense was reasonable. I could have chosen better equipment, but that would have made my weight excessive, which would have affected my attack speed.
+9. I woke up very early and took a look at my stats, now upgraded by my new equipment. My defense was reasonable. I could have chosen better equipment, but that would have made my weight excessive, which would have affected my attack speed. Overall, I was pretty satisfied by my new specs.
 
-10. I went to the Gatewatchers guild to hire the teleportation service, which cost 200 Zenys. Next, I went to the Viperspire Camp.
+10. I then went to the Gatewatchers guild and spent 200 Zeny to get to the Viperspire Camp.
 
-11. When I arrived at the camp, I noticed that there were a lot more people than last time. It was a huge crowd, with several tents and many beginning adventurers. It wasn't like before; 'the Terrans are finally spreading??', I thought, I thought. I looked around, noticing the excited buzz and excited faces of the newbies, as if they had finally found their place.
+11. When I arrived there, I noticed that there were a lot more people than last time. It was a huge crowd, with several tents and many beginning adventurers. It wasn't like before; 'the Terrans are finally spreading around?' I thought. I looked around, noticing the excited buzz and excited faces of the newbies, as if they had finally found their place.
 
 12. I didn't plan to enter the mansion, as I had no intention of doing quests. I just wanted to kill monsters to level up faster. What I dropped on this expedition, I would evaluate; If there were no quests related to the items I found, I would sell them, since, as a merchant, I would make a considerable profit.
 
-13. While walking through the camp towards the FILD08 zone, I bumped into Mary, who was leaving the lodge and going straight to the mansion. She asked me: "Hey, kid! I remember you. Our guild is hiring adventurers. Interested in joining?"
+13. While walking through the camp towards the FILD08 zone, I bumped into Mary, who was leaving the lodge and going straight to the mansion. She asked me, "Hey, kid! I remember you. Our guild is hiring adventurers. Interested in joining?"
 
 14. "I would like to, but I don't have enough level yet. However, when I reach it, if they are still recruiting, I will make a point of participating in the selection."
 
@@ -30,41 +30,43 @@
 
 16. "I'm level 14."
 
-17. "You're almost there! If you spend more than 5 days killing monsters, you might make it." Mary said this with her chin resting between her fingers, thoughtfully.
+17. "You're almost there. If you spend more than 5 days killing monsters, you might make it." Mary said this with her chin resting between her fingers, thoughtfully.
 
-18. "No way! I couldn't get 11 levels in 6 days." I said with a nervous laugh escaping my lips because the idea was a bit absurd based on my experience here in this world, I have managed to level up with a lot of effort and difficulty
+18. "No way! I can't get 11 levels in 6 days." I said with a nervous laugh escaping my lips because the idea was a bit absurd based on my experience here in this world. Each level up demanded a lot of time and effort.
 
-19. "11 levels? No, no! Now we've changed. With the huge increase in adventurers, we decided to recruit more. We are entering the Crystal Break period and so we have lowered the requirement to 20. All guilds are relaxing the criteria for welcoming some Otherwolders with potential."
+19. "11 levels? No, no! We've changed it. With the huge increase in adventurers, we decided to recruit more. We are entering the Crystal Sundering period and so we have lowered the requirement to 20. All guilds are relaxing the criteria to attract some Otherwolders with potential."
 
-20. "Crystal Shatter? What does that mean?"
+20. "Crystal Sundering? What does that mean?"
 
-21. "Crystal Rupture is a rare event that happens from time to time. During this phenomenon, magical Crystallization occurs, where the raw energy is so much that it overflows and causes a small rupture, this causes a large accumulation of power, causing that many monsters and Bosses appear more frequently. We believe that this phenomenon is approaching, especially due to the arrival of Otherworlders." Mary explained, gesturing lightly with a happy expression as she spoke, as if to illustrate to Fo how good this event was.
+21. Crystal Shatter is a rare event that occurs from time to time. During this phenomenon, Magic Crystallization occurs—a massive buildup of magical energy that overflows from the core of crystals hidden deep beneath the ground of [name of magical location or region]. When this supercharged energy breaks through the fissures of space itself, it causes a small dimensional rupture, releasing raw power that spreads throughout the land. This effect triggers the intensified materialization of monsters and even Bosses, making them more frequent and aggressive, attracted by this wave of dense energy.
 
-22. "How long does this phenomenon last?" My curiosity was growing, and I couldn't help but lean forward a little, eager for more details.
+21.5 "Esse fenômeno se intensifica com a presença dos Otherworlders, que parecem ter alguma conexão única com a energia liberada durante a Ruptura," Mary explicou, com um leve sorriso que ilustrava o quão animador e desafiador era esse evento.
 
-23. "This event usually lasts for a long time. Last time, it was difficult for the adventurers to adapt. Everywhere became dangerous, especially where there were offensive monsters. Generally, this event is the new normal, but it reaches its peak in the first five years after that, it starts to decline, although it never returns to what it was before."
+22. "How long does this phenomenon last?" I leaned forward a little, eager for more details.
 
-24. The way she explained it, it seemed like the world was in a process of balance. With the arrival of new inhabitants, the number of monsters had become scarce compared to the population. This phenomenon could be a natural response to balance the number of monsters and inhabitants in the world.
+23. "This event usually lasts for a long time. Last time, it was difficult for the adventurers to adapt. Everywhere became dangerous, especially where there were offensive monsters. Generally, this event is the new normal (como assim?), but it reaches its peak in the first five years after that, it starts to decline, although it never returns to what it was before."
 
-25. Well, since that's how it is, I need to speed up my steps! Luckily, I got this equipment that will help me a lot on my expeditions. "Thanks, Mary! I'll hurry to reach my level 20." I smiled at her, feeling a new sense of determination.
+24. The way she explained it, it sounded like the world was in a constant process of balancing itself. With the arrival of new inhabitants, the number of monsters had become scarce compared to the population. This phenomenon could be a natural response to balance the number of monsters and inhabitants in the world.
 
-26. Then I went to the place where I could face monsters alone and gain experience.
+25. Well, regardless of why it is, I need to speed up my development! Luckily, I got this equipment that will help me a lot on my expeditions. "Thanks, Mary! I'll hurry to reach level 20." I smiled at her, feeling my determination renewed.
 
-27. Arriving at the area where I could face the monsters, I identified some of the creatures: Savage Babe, Rocker, Elusive Rocker and Vocal. Among them all, the only one I needed to avoid at all costs was Vocal. He was a monster with 3,317 HP—far beyond what I could handle at the moment. His attack was incredibly powerful compared to my level, and since he was aggressive, the best option would be to run if I saw him.
+26. Then I went to a place where I could face monsters alone and focus on gaining experience.
+
+27. I identified some of the creatures showing up there: Savage Babe, Rocker, Elusive Rocker and Vocal. Among them all, the only one I needed to avoid at all costs was Vocal. It was a monster with 3,317 HP, far beyond what I could handle at the moment. His attack was incredibly powerful compared to my level, and since he was aggressive, the best option would be to run if I saw him.
 
 28. As I walked, I noticed that there were many adventurers in the area. This gave me a certain peace of mind, because if something got out of control, I could ask for help. Most of the adventurers were in pairs or trios, probably also looking to gain experience, as the item drop rate in this zone was very low.
 
-29. I continued walking towards a less crowded place, as it was difficult to find monsters in the starting area. Suddenly, I spotted my first opponent: a Savage Babe, a small pink creature that resembled a piglet. Its stats were reasonable for my level: 127 HP, 55 attack, 22 defense, and it granted 172 experience. I was currently at 1785 experience and needed 2304 to level up. I decided to tackle him as a warm-up, but my real target in that zone was elsewhere.
+29. I continued walking towards a less crowded place, as it was difficult to find monsters in the starting area. Suddenly, I spotted my first opponent: a Savage Babe, a small pink creature that resembled a piglet. Its stats were reasonable for my level: 127 HP, 55 attack, 22 defense, and it granted 172 experience. I was currently at 1785 experience and needed 2304 to level up. I decided to tackle him as a warm-up; it was not my real target in that zone.
 
-30. I drew my sword and held tight to the shield, preparing myself for the fight. I attacked first, dealing 29 damage to Savage Babe. He tried to attack me back, but my defense completely absorbed the impact, leaving me confident. I continued attacking three more times, each time dealing the same amount of damage and blocking his attacks. I managed to defeat the monster without taking any damage. The equipment I bought seemed to be more than enough for this area, and I realized that I could spend a lot of time there leveling alone.
+30. I drew my sword and held tight to the shield, preparing for the fight. I attacked first, dealing 29 damage to Savage Babe. He tried to attack me back, but my defense completely absorbed the impact, leaving me confident. I landed three more hits, each one dealing the same amount of damage. I managed to block all its attacks, so it was defeated without dealing me any damage. The equipment I bought seemed to be more than enough for this zone, and I concluded that I should be able to spend a long time here solo leveling.
 
-31. However, my trump card for gaining real experience was in another monster: the Elusive Rocker. He didn't appear very often, but that was the advantage. I knew that by facing him I would get a lot of experience without taking major damage. Now I just needed to find him. The more Elusive Rockers I defeated, the faster I would level up.
+31. However, my real target for leveling up faster was another one: the Elusive Rocker. It didn't appear very often, (but I knew that by facing him I would gain a lot of experience without suffering much damage.) I knew I would be abke ti face it without taking major damage, getting a lot of experience. Now I just needed to find it.
 
 32. I continued walking and observing the other adventurers around. I noticed a trio facing a Vocal: a swordsman, and 2 thieves. The swordsman seemed extremely well equipped, with an impressive defense, absorbing Vocal's blows with ease. They fought for a few minutes and, despite the difficulty one would normally have with a Vocal, they managed to defeat him with some ease. Clearly, that swordsman was the most prepared in terms of equipment in the group.
 
 33. "Come on! If we keep this up, we can reach level 20 by nightfall!"—exclaimed the swordsman excitedly.
 
-34. I watched them for a moment, thinking, "As expected, their goal must also be to join Viperspire. How many members does Viperspire already have?" I speculated for a moment. The guild was located in the largest beginner adventurer zone in the region, so it was probably among the top ten in that region in terms of members. However, quantity is not always synonymous with quality.
+34. I watched them for a moment, thinking, 'As expected, they're aspiring to join Viperspire. How many members does it already have?" I speculated for a moment. The guild was located in the largest beginner adventurer zone in the region, so it was probably among the top ten in that region in terms of members. However, quantity is not always synonymous with quality.
 
 
 
