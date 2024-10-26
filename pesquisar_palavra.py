@@ -38,10 +38,10 @@ def pesquisar_palavra_na_pasta(pasta, palavra):
     return resultados
 
 # Caminho da pasta onde estão os arquivos .txt
-pasta_arquivos = './capitulos_en'
+pasta_arquivos = './capitulos_pt'
 
 # Palavra a ser pesquisada
-palavra_procurada = "Identify"
+palavra_procurada = "Mary"
 
 # Caminho da pasta de saída
 pasta_pesquisa = 'pesquisar'

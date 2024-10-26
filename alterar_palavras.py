@@ -26,6 +26,9 @@ def alterar_palavra_no_txt(caminho_arquivo):
     conteudo_alterado = conteudo_alterado.replace("profession", "Class")
 
     conteudo_alterado = conteudo_alterado.replace("workhorses", "freight carrier")
+
+    conteudo_alterado = conteudo_alterado.replace("Increase Load Capacity", "Enlarge Weight Limit")
+    
     
 
     # Gravar as alterações no arquivo

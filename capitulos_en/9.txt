@@ -1,6 +1,6 @@
 Upon leaving the room, the senior merchant's assistant was waiting and explained some of our new skills to us. Some of them were: Commerce, Mammonite, Item Appraisal, Discount, Overcharge, Pushcart and Enlarge Weight Limit.
 
-However, there were still some skills missing that were essential, especially if I wanted to join a group of adventurers. "Battle Cry" was an excellent buff, so I decided to ask the assistant.
+However, there were still some skills missing that were essential, especially if I wanted to join a group of adventurers. "Crazy Uproar" was an excellent buff, so I decided to ask the assistant.
 
 "Are there other skills for merchants?" I asked.
 
@@ -24,6 +24,11 @@ The fact was, I couldn't use the Overcharge skill to make extra money by selling
 
 I decided to invest my only skill point, which I gained from becoming a Merchant, into the Item Appraisal skill . After all, I had an unknown club and needed to use this skill to discover its attributes. Before identifying the item, I decided to go to the inn and wait for Rox, so that we could decide together what to do next: dedicate to exploring other places to level up or carry out quests around Prontera to get more money.
 
+Skill Obtained: Item Appraisal
+Skill Form : Active
+Type: Supportive
+Description: Identifies unknown items using SP10.
+
 Upon arriving at the inn where I was staying, I found Tayla leaving quickly. Before walking through the door, she saw me.
 
 "Mister Azoth, I'm leaving now, but Rox asked me to leave a message. He said his Class Upgrade would last for a week and therefore he would be unavailable for 7 days."
@@ -36,7 +41,9 @@ Before that, I needed to check the three-slot club I had found. I used the Item 
 
 Before going to sleep, I decided to go to the Cycles Entity to reset my attributes. When I got there, I noticed some adventurers. They would approach the statue, kneel for five seconds and then quickly stand up. I imitated the process, and as soon as I closed my eyes, I felt all my attributes being drained. It was as if all my energy was being channeled into a cup, ready to be retrieved at any moment.
 
-As a merchant, my only combat skill was Mammonite, a powerful skill, but one that I avoided using due to the cost. At first level, this skill allowed me to inflict a melee blow, costing 100 Zenys and 5 MP, with a 150% attack bonus. This meant that with my 39 attack points, the hit would result in a total of 97.5. I planned to only use it in emergencies. Because of this, I decided to distribute all attribute points largely into strength and dexterity.
+As a merchant, my only combat skill was Mammonite, a powerful skill, but I still haven't used a skill point to learn it due to its cost per usage. At first level, it allowed me to inflict a melee blow with a 150% attack bonus, but it cost me 100 Zenys and 5 MP per use.
+
+but since a merchant has no magical abilities, I decided to distribute all attribute points largely into strength and dexterity.
 
 With everything planned for the next day, I went to sleep to start my journey renewed.
 
@@ -53,6 +60,13 @@ Three days later, at the end of my journey, I returned from the plains. I was ex
 As I leveled up, I got back to facing stronger monsters again, mainly as the Fabres, Lunatics, and when I was lucky, Alpha Lunatics.
 
 I managed to reach base level 14 and class level 8. I distributed the 3 skill points into Enlarge Weight Limit and decided to allocate the other points when I arrived in Einbroch, because, unlike the attribute points, to reset my skills in the merchant guild, I would need to pay a considerable amount.
+
+
+Skill Obtained: Enlarge Weight limit
+Skill Form : Passive
+Type: Utility
+Description : Enhances Weight Limit.
+
 
 I got a lot of items during my exploration. The positive side of being alone is that I don't have to share loot with anyone, which is great. I believe that this time I won't be in need for a few days and I'll finally be able to do what I do best: trade.
 
@@ -77,7 +91,7 @@ Protagonist Data:
 ----------------------------
 Day: 8
 -----------------------------
-Class Level: 10
+Class Level: 4
 Base Level: 14
 -----------------------------
 Life Status:
@@ -155,9 +169,9 @@ Knife: 1
 Skills:
 
 Active Skills:
-Mammonite: Level 1
+Item Appraisal: Level 1
 
 Passive Skills:
-Increase Load Capacity: Level 3
+Enlarge Weight Limit: Level 3
 
 -----------------------------
