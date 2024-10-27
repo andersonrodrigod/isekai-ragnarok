@@ -1,4 +1,4 @@
-1. My wounds began to close, and the exhaustion that had previously overwhelmed my body was replaced by a wave of relief. The Acolyte healing me had a calming aura, and the pain I felt soon disappeared. Still feeling a little weak, I turned my attention to the battle in front of me. It was then that I saw a warrior emerging from the shadows, attacking Vocal with precision (tu tá usando muito as mesmas palavras toda hora. já é a quinta vez que vejo "attacking with precision"). The sneaky strike hit the monster with such power that it was momentarily stunned, staggering back. Before Vocal could compose itself, the swordsman took advantage of the opening and delivered a powerful thrust, his blade shining in the dim moonlight.
+1. My wounds began to close, and the exhaustion that had previously overwhelmed my body was replaced by a wave of relief. The Acolyte healing me had a calming aura, and the pain I felt soon disappeared. Still feeling a little weak, I turned my attention to the battle in front of me. It was then that I saw a warrior emerging from the shadows, attacking Vocal (tu tá usando muito as mesmas palavras toda hora. já é a quinta vez que vejo "attacking with precision" >>> tirei, na verdade nem precisa disso só dizer que atacou). The sneaky strike hit the monster with such power that it was momentarily stunned, staggering back. Before Vocal could compose itself, the swordsman took advantage of the opening and delivered a powerful thrust, his blade shining in the dim moonlight.
 
 2. The Vocal roared in pain and rage, its claws moving frantically as it tried to return the attack. The Swordsman stood his ground, blocking the blows with his shield. Meanwhile, the Wizard in the background began to cast a new skill, his hands glowing with intense magical energy. Every word he uttered seemed to carry an ancient and imposing strength. The surrounding atmosphere began to heat up, the air vibrating with the power he was about to release. At the same time, the Acolyte, having restored some of my HP, joined the fight, her presence adding a new level of strategy to the combat.
 
@@ -34,11 +34,11 @@
 
 18. On the way back, Drakon shared a little more about the group. He explained that most of them were around level 16, while Kaelyn and Noctis were still level 15. He also gave me some valuable tips. "You know, it's not very suitable to go solo on expeditions, especially when you don't have many resources, items or equipment," Drakon said with a serious tone. "Some adventurers from noble families can venture alone to a certain extent, but even they eventually need to do so in a group."
 
-19. He continued, explaining something I didn't know. "These nobles participate in an annual event called the Draft. All children of nobles, up to the age of 20, compete, and the guilds are there, offering great rewards to attract the best. It's a dream to be recruited like this... but, how can I not If I'm rich or noble, my best chance is to join a big, strong guild early on." His voice carried a certain aspiration, a desire to belong to something greater, even if the path was different from the one the nobles followed. (foi muito repentino ele explicar esse negócio de Draft do nada. muda isso aqui. ou tu vai ter que apagar isso tudo e mencionar isso depois, ou dar um contexto que faça sentido ele mencionar isso sem soar repentino)
+19. (foi muito repentino ele explicar esse negócio de Draft do nada. muda isso aqui. ou tu vai ter que apagar isso tudo e mencionar isso depois, ou dar um contexto que faça sentido ele mencionar isso sem soar repentino >>> apagado) 
 
 20. After a long walk through the dense and mysterious jungle, we finally arrived at the camp. I watched the group head toward their tents, and I hesitated, thinking about letting them go on without me. Before I could walk away, Drakon noticed my hesitation and turned around. "What's your tent? Or are you leaving?" He asked, with a curious expression.
 
-21. I was a little embarrassed, but I answered. "I plan to rent a tent around here and spend the night. Tomorrow, I want to continue hunting for level ups." My voice carried a mix of indecision, unsure if I should go it alone again. (o protagonista tá muito passivo. ele deveria ser mais proativo. ele que deveria pedir pra entrar no grupo, não esperar um convite. protagonista tá parecendo uma mulher.)
+21. I was a little embarrassed, but I answered. "I plan to rent a tent around here and spend the night. Tomorrow, I want to continue hunting for level ups." My voice carried a mix of indecision, unsure if I should go it alone again. (o protagonista tá muito passivo. ele deveria ser mais proativo. ele que deveria pedir pra entrar no grupo, não esperar um convite. protagonista tá parecendo uma mulher. >>> sim também acho nesse momento, porém isso é pq Drakon é filho de Balack e eu preciso adicionar uma personalidade heróica e amigavel com todos pois tem um papel grande pra esse personagem ai)
 
 22. Drakon looked at me with a welcoming smile and extended the invitation. "Why don't you join us? We're camped over there," he gestured with his thumb to a neatly organized area. "We've been here for two days and we're going to stay for a few days, I'll just have to go home to sort out some things but I want to go back soon. If you want to be part of the group, you'll be very welcome. With you, maybe we can venture into a more challenging area."
 
@@ -46,7 +46,7 @@
 
 24. Drakon nodded, satisfied, and we headed towards the tents together. As we walked, I couldn't shake the feeling that, for the first time in a long time, I was among real people, and that Drakon, with his genuine manner and natural leadership, could be the start of something special. That night would be calmer, with allies by my side.
 
-25. shadow (sombra o q? faltou algo aqui). Elarius, the Wizard, was constantly immersed in his studies, always with a book in his hands, while Kaelyn seemed to be the emotional heart of the group, taking care of everyone like a big sister (mudei porque soa muito estranho você dizer que uma adolescente age como a mãe do grupo).
+25. Noctis was very much his era with a shadow (sombra o q? faltou algo aqui >>> adicionado a personalidade do Nocts). Elarius, the Wizard, was constantly immersed in his studies, always with a book in his hands, while Kaelyn seemed to be the emotional heart of the group, taking care of everyone like a big sister (mudei porque soa muito estranho você dizer que uma adolescente age como a mãe do grupo).
 
 26. That night, while some were already sleeping, I stayed talking to Drakon around the fire. He seemed curious about me, especially when I mentioned I was an Otherworlder. His eyes widened with surprise and interest.
 
@@ -54,11 +54,11 @@
 
 28. I nodded, and from then on, he didn't stop asking questions about my world. I spoke about Earth, describing the technological advances we had there, from machines to the internet. Drakon listened attentively, enchanted, as if I were telling stories from a legendary kingdom.
 
-29. "Do you really have something called... the internet? That connects everyone, no matter where they are?" (não é estranho o espanto dele? eles tem um sistema bem parecido aqui. só falar sobre internet não devia causar essa reação) he asked, impressed.
+29. "Do you really have something called... the internet? That connects everyone, no matter where they are?" (não é estranho o espanto dele? eles tem um sistema bem parecido aqui. só falar sobre internet não devia causar essa reação >>> deletado) 
 
-30. "Yes, exactly. Communication has become almost instantaneous, as if it were the messaging system you have from the government but for free." (que porra é essa que ele tá falando?) I replied with a smile. "But in addition, we have cars, which are motorized vehicles that allow us to travel quickly from one place to another, regardless of distance. They make getting around much easier and faster."
+30. ("Yes, exactly. But in addition, we have cars, which are motorized vehicles that allow us to travel quickly from one place to another, regardless of distance. They make getting around much easier and faster.") (aqui eu tirei aquela parte estranha msm falando do governo)
 
-31. Drakon's eyes widened. "So you can move from place to place at high speed? That should make things a lot easier (ELES TÊM FUCKING PORTAIS, CARA, PORQUE QUE ELE TÁ FICANDO SURPRESO?)!"
+31."So you can move quickly from one place to another? That should make things a lot easier! On a long expedition, that's a huge advantage. We only have portals to cities and a few important points here — and keeping them running is pretty expensive." (ELES TÊM FUCKING PORTAIS, CARA, PORQUE QUE ELE TÁ FICANDO SURPRESO? adicionei um contexto e tirei a surpresa dele pra nao ficar estranho pq posteriormente eu mencionei que devido a criação de portal isso limitou muito o avanço tecnológico em relação locomoção)!"
 
 32. "Absolutely! And with the arrival of others like me in this world, I think it's only a matter of time before the technology here moves in that direction too."
 
@@ -79,8 +79,8 @@ Protagonist Date
 ----------------------------
 Day: 12
 -----------------------------
-Class Level: 9
-Base Level: 14 (level errado)
+Class Level: 10
+Base Level: 15 
 -----------------------------
 ​​Life Status
 HP: 335
