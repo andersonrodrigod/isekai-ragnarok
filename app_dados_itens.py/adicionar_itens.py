@@ -59,17 +59,16 @@ def main():
 
     # Exemplo de novos itens e equipamentos a adicionar no capítulo 8
     novos_itens = {
-        "Couro de Animal": 1,
-        "Asa de Mosca": 1,
-
-        
+        "Axe [4]": 2,
+        "Asa de Mosca": 6,
+        "Couro de Animal": 4,    
     }
 
     novos_equipamentos = {
         
     }
 
-    capitulo_atual = 9
+    capitulo_atual = 12
     adicionar_capitulo(dados, capitulo_atual, novos_itens, novos_equipamentos)
     salvar_dados(arquivo, dados)
 

@@ -75,18 +75,18 @@
 
 
 ----------------------------
-Protagonist Date
+Protagonist Date:
 ----------------------------
-Day: 12
+Day: 13
 -----------------------------
 Class Level: 10
-Base Level: 15 
+Base Level: 16
 -----------------------------
-​​Life Status
-HP: 335
-MP: 92
+​​Life Status:
+HP: 368
+MP: 98
 
-Attributes
+Attributes:
 STR: 27
 AGI: 12
 VIT: 12
@@ -94,7 +94,7 @@ INT : 0
 DEX: 10
 LUK: 6
 
-Combat Statistics
+Combat Statistics:
 ATK: 51
 MATQ: 14
 HIT: 12
@@ -104,10 +104,9 @@ MDEF : 6
 Flee: 12
 ASPD: 113
 -----------------------------
-Zeny: 3.752,15
+Zeny: 3.662,15
 -----------------------------
-Equipped Equipment
-
+Equipped Equipment:
 Armor: Formal Suit
 DEF: 40
 Description: Formal suit for men.
@@ -135,20 +134,20 @@ Items:
 Stem: 6
 Bitter Herb: 2
 Green Herb: 8
-Aloes: 2
+Aloe: 2
 Red Herb: 6
 Yellow Herb: 3
-Feather: 1x
-Animal Leather: 5x
-Meat: 1x
+Fly Wing: 12 - new
+Animal Skin: 15 - new
+Meat: 17 - new
 
 Equipment:
 Mace [3] : 2
 Sword [4] : 1
 Knife: 1
-Axe [4]: 1x
+Axe [4]: 2
 -----------------------------
-Skills
+Skills:
 
 Active Skills:
 Mammonite: Level 1

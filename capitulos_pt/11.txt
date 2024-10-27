@@ -100,7 +100,7 @@ MDEF: 6
 Esquiva: 12
 Vel. ATQ: 113
 -----------------------------
-Zeny: 3.752,15
+Zeny: 3.662,15
 -----------------------------
 Equipamento Equipado:
 Armadura: Terno Formal

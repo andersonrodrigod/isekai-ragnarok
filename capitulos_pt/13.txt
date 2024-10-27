@@ -84,17 +84,17 @@ Drakon ergueu o olhar, surpreso, mas logo abriu um sorriso acolhedor. "Claro, po
 ----------------------------
 Protagonist Data:
 ----------------------------
-Day: 12
+Day: 13
 -----------------------------
-Class Level: 9
+Class Level: 10
 Base Level: 16
 -----------------------------
 ​​Life Status:
-HP: 352
-MP: 95
+HP: 368
+MP: 98
 
 Attributes:
-STR: 27
+STR: 26
 AGI: 12
 VIT: 12
 INT : 0
@@ -102,7 +102,7 @@ DEX: 10
 LUK: 6
 
 Combat Statistics:
-ATK: 52
+ATK: 51
 MATQ: 14
 HIT: 12
 Critical: 2
@@ -111,29 +111,29 @@ MDEF : 6
 Flee: 12
 ASPD: 113
 -----------------------------
-Zeny: 3.752,15
+Zeny: 3.662,15
 -----------------------------
-Equipped Equipment:
-Armor: Formal Suit
+Equipamento Equipado:
+Armadura: Terno Formal
 DEF: 40
-Description: Formal suit for men.
+Descrição: Terno formal para homens.
 
-Left Hand: Vembrassa
+Mão Esquerda: Vembrassa
 DEF: 20
-Description: Square shield, small but effective for blocking enemy attacks.
+Descrição: Escudo quadrado, pequeno, mas eficaz para bloquear ataques inimigos.
 
-Right Rand: Espada [4]
-STR: 2
-ATK: 25
-Description: A sturdy and heavy club.
+Mão Direita: Espada [4]
+FOR: 2
+ATQ: 25
+Descrição: Espada simples, de uma mão só.
 
-Robe: Hood
+Roupão: Capuz
 DEF: 4
-Description: Flexible cap for head and neck.
+Descrição: Capuz flexível para cabeça e pescoço.
 
-Shoes: Shoes
+Sapatos: Sapatos
 DEF: 10
-Description: Footwear made of leather. It consists of a thick sole and a lighter covering that reaches just below the ankle.
+Descrição: Calçado feito de couro, com sola grossa e uma cobertura mais leve que chega logo abaixo do tornozelo.
 -----------------------------
 Inventory
 
@@ -144,15 +144,16 @@ Green Herb: 8
 Aloes: 2
 Red Herb: 6
 Yellow Herb: 3
-Pluma: 1x
-Couro de Animal: 5x
-Carne: 1x
+Pluma: 1x 
+Asa de Mosca: 12
+Couro de Animal: 5x new
+Carne: 17x new
 
 Equipment:
 Mace [3] : 2
 Sword [4] : 1
 Knife: 1
-Machado [4]: 1x
+Machado [4]: 2 new
 -----------------------------
 Skills:
 

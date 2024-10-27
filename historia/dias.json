@@ -54,6 +54,11 @@
             "capitulo": 11,
             "dias_passados": 1,
             "dia_atual": 13
+        },
+        {
+            "capitulo": 12,
+            "dias_passados": 0,
+            "dia_atual": 13
         }
     ]
 }

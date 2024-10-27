@@ -144,7 +144,29 @@
             },
             "equipamentos": {
                 "Clava [3]": 2,
-                "Espada [4]": 1
+                "Espada [4]": 1,
+                "Knife": 1
+            }
+        },
+        {
+            "capitulo": 12,
+            "itens": {
+                "Caule": 6,
+                "Erva Amarga": 2,
+                "Erva Verde": 8,
+                "Aloes": 2,
+                "Erva Vermelha": 6,
+                "Erva Amarela": 3,
+                "Couro de Animal": 5,
+                "Asa de Mosca": 12
+                
+            },
+            "equipamentos": {
+                "Clava [3]": 2,
+                "Espada [4]": 1,
+                "Knife": 1,
+                "Axe [4]": 2
+                
             }
         }
     ]

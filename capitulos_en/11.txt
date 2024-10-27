@@ -74,7 +74,7 @@ I watched them for a moment, thinking, 'As expected, they're aspiring to join Vi
 
 Protagonist Data:
 ----------------------------
-Date: 12
+Date: 13
 ----------------------------
 Class Level: 10
 Base Level: 14
@@ -102,18 +102,30 @@ Flee    : 12
 ASPD    : 113
 ----------------------------
 
-Zeny: 5,952.15
+Zeny: 3.662,15
 
 ----------------------------
+Equipped Equipment:
+Armor: Formal Suit
+DEF: 40
+Description: Formal suit for men.
 
-Equipped Gear:
-Mace [3]
-ATK      : 23
+Left Hand: Vembrassa
+DEF: 20
+Description: Square shield, small but effective for blocking enemy attacks.
+
+Right Rand: Espada [4]
+STR: 2
+ATK: 25
 Description: A sturdy and heavy club.
 
-Cotton Shirt
-DEF      : 10
-Description: A simple cotton shirt suitable for any occasion.
+Robe: Hood
+DEF: 4
+Description: Flexible cap for head and neck.
+
+Shoes: Shoes
+DEF: 10
+Description: Footwear made of leather. It consists of a thick sole and a lighter covering that reaches just below the ankle.
 ----------------------------
 
 Inventory:

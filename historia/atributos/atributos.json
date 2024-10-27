@@ -84,6 +84,40 @@
                 "nivel": 15,
                 "nivel_classe": 10
             }
+        },
+        {
+            "capitulo": 12,
+            "atributos": {
+                "STR": 24,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 352,
+                "MP": 95,
+                "nivel": 15,
+                "nivel_classe": 10
+            }
+        },
+        {
+            "capitulo": 12,
+            "atributos": {
+                "STR": 24,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 368,
+                "MP": 98,
+                "nivel": 16,
+                "nivel_classe": 10
+            }
         }
     ]
 }
