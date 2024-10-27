@@ -6,7 +6,7 @@
 
 4. The sword had stats of 25 attack and 2 STR, in addition to having 4 card slots, a mechanic I knew from the game but hadn't yet delved into since arriving here to compare. Regardless, the sword I just revealed was definitely better than my two-handed club.
 
-5. The other equipment identified were a 4-slot Mace, with 23 attack and 1 more strength, and the 3-slot Mace that I had. I kept the item(), but I was already thinking about getting rid of the 3-slot Mace, which had 23 attack and was previously using.
+5. The other equipment identified was a 4-slot Mace, with 23 Attack and 1 STR. It was better than the one I was using, which had 3 slots and 23 Attack. I'll keep it for now, but it won't be long before I sell it.
 
 6. I went to the stalls that sold the equipment I needed and bought them: shoes, hood, shoulder pads and jacket. After that, I went to the inn, as I still had to stay for another day.
 
