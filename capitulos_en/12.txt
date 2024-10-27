@@ -4,7 +4,7 @@
 
 3. I advanced again with a clear blow, cutting the air with my sword and hitting the monster's body. He reacted with a roar of rage, and then lunged forward, his sharp claws seeking a vulnerable spot. I felt the pressure build as the Elusive Rocker attacked me, its claws tearing through my armor and causing considerable damage. The power of its attack made me hesitate for a moment, but I maintained my focus. I knew I couldn't waver; I just needed to keep fighting.
 
-5. Every blow I struck seemed to cut not only at his energy but also at his resolve (o monstro sente medo ou algo do tipo?). However, with each of its blows, a wave of pain coursed through my body. Its very sharp claws scraped the skin in some places, making me feel the burn of battle. Blocking its attacks with my shield wouldn't always negate all of the damage. I focused on staying calm through the pain and on keeping the fight under control. I knew my opponent was getting worn out, and that certainty drove me to keep attacking.
+5. Every blow I landed seemed to drain his energy with precision. (o monstro sente medo ou algo do tipo? >> não, mas mudei a intenção do texto pra não aparentar isso). However, with each of its blows, a wave of pain coursed through my body. Its very sharp claws scraped the skin in some places, making me feel the burn of battle. Blocking its attacks with my shield wouldn't always negate all of the damage. I focused on staying calm through the pain and on keeping the fight under control. I knew my opponent was getting worn out, and that certainty drove me to keep attacking.
 
 6. Finally, after one last precise strike, the Elusive Rocker fell, its eyes losing their glow as its body disintegrated into motes of light. I felt neither relief nor euphoria; just the satisfaction of another battle won. The battle wounds burned, but the pain was a reminder that I was alive. As the experience I so sought accumulated, I prepared to continue, absorbing everything I had learned in that fight.
 
@@ -34,7 +34,7 @@
 
 18. I fell to the ground, weakened and with blurred vision. When I managed to get up, I was already exhausted, barely able to keep my sword up. As I looked ahead, I saw the monster casting a skill. It was too late. I tried to run, but the attack hit me squarely, its claws ripped off my shield and dealt me ​​77 damage. Now there was only 6 HP left. My body was finished, and my mind was consumed by the certainty of the end.
 
-19. With no more strength to react, I knelt down and accepted the inevitable. It wasn't worth wasting my last breaths thinking about what I did wrong today. I just waited for the coup de grace that would end my journey. However, before the blow came, a bright light cut through the air, hitting the Vocal with a blast of power. A voice echoed through the jungle, strong and authoritative: "Fire Spears!" (existe essa skill mesmo? qual o nome dela em portugues? que classe?) Several red-hot spears rained down on the monster, drawing its attention away from me. The Vocal roared in pain and fury, turning to attack the wizard who had cast the spell.
+19. With no more strength to react, I knelt down and accepted the inevitable. It wasn't worth wasting my last breaths thinking about what I did wrong today. I just waited for the coup de grace that would end my journey. However, before the blow came, a bright light cut through the air, hitting the Vocal with a blast of power. A voice echoed through the jungle, strong and authoritative: "Fire Spears!" (existe essa skill mesmo? qual o nome dela em portugues? que classe? >> sim 'lanças de fogo' tem primeira classe de mago tem ela) Several red-hot spears rained down on the monster, drawing its attention away from me. The Vocal roared in pain and fury, turning to attack the wizard who had cast the spell.
 
 20. As the monster prepared to charge at the wizard, a swordsman suddenly appeared, blocking Vocal's advance with a large, sturdy shield. The impact was so strong that the monster recoiled. I felt a light touch on my shoulder and, when I turned my face, I saw a young woman with black hair beside me. She was very beautiful and had a look full of concern. "Are you okay?" She said softly. "Rest assured, I will heal you."
 
@@ -46,7 +46,7 @@
 24. Day: 12
 25. -----------------------------
 26. Class Level: 9
-27. Base Level: 14 (era pra ser 15 aqui, não?)
+27. Base Level: 15 
 28. -----------------------------
 29. ​​Life Status:
 30. HP: 335

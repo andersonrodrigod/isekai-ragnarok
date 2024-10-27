@@ -6,7 +6,7 @@
 
 4. The sword had stats of 25 attack and 2 STR, in addition to having 4 card slots, a mechanic I knew from the game but hadn't yet delved into since arriving here to compare. Regardless, the sword I just revealed was definitely better than my two-handed club.
 
-5. The other equipment identified was a 4-slot Mace with 23 attack and 1 STR and a 3-slot Mace like the one I had. I kept the item (que item?), but I was already thinking of selling the 3-slot club with 23 attack that I was previously using.
+5. (The other equipment identified was a 4-slot Mace, with 23 attack and 1 more strength, and the 3-slot Mace that I had. I kept the item, but I was already thinking about getting rid of the 3-slot Mace, which had 23 attack and was previously using.)
 
 6. I went to the stalls that sold the equipment I needed and bought them: shoes, hood, shoulder pads and jacket. After that, I went to the inn, as I still had to stay for another day.
 
@@ -38,13 +38,13 @@
 
 20. "Crystal Sundering? What does that mean?"
 
-21. Crystal Shatter is a rare event that occurs from time to time. During this phenomenon, Magic Crystallization occurs—a massive buildup of magical energy that overflows from the core of crystals hidden deep beneath the ground of [name of magical location or region]. When this supercharged energy breaks through the fissures of space itself, it causes a small dimensional rupture, releasing raw power that spreads throughout the land. This effect triggers the intensified materialization of monsters and even Bosses, making them more frequent and aggressive, attracted by this wave of dense energy.
+21. (Crystal Shatter is a rare event that occurs from time to time. During this phenomenon, Magic Crystallization occurs—a massive buildup of magical energy that overflows from the core of crystals hidden deep beneath the ground of [name of magical location or region]. When this supercharged energy breaks through the fissures of space itself, it causes a small dimensional rupture, releasing raw power that spreads throughout the land. This effect triggers the intensified materialization of monsters and even Bosses, making them more frequent and aggressive, attracted by this wave of dense energy.)
 
-21.5 "Esse fenômeno se intensifica com a presença dos Otherworlders, que parecem ter alguma conexão única com a energia liberada durante a Ruptura," Mary explicou, com um leve sorriso que ilustrava o quão animador e desafiador era esse evento.
+21.5 ("This phenomenon is intensified by the presence of the Otherworlders, who seem to have some unique connection to the energy released during the Rupture," Mary explained, with a slight smile that illustrated how exciting and challenging this event was.)
 
 22. "How long does this phenomenon last?" I leaned forward a little, eager for more details.
 
-23. "This event usually lasts for a long time. Last time, it was difficult for the adventurers to adapt. Everywhere became dangerous, especially where there were offensive monsters. Generally, this event is the new normal (como assim?), but it reaches its peak in the first five years after that, it starts to decline, although it never returns to what it was before."
+23. "This event usually lasts for a long time. Last time, it was difficult for the adventurers to adapt. Everywhere became dangerous, especially where there were offensive monsters. Generally, this event is the new normal (como assim? >>> estes evento quando acontece ele aumenta a quantidade de monstros só que ele tem um ápice nos primeiros 5 "ou seja o aumento é desenfreado nos primeiros 5 anos" anos e depois ele estabiliza.), but it reaches its peak in the first five years after that, it starts to decline, although it never returns to what it was before."
 
 24. The way she explained it, it sounded like the world was in a constant process of balancing itself. With the arrival of new inhabitants, the number of monsters had become scarce compared to the population. This phenomenon could be a natural response to balance the number of monsters and inhabitants in the world.
 
