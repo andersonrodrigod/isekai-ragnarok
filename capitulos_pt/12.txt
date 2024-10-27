@@ -14,17 +14,21 @@
 
 8. Com a vitória sobre o Elusive Rocker, ganhei 870 de experiência, elevando meu total para 1401. Agora, faltavam 1650 pontos para alcançar o nível 16. Contudo, ainda me restavam apenas 139 de HP, e a ideia de enfrentar o Rocker, com seus 155 de HP, me deixava receoso. Ele ainda podia causar danos que poderiam reduzir ainda mais minha saúde. Por isso, decidi passar o resto do dia matando Savage Babes, planejando mudar minha estratégia para a caçada de monstros no dia seguinte.
 
-9. Após eliminar mais 15 Savage Babes, totalizando 25 no dia, estava prestes a sair da zona 5 das Planícies de Prontera quando outro Elusive Rocker apareceu novamente. Não podia perder essa oportunidade de lutar com ele.
+9. Após eliminar mais 15 Savage Babes, totalizando 25 no dia, subi para o nível 16 recuperando toda minha vida e estava prestes a sair da zona 5 das Planícies de Prontera quando outro Elusive Rocker apareceu novamente. Não podia perder essa oportunidade de lutar com ele.
 
-10. O monstro era um adversário desafiador, mas a recompensa em experiência valia o risco. A batalha começou intensa, com o Rocker atacando de forma rápida e impiedosa, mas consegui me manter firme, aproveitando minha defesa e atacando com precisão. No entanto, a preocupação começou a me consumir; o sol já se punha, e o céu escurecia rapidamente. Estava sozinho naquela floresta, e a ideia de me perder sem uma tocha me deixava inquieto. Por fim, quando consegui derrubar o Elusive Rocker, uma sensação de urgência me invadiu.
+10. O monstro era um adversário desafiador, mas a recompensa em experiência valia o risco. A batalha começou intensa, com o Rocker atacando de forma rápida e impiedosa, mas consegui me manter firme, aproveitando minha defesa e atacando com precisão. 
+
+10.1 De repente, ao me aproximar da borda da zona, dei de cara com um Vocal. Assim que me viu, ele avançou com a intenção clara de atacar. Em um impulso, mudei de direção e comecei a correr, desviando para longe do meu destino inicial. “Maldita hora para encontrar um Vocal logo na fronteira,” pensei, frustrado, enquanto acelerava.
+
+10.2 Mesmo com algumas feridas, consegui despistá-lo depois de um tempo. No entanto, já estava atrasado, e retornar pelo mesmo caminho não era uma opção — ele poderia estar à espreita em qualquer ponto. Resolvi, então, seguir um caminho mais longo e seguro.
+
+10.3 A noite já havia caído, e, apesar da lua cheia iluminando a floresta com uma luz prateada, precisei avançar com cautela. Cada passo era preciso e controlado, pois qualquer som poderia atrair ainda mais perigos na escuridão.
 
 11. Com o coração acelerado e ferimentos ainda recentes, comecei a correr em direção ao acampamento, mas o escuro envolveu tudo antes que eu pudesse chegar, mergulhando-me em uma escuridão opressiva, repleta de perigos desconhecidos.
 
-12. Continuei correndo, mas a escuridão era implacável. A única coisa que iluminava meu caminho era a lua, fraca e distante, revelando apenas uma pequena parte da trilha à minha frente. Sem enxergar o suficiente, decidi parar e tentar observar ao redor, mas tudo parecia inóspito e desolador.
+12. Continuei correndo e a única coisa que iluminava meu caminho era a lua, distante, revelando apenas uma pequena parte da trilha à minha frente. observando a direção que podia estar o acampamento, decidi parar e tentar observar melhor ao redor.
 
-13. Nenhuma luz, nenhuma indicação de onde eu estava. O pior cenário se confirmava: eu estava perdido, cercado por uma selva cheia de monstros perigosos. A última vez que me localizei, estava prestes a sair da zona 5, mas agora não sabia se ainda estava ali ou se tinha, por acidente, cruzado para outra zona, onde os monstros eram mais agressivos, atacando sem piedade qualquer um que ousasse passar.
-
-14. Fiquei parado, tentando escutar qualquer coisa que me ajudasse a me orientar, até que meu maior medo naquela região se concretizou. O som cortante de um rugido ecoou na floresta: um Vocal. Quando nossos olhos se encontraram, não havia mais escapatória.
+14. Fiquei parado, tentando escutar qualquer coisa que me ajudasse a me orientar pra não tomar um caminho precipitado, até que meu maior medo naquele momento se concretizou. O som cortante de um rugido ecoou na floresta: outro Vocal. Quando nossos olhos se encontraram, não pensei muito e comecei a correr.
 
 15. monstro veio em minha direção sem hesitar, sua presença esmagadora. Corri o máximo que pude, mas parecia impossível despistá-lo. Cada passo me levava mais fundo em território desconhecido, sem saber se estava correndo para zonas ainda mais perigosas ou se estava me movendo em círculos. Desesperado, esbarrei em um morro alto que me bloqueava o caminho, impossibilitando qualquer tentativa de escalada. Eu estava encurralado. Não havia outra escolha além de lutar.
 
@@ -55,7 +59,7 @@
 24. Day: 12
 25. -----------------------------
 26. Class Level: 9
-27. Base Level: 14
+27. Base Level: 16
 28. -----------------------------
 29. ​​Life Status:
 30. HP: 352

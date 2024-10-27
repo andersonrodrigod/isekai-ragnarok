@@ -12,7 +12,7 @@
 
 7. O espadachim arqueou uma sobrancelha, sua curiosidade evidente. "Mas o que aconteceu? Por que você está sozinho nessa zona, e à noite?" Ele parecia intrigado, e com razão.
 
-8. "Cometi um erro de cálculo," comecei a explicar, ainda um pouco envergonhado pelo descuido. "Avistei um Elusive Rocker e já estava ficando tarde. Acabei demorando mais do que esperava para derrotá-lo, e quando finalmente consegui, a noite já havia caído. Depois disso, não consegui mais me guiar na selva."
+8. "Cometi um erro de cálculo," comecei a explicar, ainda um pouco envergonhado pelo descuido. "Avistei um Elusive Rocker e já estava ficando tarde. Acabei demorando mais do que esperava para derrotá-lo, e quando finalmente consegui, na fronteira onde ficava o final da zona me dei de cara com um vocal
 
 9. Ele deu uma leve risada, balançando a cabeça em desaprovação amistosa. "E você veio pra cá sem nenhuma tocha? É sempre bom andar com uma, principalmente quando se sai sozinho. Nunca se sabe o que pode acontecer." Seu tom era amigável, mas com uma pitada de repreensão. "Mas enfim, qual é o seu nome?"
 
@@ -20,19 +20,19 @@
 
 11. O espadachim sorriu, relaxando os ombros. "Foi por pouco mesmo." Ele apontou para o mago, que ainda estava um pouco afastado. "Eu sou Drakon, aquele ali é Elarius." O mago deu um aceno discreto, sem dizer uma palavra. "Aquele do ataque furtivo é o Noctis." O gatuno fez um leve gesto de cabeça, com um ar misterioso. "E a noviça que te curou... Kaelyn." A voz de Drakon suavizou ao dizer o nome dela, e Kaelyn, com um sorriso fofo, acenou para mim. "Prazer em conhecê-lo!" Sua voz era doce e acolhedora.
 
-12. Todos eles eram jovens e pareciam ter a minha mesma idade. Eu retribuí o sorriso. "É um prazer conhecer todos vocês. De verdade, muito obrigado por tudo." Minha gratidão era genuína; sem eles, minha jornada teria terminado de forma trágica naquela noite.
+12. Todos eram jovens, aparentando ter a mesma idade que eu. Sorri de volta e disse: "É um prazer conhecer todos vocês. Muito obrigado pela ajuda! Mas o que estavam fazendo aqui, a essa hora da noite?" Minha gratidão era genuína; sem eles, minha jornada poderia ter terminado tragicamente. Ainda assim, a ideia deles caçarem à noite me deixava curioso.
 
-13. Drakon, agora mais descontraído, cruzou os braços. "Nós não costumamos caçar à noite, mas como tem muitos aventureiros na área, está difícil encontrar bons monstros para evoluirmos. E você, Azoth, qual é o seu objetivo?"
+13. Drakon, agora mais à vontade, cruzou os braços e explicou: "Normalmente, não caçamos à noite, mas, com tantos aventureiros na área, está difícil encontrar monstros bons para evoluir. Decidimos explorar à noite, já que essa região não é tão perigosa para nós. O Vocal, por exemplo, não é tão difícil de enfrentar e, apesar de ser agressivo, é bem territorialista — dificilmente encontramos mais de um no mesmo lugar. E você, Azoth, qual é o seu objetivo?"
 
-14. "Bom, eu quero alcançar logo o nível 20 para tentar entrar na Guilda Viperspire. Eles estão recrutando agora."
+14. "Bom, meu objetivo é alcançar o nível 20 o quanto antes para tentar entrar na Guilda Viperspire, já que eles estão recrutando agora. Mas, pra ser sincero, não estou caçando à noite por escolha — foram as circunstâncias que me trouxeram até aqui."
 
-15. Drakon sorriu, surpreso com a coincidência. "Você também? Que sorte! Nós também estamos de olho nessa guilda." Ele olhou ao redor e notou que o ambiente ainda era perigoso. "Você estava tentando voltar para o acampamento?"
+15. Drakon esboçou um sorriso, surpreso com a coincidência. "Sério? Que sorte! Nós também estamos de olho na Viperspire." ele parou por um momento e continuou, "Você estava tentando voltar para o acampamento?"
 
 16. "Sim, estava," respondi, um tanto embaraçado. "Mas por causa disso me perdi."
 
-17. Drakon assentiu com compreensão. "Então vamos nos apressar. Ficar aqui por muito tempo pode ser perigoso. Nunca se sabe o que pode aparecer por essas bandas à noite."
+17. Drakon assentiu com compreensão. "Então vamos nos apressar. Ficar aqui por muito tempo podemos dar de cara com outro Vocal. Nunca se sabe o que pode aparecer por essas bandas à noite."
 
-18. No caminho de volta, Drakon compartilhou um pouco mais sobre o grupo. Ele explicou que a maioria deles estava por volta do nível 16, enquanto Kaelyn e Noctis ainda estavam no nível 15. Ele também me deu algumas dicas valiosas. "Sabe, não é muito adequado ir solo em expedições, especialmente quando você não tem muitos recursos, itens ou equipamentos," disse Drakon com um tom sério. "Alguns aventureiros de famílias nobres conseguem se aventurar sozinhos até certo ponto, mas até eles eventualmente precisam fazer isso em grupo"
+18. No caminho de volta, Drakon compartilhou um pouco mais sobre o grupo. Ele explicou que ele estava no nível 17 Elarius nível 16 enquanto Kaelyn e Noctis ainda estavam no nível 15. Ele também me deu algumas dicas valiosas. "Sabe, não é muito adequado ir solo em expedições, especialmente quando você não tem muitos recursos, itens ou equipamentos," disse Drakon com um tom sério. "Alguns aventureiros de famílias nobres conseguem se aventurar sozinhos até certo ponto, mas até eles eventualmente precisam fazer isso em grupo"
 
 19. Ele continuou, explicando algo que eu não sabia. "Esses nobres participam de um evento anual chamado Draft. Todos os filhos de nobres, até 20 anos, competem, e as guildas estão lá, oferecendo grandes recompensas para atrair os melhores. É um sonho ser recrutado assim... mas, como não sou rico ou nobre, minha melhor chance é entrar em uma guilda grande e forte logo no início." Sua voz carregava uma certa aspiração, uma vontade de pertencer a algo maior, mesmo que o caminho fosse diferente do que os nobres seguiam.
 
@@ -87,7 +87,7 @@ Protagonist Data:
 Day: 12
 -----------------------------
 Class Level: 9
-Base Level: 14
+Base Level: 16
 -----------------------------
 ​​Life Status:
 HP: 352
