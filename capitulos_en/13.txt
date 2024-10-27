@@ -52,23 +52,23 @@
 
 28. I nodded, and from then on, he didn't stop asking questions about my world. I spoke about Earth, describing the technological advances we had there, from machines to the internet. Drakon listened attentively, enchanted, as if I were telling stories from a legendary kingdom.
 
-29. "Do you really have something called... the internet? That connects everyone, no matter where they are?" (não é estranho o espanto dele? eles tem um sistema bem parecido aqui. só falar sobre internet não devia causar essa reação >>> deletado) 
+29. "So you guys built that thing called... the internet?"
 
-30. ("Yes, exactly. But in addition, we have cars, which are motorized vehicles that allow us to travel quickly from one place to another, regardless of distance. They make getting around much easier and faster.") (aqui eu tirei aquela parte estranha msm falando do governo)
+30. "Yeah. But in addition, we have cars, which are motorized vehicles, like carriages without horses, that allow us to travel quickly from one place to another. The millitary have armored vehicles, which are able to travel through uneven terrain while carrying big weapons."
 
-31."So you can move quickly from one place to another? That should make things a lot easier! On a long expedition, that's a huge advantage. We only have portals to cities and a few important points here — and keeping them running is pretty expensive." (ELES TÊM FUCKING PORTAIS, CARA, PORQUE QUE ELE TÁ FICANDO SURPRESO? adicionei um contexto e tirei a surpresa dele pra nao ficar estranho pq posteriormente eu mencionei que devido a criação de portal isso limitou muito o avanço tecnológico em relação locomoção)!"
+31."That sounds very helpful. On a long expedition, that's a huge advantage. We have portals, which are greater than everything, but they demand a strong infrastructure and are quite expensive to build and maintain, so they can only be used for long distance travel since the GateWatchers keep portals everywhere."
 
-32. "Absolutely! And with the arrival of others like me in this world, I think it's only a matter of time before the technology here moves in that direction too."
+32. "Yeah. And with the arrival of others like me in this world, I think it's only a matter of time before the technology here moves in that direction too."
 
-33. Drakon considered for a moment, his expression changing to something more serious. "You know, this gives me hope, but it also worries me. There are a lot of xenophobic people out there, who don't like this invasion of the Otherworlders. Some fear what you bring, while others try to take advantage of your abilities."
+33. Drakon considered for a moment, his expression changing to something more serious. "You know, this gives me hope, but it also worries me. There are a lot of xenophobic people out there, who don't like this invasion of the Otherworlders. Some fear what you bring, while others see it as a big opportunity."
 
-34. He paused before continuing. "My father, for instance, lost some work because of this. Otherworlders have introduced advanced knowledge in metallurgy and craftsmanship that didn’t exist here. He’s both excited and concerned. Competition will be intense. Those who don't adapt and improve risk being left behind, but those that do, a world of opportunity might open up for them."
+34. He paused before continuing. "My father, for instance, lost some work because of this. Otherworlders have introduced revolutionary knowledge in metallurgy and craftsmanship that didn’t exist here. He’s both excited and concerned. Competition will be intense. Those who don't adapt and improve risk being left behind, but those that do, a world of opportunity will open up for them."
 
 35. I could see the mixture of hope and apprehension in Drakon's eyes. The idea of ​​a different future made him anxious, but he seemed to believe there was potential for something great.
 
-36. We talked about various things for a while longer, laughing and discussing possibilities, until tiredness finally caught up with us. "Tomorrow, we decide what we're going to do," Drakon said, yawning. "But for now, let's rest. We'll need it for tomorrow."
+36. We talked about various things for a while longer, laughing and discussing possibilities, until tiredness finally caught up with us. "We'll decide what we're going to do tomorrow," Drakon said, yawning. "For now, it's time to rest. We'll need it for tomorrow."
 
-37. I agreed and lay down, feeling an unusual peace being close to people who seemed to share the same wavelength as me.
+37. I agreed and laid down, feeling an unusual peace being close to people who seemed to share the same wavelength as me.
 
 
 
@@ -78,7 +78,7 @@ Protagonist Date
 Day: 12
 -----------------------------
 Class Level: 10
-Base Level: 15 
+Base Level: 15 (ele não upou pro 16?)
 -----------------------------
 ​​Life Status
 HP: 335
