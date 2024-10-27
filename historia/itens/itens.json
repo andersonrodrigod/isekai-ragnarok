@@ -114,7 +114,7 @@
                 "Espada [4]": 1
             }
         },
-        {   
+        {
             "capitulo": 10,
             "itens": {
                 "Caule": 6,
@@ -122,12 +122,30 @@
                 "Erva Verde": 8,
                 "Aloes": 2,
                 "Erva Vermelha": 6,
-                "Erva Amarela": 3
+                "Erva Amarela": 3,
+                "Asa de Mosca": 5
             },
             "equipamentos": {
                 "Clava [3]": 2,
                 "Espada [4]": 1
             }
-        }        
+        },
+        {
+            "capitulo": 11,
+            "itens": {
+                "Caule": 6,
+                "Erva Amarga": 2,
+                "Erva Verde": 8,
+                "Aloes": 2,
+                "Erva Vermelha": 6,
+                "Erva Amarela": 3,
+                "Couro de Animal": 1,
+                "Asa de Mosca": 6
+            },
+            "equipamentos": {
+                "Clava [3]": 2,
+                "Espada [4]": 1
+            }
+        }
     ]
 }

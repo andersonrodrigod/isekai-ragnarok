@@ -59,20 +59,14 @@ def main():
 
     # Exemplo de novos itens e equipamentos a adicionar no capítulo 8
     novos_itens = {
-        "Cenoura": 3,
-        "Asa de Mosca": 6,
-        "Trevo": 10,
-        "Pluma": 3,
-        "Erva Verde": 2,
-        "Jellopy": 10,
-        "Maca": 2,
-        "Muco Pegajoso": 2,
+        "Couro de Animal": 1,
+        "Asa de Mosca": 1,
+
         
     }
 
     novos_equipamentos = {
-        "Clava [3]": 1,
-        "Espada [4]": 1,
+        
     }
 
     capitulo_atual = 9
