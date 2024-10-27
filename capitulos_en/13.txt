@@ -1,4 +1,4 @@
-1. My wounds began to close, and the exhaustion that had previously overwhelmed my body was replaced by a wave of relief. The Acolyte healing me had a calming aura, and the pain I felt soon disappeared. Still feeling a little weak, I turned my attention to the battle in front of me. It was then that I saw a warrior emerging from the shadows, attacking Vocal (tu tá usando muito as mesmas palavras toda hora. já é a quinta vez que vejo "attacking with precision" >>> tirei, na verdade nem precisa disso só dizer que atacou). The sneaky strike hit the monster with such power that it was momentarily stunned, staggering back. Before Vocal could compose itself, the swordsman took advantage of the opening and delivered a powerful thrust, his blade shining in the dim moonlight.
+1. My wounds began to close, and the exhaustion that had previously overwhelmed my body was replaced by a wave of relief. The Acolyte healing me had a calming aura, and the pain I felt soon disappeared. Still feeling a little weak, I turned my attention to the battle in front of me. It was then that I saw a warrior emerging from the shadows, attacking the monster. The sneaky strike hit with such power that it momentarily stunned the Vocal, staggering back. Before it could compose itself, the Swordsman took advantage of the opening and delivered a powerful thrust, his blade shining in the dim moonlight.
 
 2. The Vocal roared in pain and rage, its claws moving frantically as it tried to return the attack. The Swordsman stood his ground, blocking the blows with his shield. Meanwhile, the Wizard in the background began to cast a new skill, his hands glowing with intense magical energy. Every word he uttered seemed to carry an ancient and imposing strength. The surrounding atmosphere began to heat up, the air vibrating with the power he was about to release. At the same time, the Acolyte, having restored some of my HP, joined the fight, her presence adding a new level of strategy to the combat.
 
@@ -32,21 +32,19 @@
 
 17. Drakon nodded. "Then let's hurry. Staying here for too long could be dangerous."
 
-18. On the way back, Drakon shared a little more about the group. He explained that most of them were around level 16, while Kaelyn and Noctis were still level 15. He also gave me some valuable tips. "You know, it's not very suitable to go solo on expeditions, especially when you don't have many resources, items or equipment," Drakon said with a serious tone. "Some adventurers from noble families can venture alone to a certain extent, but even they eventually need to do so in a group."
+18. On the way back, Drakon shared a little more about the group. He explained that most of them were around level 16, while Kaelyn and Noctis were still level 15. He also warned me."You know, it's not very suitable to go solo on expeditions, especially when you don't have many resources, items or equipment," Drakon said with a serious tone. "Some new adventurers from noble families can venture alone to a certain extent, but even they eventually need to join in a group."
 
-19. (foi muito repentino ele explicar esse negócio de Draft do nada. muda isso aqui. ou tu vai ter que apagar isso tudo e mencionar isso depois, ou dar um contexto que faça sentido ele mencionar isso sem soar repentino >>> apagado) 
+20. I kept talking with the group thoughout the journey, and realized they were a very wholesome group. After a long walk through the dense and mysterious jungle, we finally reached the campsite. I watched the group heading towards the tents and took a deep breath, coming to a decision. I approached Drakon, who was busy organizing some equipment.
 
-20. After a long walk through the dense and mysterious jungle, we finally reached the campsite. I watched the group heading towards the tents and took a deep breath, deciding to give it a try. I approached Drakon, who was busy organizing some equipment.
+21. "Drakon," I called out, my voice firm with determination. "I’d like to join your team. It no longer makes sense for me to hunt alone after my near-death experience. You saved my life, and I intend to repay that debt somehow."
 
-21. “Drakon,” I called, trying to sound confident. “I thought… I’d like to join you guys, if you have space. I’m looking to gain experience, and it would be great to learn alongside such a skilled group.” (parte gay)
+22. Drakon looked up in surprise, but soon gave me a welcoming smile. "Sure, why not? You got along with everyone in the group. You'll be a great addition. We might even be able to tackle a more challenging zone; we’ve been here for two days and planned on staying for a while longer, but with you, we can get to a better zone sooner" he said, pointing to an organized area with tents, "We're camping over there."
 
-22. Drakon looked up in surprise, but soon gave me a welcoming smile. “Sure, why not? We’re camping over there,” he said, pointing to an organized area with tents. “With you, we might even be able to tackle a more challenging area. We’ve been here for two days and should be staying for a while longer, so if you’re up for it, you’re welcome.”
-
-23. A genuine smile spread across my face. “Thank you, I don’t want to disturb or delay you guys, but it would be great to join.” The gratitude was evident in my voice as he nodded in approval.
+23. A genuine smile spread across my face. “Thank you, I'll make sure to help you guys develop faster.” The gratitude was clear in my voice. He nodded in approval.
 
 24. Drakon nodded, satisfied, and we headed towards the tents together. As we walked, I couldn't shake the feeling that, for the first time in a long time, I was among real people, and that Drakon, with his genuine manner and natural leadership, could be the start of something special. That night would be calmer, with allies by my side.
 
-25. Noctis was very much his era with a shadow (sombra o q? faltou algo aqui >>> adicionado a personalidade do Nocts). Elarius, the Wizard, was constantly immersed in his studies, always with a book in his hands, while Kaelyn seemed to be the emotional heart of the group, taking care of everyone like a big sister (mudei porque soa muito estranho você dizer que uma adolescente age como a mãe do grupo).
+25. Noctis like to keep it to himself. Elarius, the Wizard, was constantly immersed in his studies, always with a book in his hands, while Kaelyn seemed to be the heart of the group, taking care of everyone like a big sister.
 
 26. That night, while some were already sleeping, I stayed talking to Drakon around the fire. He seemed curious about me, especially when I mentioned I was an Otherworlder. His eyes widened with surprise and interest.
 
