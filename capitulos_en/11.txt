@@ -71,7 +71,7 @@ I watched them for a moment, thinking, 'As expected, they're aspiring to join Vi
 
 
 
-
+----------------------------
 Protagonist Data:
 ----------------------------
 Date: 13
@@ -114,7 +114,7 @@ Left Hand: Vembrassa
 DEF: 20
 Description: Square shield, small but effective for blocking enemy attacks.
 
-Right Rand: Espada [4]
+Right Rand: Sword [4]
 STR: 2
 ATK: 25
 Description: A sturdy and heavy club.
@@ -150,10 +150,10 @@ Skills:
 
 Active Skills:
 Mammonite                    : Level 1
-Identify Item                : Level 1
+Item Apraisal                : Level 1
 
 Passive Skills:
 Increase Carry Capacity      : Level 3
-Markup                       : Level 5
+Overcharge                      : Level 5
 
 ----------------------------
