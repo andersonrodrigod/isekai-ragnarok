@@ -47,3 +47,95 @@ I reinforced the instructions to the group, but then Drakon interrupted me. “I
 A golden aura began to emerge from Drakon, glowing around his body. Noctis, surprised, muttered, "That aura..." before Drakon stepped forward. With both hands firmly gripping his sword, he channeled all his strength into a concentrated strike. As his blade touched the ground, a shockwave pulsed through the ground, cracking the ground and kicking up a cloud of dust. The energy from the strike exploded like a destructive wave, shaking everything around. The air vibrated with the powerful sound of the attack, and we all went wide-eyed as Noctis exclaimed, "He just performed a Critical Hit!" The damage the monster received was 1084.
 
 Swift Elder Willow fell, defeated. There was only one left. The strength of the attack was impressive, almost superhuman for a starting class skill. The golden aura surrounding Drakon seemed unusual, almost otherworldly, which left me intrigued. After the blow, Drakon suffered a slight decline in health, due to the cost of his skill, but upon eliminating the monster, he rose to level 20, completely restoring his HP. Relief coursed through the group; we knew that now it would be easier to face the last enemy.
+
+
+----------------------------
+Protagonist Date:
+----------------------------
+Day: 14
+-----------------------------
+Class Level: 12
+Base Level: 18
+-----------------------------
+​​Life Status:
+HP: 402
+MP: 104
+
+Attributes:
+STR: 28
+AGI: 12
+VIT: 12
+INT : 0
+DEX: 10
+LUK: 6
+
+Combat Statistics:
+ATK: 53
+MATQ: 14
+HIT: 12
+Critical: 2
+DEF: 80
+MDEF : 6
+Flee: 12
+ASPD: 113
+-----------------------------
+Zeny: 2.762,15
+-----------------------------
+Equipped Equipment:
+Armor: Formal Suit
+DEF: 40
+Description: Formal suit for men.
+
+Left Hand: Vembrassa
+DEF: 20
+Description: Square shield, small but effective for blocking enemy attacks.
+
+Right Rand: Sword [4]
+STR: 2
+ATK: 25
+Description: A sturdy and heavy club.
+
+Robe: Hood
+DEF: 4
+Description: Flexible cap for head and neck.
+
+Shoes: Shoes
+DEF: 10
+Description: Footwear made of leather. It consists of a thick sole and a lighter covering that reaches just below the ankle.
+-----------------------------
+Inventory
+
+Items:
+Stem: 6
+Bitter Herb: 2
+Green Herb: 8
+Aloe: 2
+Red Herb: 6
+Yellow Herb: 3
+Fly Wing: 13
+Animal Skin: 15
+Meat: 17 
+Sticky Mucus: 5 - new
+Apple: 1 - new
+Acorn: 5 - new
+Fluff: 3 - new
+Skill Level 3 Fire Bolt: 2
+
+
+Equipment:
+Mace [3] : 2
+Sword [4] : 1
+Knife: 1
+Axe [4]: 2
+Main Gauche [3]: 1 new
+-----------------------------
+Skills:
+
+Active Skills:
+Mammonite: Level 3
+Item Appraisal: Level 1
+
+Passive Skills:
+Increase Carrying Capacity: Level 3
+Overcharge: Level 5
+-----------------------------

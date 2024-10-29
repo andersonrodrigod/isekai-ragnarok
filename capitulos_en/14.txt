@@ -59,3 +59,99 @@ While analyzing my new items, I noticed Drakon closely observing something from 
 It was the Swift Elder Willow, a rarer and more agile version of the Elder Willow, with a robust and menacing appearance, as if it was awaiting something. Drakon, too excited to remain calm, shouted to the group, calling them into battle: “There lies our enemy!” His voice echoed across the area, and everyone ran to join the fight, some laughing at Drakon's somewhat unusual manner.
 
 However, what Drakon didn't realize was that there was another Swift Elder Willow hidden to our left. When everyone was ready to attack, we noticed the second creature emerging from the shadows. The blood ran cold in my veins, and I felt the same tension spread throughout the group. In an instant, the Swift Elder Willows gave us a predatory glare and rushed forward aggressively, forcing us to fight with all our might.
+
+
+
+
+
+
+
+----------------------------
+Protagonist Date:
+----------------------------
+Day: 14
+-----------------------------
+Class Level: 12
+Base Level: 17
+-----------------------------
+​​Life Status:
+HP: 385
+MP: 101
+
+Attributes:
+STR: 27
+AGI: 12
+VIT: 12
+INT : 0
+DEX: 10
+LUK: 6
+
+Combat Statistics:
+ATK: 52
+MATQ: 14
+HIT: 12
+Critical: 2
+DEF: 80
+MDEF : 6
+Flee: 12
+ASPD: 113
+-----------------------------
+Zeny: 3.662,15
+-----------------------------
+Equipped Equipment:
+Armor: Formal Suit
+DEF: 40
+Description: Formal suit for men.
+
+Left Hand: Vembrassa
+DEF: 20
+Description: Square shield, small but effective for blocking enemy attacks.
+
+Right Rand: Sword [4]
+STR: 2
+ATK: 25
+Description: A sturdy and heavy club.
+
+Robe: Hood
+DEF: 4
+Description: Flexible cap for head and neck.
+
+Shoes: Shoes
+DEF: 10
+Description: Footwear made of leather. It consists of a thick sole and a lighter covering that reaches just below the ankle.
+-----------------------------
+Inventory
+
+Items:
+Stem: 6
+Bitter Herb: 2
+Green Herb: 8
+Aloe: 2
+Red Herb: 6
+Yellow Herb: 3
+Fly Wing: 13 - new
+Animal Skin: 15
+Meat: 17 
+Sticky Mucus: 5 - new
+Apple: 1 - new
+Acorn: 5 - new
+Fluff: 3 - new
+Skill Level 3 Fire Bolt: 2
+
+Equipment:
+Mace [3] : 2
+Sword [4] : 1
+Knife: 1
+Axe [4]: 2
+Main Gauche [3]: 1 new
+-----------------------------
+Skills:
+
+Active Skills:
+Mammonite: Level 1
+Item Appraisal: Level 1
+
+Passive Skills:
+Increase Carrying Capacity: Level 3
+Overcharge: Level 5
+-----------------------------

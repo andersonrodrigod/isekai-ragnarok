@@ -46,6 +46,103 @@ Ao final dessa conversa, enquanto nos aproximávamos da fronteira da zona 10, Dr
 
 
 
+----------------------------
+Protagonist Data:
+----------------------------
+Day: 14
+-----------------------------
+Class Level: 12
+Base Level: 18
+-----------------------------
+​​Life Status:
+HP: 402
+MP: 104
+
+Attributes:
+STR: 28
+AGI: 12
+VIT: 12
+INT : 0
+DEX: 10
+LUK: 6
+
+Combat Statistics:
+ATK: 53
+MATQ: 14
+HIT: 12
+Critical: 2
+DEF: 80
+MDEF : 6
+Flee: 12
+ASPD: 113
+-----------------------------
+Zeny: 2.762,15
+-----------------------------
+Equipamento Equipado:
+Armadura: Terno Formal
+DEF: 40
+Descrição: Terno formal para homens.
+
+Mão Esquerda: Vembrassa
+DEF: 20
+Descrição: Escudo quadrado, pequeno, mas eficaz para bloquear ataques inimigos.
+
+Mão Direita: Espada [4]
+FOR: 2
+ATQ: 25
+Descrição: Espada simples, de uma mão só.
+
+Roupão: Capuz
+DEF: 4
+Descrição: Capuz flexível para cabeça e pescoço.
+
+Sapatos: Sapatos
+DEF: 10
+Descrição: Calçado feito de couro, com sola grossa e uma cobertura mais leve que chega logo abaixo do tornozelo.
+-----------------------------
+Inventory
+
+Items:
+Stem: 6
+Bitter Herb: 2
+Green Herb: 8
+Aloes: 2
+Red Herb: 6
+Yellow Herb: 3
+Pluma: 1 
+Asa de Mosca: 13
+Couro de Animal: 5 
+Carne: 17 
+Muco Pegajoso: 5
+Maca: 1
+Avelã: 5
+Felpa: 3
+Skill Fire Bolt Level 3 : 2 new
+
+Equipment:
+Mace [3] : 2
+Sword [4] : 1
+Knife: 1
+Machado [4]: 2
+Main Gauche [3]: 1 new
+-----------------------------
+Skills:
+
+Active Skills:
+Mammonite: Level 3
+Item Appraisal: Level 1
+
+Passive Skills:
+Increase Carrying Capacity: Level 3
+Overcharge: Level 5
+-----------------------------
+
+
+
+
+
+
+
 
 
 

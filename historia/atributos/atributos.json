@@ -118,6 +118,91 @@
                 "nivel": 16,
                 "nivel_classe": 10
             }
+        },
+        {
+            "capitulo": 14,
+            "atributos": {
+                "STR": 25,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 385,
+                "MP": 101,
+                "nivel": 17,
+                "nivel_classe": 11
+            }
+        },
+        {
+            "capitulo": 14,
+            "atributos": {
+                "STR": 28,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 402,
+                "MP": 104,
+                "nivel": 18,
+                "nivel_classe": 12
+            }
+        },
+        {
+            "capitulo": 14,
+            "atributos": {
+                "STR": 26,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 402,
+                "MP": 104,
+                "nivel": 18,
+                "nivel_classe": 12
+            }
+        },
+        {
+            "capitulo": 14,
+            "atributos": {
+                "STR": 26,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 402,
+                "MP": 104,
+                "nivel": 18,
+                "nivel_classe": 12
+            }
+        },
+        {
+            "capitulo": 14,
+            "atributos": {
+                "STR": 26,
+                "AGI": 12,
+                "VIT": 12,
+                "INT": 0,
+                "DEX": 10,
+                "LUK": 6
+            },
+            "status_geral": {
+                "HP": 402,
+                "MP": 104,
+                "nivel": 18,
+                "nivel_classe": 12
+            }
         }
     ]
 }
