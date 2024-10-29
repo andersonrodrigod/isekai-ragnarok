@@ -56,9 +56,9 @@ I identified some of the creatures showing up there: Savage Babe, Rocker, Elusiv
 
 As I walked, I noticed that there were many adventurers in the area. This gave me a certain peace of mind, because if something got out of control, I could ask for help. Most of the adventurers were in pairs or trios, probably also looking to gain experience, as the item drop rate in this zone was very low.
 
-I continued walking towards a less crowded place, as it was difficult to find monsters in the starting area. Suddenly, I spotted my first opponent: a Savage Babe, a small pink creature that resembled a piglet. Its stats were reasonable for my level: 127 HP, 55 attack, 22 defense, and it granted 172 experience. I was currently at 1785 experience and needed 2304 to level up. I decided to tackle him as a warm-up; it was not my real target in that zone.
+I continued walking towards a less crowded place, as it was difficult to find monsters in the starting area. Suddenly, I spotted my first opponent: a Savage Babe, a small pink creature that resembled a piglet. Its stats were reasonable for my level: 127 HP, 55 attack, 22 defense, and it granted experience. I was currently at 1785 experience and needed 2304 to level up. I decided to tackle him as a warm-up; it was not my real target in that zone.
 
-I drew my sword and held tight to the shield, preparing for the fight. I attacked first, dealing 29 damage to Savage Babe. He tried to attack me back, but my defense completely absorbed the impact, leaving me confident. I landed three more hits, each one dealing the same amount of damage. I managed to block all its attacks, so it was defeated without dealing me any damage. The equipment I bought seemed to be more than enough for this zone, and I concluded that I should be able to spend a long time here solo leveling.
+I drew my sword and held tight to the shield, preparing for the fight. I attacked first, dealing damage to Savage Babe. He tried to attack me back, but my defense completely absorbed the impact, leaving me confident. I landed three more hits, each one dealing the same amount of damage. I managed to block all its attacks, so it was defeated without dealing me any damage. The equipment I bought seemed to be more than enough for this zone, and I concluded that I should be able to spend a long time here solo leveling.
 
 However, my real target for leveling up faster was another one: the Elusive Rocker. It didn't appear very often, but I knew I would be able to defeat it without endangering my life, and getting a lot of experience. Now I just needed to find it.
 
@@ -154,6 +154,6 @@ Item Apraisal                : Level 1
 
 Passive Skills:
 Increase Carry Capacity      : Level 3
-Overcharge                      : Level 5
+Overcharge                   : Level 5
 
 ----------------------------
