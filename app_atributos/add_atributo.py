@@ -60,17 +60,17 @@ def main():
 
     # Exemplo de novos atributos a adicionar no capítulo 9
     novos_atributos = {
-        "STR": 24,
+        "STR": 26,
         "AGI": 12,
         "VIT": 12,
         "INT": 0,  
         "DEX": 10,
         "LUK": 6,
-        "nivel": 16,
-        "nivel_classe": 10
+        "nivel": 18,
+        "nivel_classe": 12
     }
 
-    capitulo_atual = 12
+    capitulo_atual = 14
     adicionar_capitulo(dados, capitulo_atual, novos_atributos)
     salvar_dados(arquivo, dados)
 

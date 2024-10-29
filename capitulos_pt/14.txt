@@ -58,4 +58,100 @@ Enquanto analisava meus novos itens, percebi Drakon observando atentamente algo 
 
 Era o Swift Elder Willow, uma versão mais rara e ágil do Elder Willow, com uma aparência robusta e ameaçadora, como se estivesse aguardando algo. Drakon, empolgado demais para manter a calma, gritou para o grupo, chamando-os para a batalha: “Lá está o nosso inimigo!” Sua voz ecoou pela área, e todos correram para se juntar ao combate, alguns rindo do jeito um tanto inusitado de Drakon.
 
-Porém, o que Drakon não percebeu era que havia mais um Swift Elder Willow escondido à nossa esquerda. Quando todos estavam prontos para atacar, percebemos a segunda criatura emergindo das sombras. O sangue gelou nas minhas veias, e senti a mesma tensão se espalhar pelo grupo. Em um instante, os Swift Elder Willows nos lançaram um olhar predatório e avançaram com agressividade, obrigando-nos a lutar com todas as 
+Porém, o que Drakon não percebeu era que havia mais um Swift Elder Willow escondido à nossa esquerda. Quando todos estavam prontos para atacar, percebemos a segunda criatura emergindo das sombras. O sangue gelou nas minhas veias, e senti a mesma tensão se espalhar pelo grupo. Em um instante, os Swift Elder Willows nos lançaram um olhar predatório e avançaram com agressividade, obrigando-nos a lutar com todas as forças.
+
+
+----------------------------
+Protagonist Data:
+----------------------------
+Day: 14
+-----------------------------
+Class Level: 12
+Base Level: 17
+-----------------------------
+​​Life Status:
+HP: 385
+MP: 101
+
+Attributes:
+STR: 27
+AGI: 12
+VIT: 12
+INT : 0
+DEX: 10
+LUK: 6
+
+Combat Statistics:
+ATK: 52
+MATQ: 14
+HIT: 12
+Critical: 2
+DEF: 80
+MDEF : 6
+Flee: 12
+ASPD: 113
+-----------------------------
+Zeny: 3.662,15
+-----------------------------
+Equipamento Equipado:
+Armadura: Terno Formal
+DEF: 40
+Descrição: Terno formal para homens.
+
+Mão Esquerda: Vembrassa
+DEF: 20
+Descrição: Escudo quadrado, pequeno, mas eficaz para bloquear ataques inimigos.
+
+Mão Direita: Espada [4]
+FOR: 2
+ATQ: 25
+Descrição: Espada simples, de uma mão só.
+
+Roupão: Capuz
+DEF: 4
+Descrição: Capuz flexível para cabeça e pescoço.
+
+Sapatos: Sapatos
+DEF: 10
+Descrição: Calçado feito de couro, com sola grossa e uma cobertura mais leve que chega logo abaixo do tornozelo.
+-----------------------------
+Inventory
+
+Items:
+Stem: 6
+Bitter Herb: 2
+Green Herb: 8
+Aloes: 2
+Red Herb: 6
+Yellow Herb: 3
+Pluma: 1 
+Asa de Mosca: 13 new
+Couro de Animal: 5 
+Carne: 17 
+Muco Pegajoso: 5 - new
+Maca: 1 - new
+Avelã: 5 - new
+Felpa: 3 - new
+
+
+Equipment:
+Mace [3] : 2
+Sword [4] : 1
+Knife: 1
+Machado [4]: 2
+Main Gauche [3]: 1 new
+-----------------------------
+Skills:
+
+Active Skills:
+Mammonite: Level 1
+Item Appraisal: Level 1
+
+Passive Skills:
+Increase Carrying Capacity: Level 3
+Overcharge: Level 5
+-----------------------------
+
+
+
+
