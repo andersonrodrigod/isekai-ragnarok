@@ -2,19 +2,21 @@ As terror spread through the group, everyone reacted differently, but the fear w
 
 Drakon, who was normally the group's unshakable rock, now also showed signs of tension. He clenched his fists around his sword, his face hardened, but in his eyes there was an unusual hesitation. It was clear that the presence of those monsters had surprised him, beyond what he had anticipated. The dense forest around them felt oppressive, and for a brief moment, a wave of panic almost overwhelmed them.
 
-While others faltered, I felt confidence growing within me. The tension in the air was familiar; it was something I knew and controlled well. My focus was absolute and relentless. While they exchanged uncertain looks, I prepared to do what I did best: support the group and take control of the battlefield. No matter how much the situation weighed on them – I would be ready, controlling their every move with precision, being the anchor they needed.
+While the others were wavering, I felt a little tension there but if I didn't react by giving them a morale shock, someone could die there. The tension in the air was familiar; it was something I knew and controlled well. My focus was absolute and relentless. While they exchanged uncertain looks, I prepared to do what I did best: support the group and take over and try to control the battlefield. No matter how much the situation weighed on them – I would be ready, controlling their every move with precision, being the anchor they needed.
 
 With a guttural roar, Azoth charged into battle, his shield gleaming in the moonlight. 'Don't worry! I will hold these monsters!'
 
 "I took a deep breath, the humid air of that jungle penetrating my lungs. I looked at my companions, each with their expressions of uncertainty, but also with a glimmer of hope in their eyes. 'Come on, guys! We can't let these monsters Defeat us!', I exclaimed, my voice echoing between the trees. Raising my shield I drew the attention of one of the trees to me ready to defend at any moment.
 
-Finally, Kaelyn seemed to revive, her eyes shining with renewed determination as she realized the courage she displayed. "I'll buff you with Blessing," she announced, a wave of confidence coming through her voice. 
+Finally, Kaelyn seemed to revive, her eyes shining with renewed determination as she realized the courage she displayed. "I'm going to use Divine Protection," she announced, a wave of confidence coming through her voice. 
 
-"Stop! We have to use our skills smartly," I responded quickly, trying not to let panic dominate the situation.
+"Great choice! This will give us a significant advantage," I responded quickly, trying not to let panic take over the situation and Kaelyn nodded, her expression now more focused, understanding the gravity of the moment.
 
-A wave of concern crossed his gaze as I realized the mistake I was about to make. "First, cast Divine Protection and await my orders." Kaelyn nodded, her expression now more focused, understanding the gravity of the moment.
+I looked at Drakon, who was ready for action. "Drakon, can you pull aggro from one of them?"
 
-I looked at Drakon, who was ready for action. "Drakon, I need you to pull the aggro of this Swift Elder Willow. We only need to focus on one of them, so we will organize ourselves into two blocks: Elarius and I will share the aggro of the monster in front of us. But the idea is for everyone to concentrate our attacks on whatever is in your aggro, Drakon."
+Drakon doubted "What's your plan?"
+
+"I need you to pull the aggro of this Swift Elder Willow. We only need to focus on one of them, so we'll organize ourselves into two blocks: Elarius and I will share the aggro of the monster in front of us. But the idea is for everyone to focus our attacks whatever's in your aggro, Drakon."
 
 He nodded, muscles tense in anticipation, and immediately charged towards the monster, pulling aggro effectively. "They're coming! The one with you will get there first. Attack Drakon and Noctis! Elarius, cast Fire Spear. I'll defend you in the meantime!" The sound of the approaching monster's heavy footsteps echoed like a drum, and the tension in the air became almost unbearable.
 
@@ -26,27 +28,32 @@ During combat, I took the opportunity to add two skill points I had gained to my
 
 As soon as Elarius's attack was cast, it released a powerful Fire Spear, hitting the Swift Elder Willow for a massive 305 damage, taking advantage of its elemental weakness. I switched stances with Drakon, allowing him to absorb the other monster's first attack, knowing that, as a swordsman, he had the most HP among us.
 
-The monster we were focusing on had already received several blows and was beginning to show signs of pain; If we continued like this, a few more rounds and we would be able to defeat him. After that, the fight against the last Swift Elder Willow should become much easier.
+The monster we were facing had already received several blows and was beginning to show signs of pain. If we continued like this, in a few more rounds we would be able to defeat him. After that, the fight against the last Swift Elder Willow should become much easier.
 
-The battle remained intense, with each movement being executed as if it were part of a deadly choreography. Sensing the need for additional agility, I gave Kaelyn a quick order: "Kaelyn, increase Noctis's agility! We need more speed 
+The battle remained intense, with each movement being executed as if it were part of a deadly choreography. Sensing the need for additional agility, I asked, "Kaelyn, do you have anything to help Noctis?"
 
-in his attacks." She nodded, preparing the incantation, while I, in turn, shouted to Elarius, the mage, who was now focusing his energy: "Elarius, once again, cast Fire Spear on the first Swift Elder Willow! Let's reduce his resistance time as much as possible."
+"I will increase your agility," she replied, casting Increase Agility, as if reading my mind.
 
-Before I could give further instructions, Drakon made an unexpected move. He had apparently decided to take an extreme risk by disobeying the instructions I had given. In a protective impulse, he used the Provoke skill, a risky move that drew the two Swift Elder Willows' attention to him at once. "Damn it, Drakon! What are you doing?" He glanced at me determinedly, his face indicating excessive concern for the group's well-being. This impulsive initiative, however, soon placed us in a critical situation. Realizing the risk, I quickly ordered Kaelyn: "Kaelyn, cancel the cast of Increase Agility on Noctis! Cast Urgent Heal on Drakon now!"
+She nodded, preparing the incantation, while I shouted, "We need a powerful attack to destroy him at once!" Alarius, the mage, concentrated his energy once again and cast Fire Bolt against the first Swift Elder Willow. After that, I added: "Let's reduce his resistance time as much as possible!"
+
+Drakon made an unexpected move. He apparently decided to take an extreme risk. In a protective impulse, he used the Provoke skill, attracting the attention of the two Swift Elder Willows towards himself. His determined face revealed excessive concern for the group's well-being. This impulsive initiative, however, quickly placed us in a critical situation. Sensing the danger, I exclaimed, "We need to help Drakon! He's going to end up putting himself at risk. Heal him, Kaelyn!" Now, due to Drakon's mistake, Kaelyn has had to change the casting of her spell."
 
 While Kaelyn switched her spell to a desperate healing, Noctis, on his turn, used his dagger to attack, and, in a deft move, applied his poison to the most injured Swift Elder Willow, dealing significant continuous damage. Drakon firmly withstood the combined attacks of the two monsters, and, although he had good resistance, the impact of the consecutive blows weakened him visibly. He couldn't keep up this pace for long. I took advantage of an opening and activated Mammonite once again, hitting the monster with 147 direct damage. This was followed by the impact of Elarius's conjured Spear of Fire. Kaelyn's healing finally reached Drakon, restoring some of his vitality, but it was clear that Drakon's risky choice, driven by his protective responsibility, had placed him in a dangerous situation.
 
-“Drakon, if you don't follow commands, you'll end up dead! We need you alive, it’s crucial for us to defeat these two monsters!” I spoke firmly, hoping to bring his focus back to the plan. Drakon looked up, and for an instant determination flashed across his face; My words seemed to have rekindled hope in him.
+“Drakon, We need you alive, it’s crucial for us to defeat these two monsters!” I spoke firmly, hoping to bring his focus back to the plan. Drakon looked up, and for an instant determination flashed across his face; My words seemed to have rekindled hope in him.
 
-I took responsibility for the next attack. “Now it’s my turn to pull aggro!” I shouted towards the injured monster, drawing it towards me. “Drakon, use your strongest attack!” While taking the impact of the blow, Drakon concentrated his power and launched an attack with his Bash skill, consuming a good amount of mana. The blow was destructive, leaving the monster stunned and causing a huge impact. Then, Elarius's Fire Spear spell hit the monster, considerably reducing its vitality.
+I took responsibility for the next attack. “Now it’s my turn to pull aggro!” I shouted towards the injured monster, drawing it towards me. “Now it's time to use everything we have in power and attack” While taking the impact of the blow, Drakon concentrated his power and launched an attack with his Bash skill, consuming a good amount of mana. The blow was destructive, leaving the monster stunned and making a huge impact. Then, Elarius's Fire Spear spell hit the monster, considerably reducing its vitality.
 
 Drakon, after receiving yet another attack from the second monster, was visibly worried. “We need to get this over with quickly; I’m not going to last much longer like this,” he confessed, his voice cracked with pain. Kaelyn, without hesitation, cast a cure that restored some of her energy, raising her hope. However, he was still only at 180 HP, clearly unable to withstand much more. As for me, my HP was now at 297 after the last hit; I could still resist for a few more moments.
 
-I reinforced the instructions to the group, but then Drakon interrupted me. “I'm going to use a risky hSkill... but if it works, we'll finish off the injured monster faster. I will use Magnum Break.” I knew that this skill was not only powerful, but it consumed both HP and MP, making it an even greater risk. I nodded, aware of the risk. While absorbing yet another blow from the injured Swift Elder Willow, I activated Mammonite, dealing an additional impact. I then retreated, allowing Drakon to prepare for the next attack.
+“I'm going to use a risky hSkill... but if it works, we'll finish off the injured monster faster. I will use Magnum Break.” said Drakon, Knowing that this skill was not only powerful, but consumed both HP and MP, making it an even greater risk. I nodded, aware of the risk. While absorbing yet another blow from the injured Swift Elder Willow, I activated Mammonite, dealing an additional impact. I then retreated, allowing Drakon to prepare for the next attack.
 
-A golden aura began to emerge from Drakon, glowing around his body. Noctis, surprised, muttered, "That aura..." before Drakon stepped forward. With both hands firmly gripping his sword, he channeled all his strength into a concentrated strike. As his blade touched the ground, a shockwave pulsed through the ground, cracking the ground and kicking up a cloud of dust. The energy from the strike exploded like a destructive wave, shaking everything around. The air vibrated with the powerful sound of the attack, and we all went wide-eyed as Noctis exclaimed, "He just performed a Critical Hit!" The damage the monster received was 1084.
+A golden aura began to emerge from Drakon, glowing around his body. Noctis, surprised, muttered, "That aura..." before Drakon stepped forward. With both hands firmly gripping his sword, he channeled all his strength into a concentrated strike. As his blade touched the ground, a shockwave pulsed through the ground, cracking the ground and kicking up a cloud of dust. The energy from the blow exploded like a destructive wave, shaking everything around. The air vibrated with the powerful sound of the attack, and we all went wide-eyed as Noctis exclaimed, "He just performed a Critical Hit!" The damage the monster received was 1084.
 
 Swift Elder Willow fell, defeated. There was only one left. The strength of the attack was impressive, almost superhuman for a starting class skill. The golden aura surrounding Drakon seemed unusual, almost otherworldly, which left me intrigued. After the blow, Drakon suffered a slight decline in health, due to the cost of his skill, but upon eliminating the monster, he rose to level 20, completely restoring his HP. Relief coursed through the group; we knew that now it would be easier to face the last enemy.
+
+
+
 
 
 ----------------------------
