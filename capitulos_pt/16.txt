@@ -39,7 +39,15 @@ Eu sorri internamente. Esse era o primeiro passo. Em breve, Drakon entenderia a 
 
 Se pudesse voltar no tempo, teria me unido a um grupo desde o início, ao invés de me deixar levar pela arrogância de achar que era superior a todos. Nesse novo mundo, percebo que a diplomacia é essencial, e a ideia de ser um aventureiro solo agora me parece uma completa tolice.
 
-Ao final dessa conversa, enquanto nos aproximávamos da fronteira da zona 10, Drakon finalmente pareceu aceitar minha proposta. Seguimos então em direção ao acampamento, cada um com seus pensamentos, mas, ao menos, com um senso de propósito renovado.
+-----
+
+Quase chegando ao acampamento, resolvi verificar meu inventário para ver quais itens havia obtido desde o início da expedição. Era inegável que eu havia ganhado bastante experiência e, agora que contava com o apoio desse grupo, vislumbrava um potencial ainda maior para nossas aventuras futuras. Com uma estratégia bem coordenada, poderíamos enfrentar monstros mais fortes, com chances de conseguir itens raros e de maior valor.
+
+Entre os itens, encontrei mais um pergaminho da habilidade Fire Bolt. Como havia pensado antes, ao me tornar alquimista, habilidades comuns da classe era de maioria para uma estratégia mais defensiva e de controle. Esses pergaminhos poderiam ser úteis se eu precisasse de uma alternativa ofensiva, mas fazia tempo que não os considerava seriamente. Talvez fosse interessante descobrir onde conseguir mais desses pergaminhos; poderiam ser uma peça-chave para emboscar certos inimigos.
+
+No entanto, o item mais impressionante que encontrei foi a Elder Willow Card. Desde que cheguei a este mundo, ainda não havia me deparado com cartas. Sabia apenas, pelo jogo, que poderiam ser equipadas nos itens para conceder atributos adicionais ou até mesmo efeitos ativos ou passivos. Com essa dúvida na cabeça, me virei para os meus companheiros e perguntei: "Ei, estou com uma dúvida. Se eu tiver uma carta e quiser equipá-la em algum equipamento, como devo fazer?"
+
+Elarius imediatamente me lançou um olhar animado, quase impaciente para responder, como alguém que finalmente tem a chance de falar sobre seu assunto favorito. "Ah, se quer saber sobre cartas, veio falar com a pessoa certa!" — respondeu ele, com um brilho de entusiasmo e uma ponta de ganância nos olhos. Era claro que, para ele, o mundo das cartas era um território de possibilidades e ganhos.
 
 
 
@@ -117,7 +125,9 @@ Muco Pegajoso: 5
 Maca: 1
 Avelã: 5
 Felpa: 3
-Skill Fire Bolt Level 3 : 2 new
+Skill Fire Bolt Level 3 : 3 - new
+Galho Antigo: 1 - new
+Elder Willow Card: 1 - new
 
 Equipment:
 Mace [3] : 2

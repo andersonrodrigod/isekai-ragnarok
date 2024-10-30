@@ -70,7 +70,7 @@ def main():
         "nivel_classe": 12
     }
 
-    capitulo_atual = 14
+    capitulo_atual = 16
     adicionar_capitulo(dados, capitulo_atual, novos_atributos)
     salvar_dados(arquivo, dados)
 

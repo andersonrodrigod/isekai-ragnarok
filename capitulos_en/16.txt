@@ -71,6 +71,7 @@ Fluff: 3
 Skill Level 3 Fire Bolt: 2
 Elder Willow Card: 1 - new
 Elder Branch: 1 - new
+Elder Willow Card: 1 - new
 
 
 Equipment:
